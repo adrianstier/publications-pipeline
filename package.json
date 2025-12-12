@@ -5,10 +5,10 @@
   "scripts": {
     "extract": "node scripts/extract-pdfs.cjs",
     "extract:force": "node scripts/extract-pdfs.cjs --force",
-    "generate": "node scripts/generate-ai-news.cjs",
-    "generate:dry": "node scripts/generate-ai-news.cjs --dry-run",
-    "generate:force": "node scripts/generate-ai-news.cjs --force",
-    "generate:resume": "node scripts/generate-ai-news.cjs --resume",
+    "generate": "node scripts/generate-quality-news.cjs",
+    "generate:preview": "node scripts/generate-quality-news.cjs --preview",
+    "generate:ai": "node scripts/generate-ai-news.cjs",
+    "generate:ai:dry": "node scripts/generate-ai-news.cjs --dry-run",
     "generate:simple": "node scripts/generate-comprehensive-posts.cjs",
     "pipeline": "npm run extract && npm run generate"
   },
