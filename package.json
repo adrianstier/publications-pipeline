@@ -1,0 +1,22 @@
+{
+  "name": "publications-pipeline",
+  "version": "1.0.0",
+  "description": "Pipeline for extracting PDF content and generating AI news articles from scientific publications",
+  "scripts": {
+    "extract": "node scripts/extract-pdfs.cjs",
+    "extract:force": "node scripts/extract-pdfs.cjs --force",
+    "generate": "node scripts/generate-ai-news.cjs",
+    "generate:dry": "node scripts/generate-ai-news.cjs --dry-run",
+    "generate:force": "node scripts/generate-ai-news.cjs --force",
+    "generate:resume": "node scripts/generate-ai-news.cjs --resume",
+    "generate:simple": "node scripts/generate-comprehensive-posts.cjs",
+    "pipeline": "npm run extract && npm run generate"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {},
+  "keywords": ["publications", "pdf", "extraction", "ai", "claude", "news", "science-communication"],
+  "author": "Ocean Recoveries Lab",
+  "license": "MIT"
+}
