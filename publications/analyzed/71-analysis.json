@@ -7,36 +7,71 @@
   "doi": "10.1007/s00338-010-0663-9",
   "doiUrl": "https://doi.org/10.1007/s00338-010-0663-9",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T15:39:40.435Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 4,
   "analysis": {
-    "summary": "Guard crabs mitigate the negative effects of vermetid snails on coral growth. This demonstrates that guard crabs provide multiple services to their coral hosts beyond predator defense—they're multi-purpose mutualists.",
-
-    "keyQuestion": "Can guard crabs protect corals from the negative effects of vermetid snails?",
-
-    "approach": "Researchers conducted a factorial field experiment manipulating both guard crab presence and vermetid snail presence on Pocillopora corals to test whether crabs could alleviate vermetid-induced stress.",
-
+    "summary": "Researchers found that small crabs living on coral reefs act as bodyguards, protecting their coral hosts from harmful mucus-producing snails that can reduce coral growth by 50%. The crabs completely eliminated the negative effects of the snails on coral growth.",
+    "keyQuestion": "Do guard crabs protect corals from the harmful effects of vermetid snails that produce mucus nets?",
+    "approach": "They conducted a 40-day field experiment in French Polynesia, manipulating the presence/absence of both vermetid snails and guard crabs on coral colonies to test their separate and combined effects on coral growth.",
     "keyFindings": [
-      "Vermetid snails reduced coral growth",
-      "Guard crabs ameliorated the negative effects of vermetids",
-      "Corals with both crabs and vermetids grew better than those with only vermetids",
-      "Guard crabs provide multiple protective services beyond predator defense"
+      "Guard crabs completely eliminated the harmful effects of vermetid snails on coral growth",
+      "Without guard crabs, vermetids reduced coral growth rates by 50%",
+      "Guard crabs increased coral growth by 100% when vermetids were present",
+      "Guard crabs had no effect on coral growth when vermetids were absent"
     ],
-
-    "stickyFact": "Guard crabs are multi-purpose coral protectors—defending against starfish predators and now countering snail damage too.",
-
-    "whyItMatters": "Corals face multiple simultaneous stressors. Understanding that single mutualist species can provide multiple services helps predict how losing these partners cascades through reef ecosystems.",
-
+    "stickyFact": "Guard crabs increased coral growth by 100% in the presence of vermetids",
+    "whyItMatters": "This research reveals that tiny crabs may be crucial for coral reef resilience, especially as vermetid snail populations appear to be increasing. The findings suggest that protecting these crab-coral partnerships could help preserve critical reef habitat for fish and other marine life.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Trapezia serenei (guard crab)", "Dendropoma maximum (vermetid snail)", "Pocillopora coral"],
-
-    "themes": ["Coral", "Mutualisms"],
-
-    "newsHeadline": "The Guard Crab: A Multi-Tool for Coral Survival",
-
-    "essay": "Seabird McKeon, Craig Osenberg, Jeff Shima, and I tested whether guard crabs could protect corals from vermetid snail damage. We already knew guard crabs defend corals from crown-of-thorns starfish. The question was whether their services extended to countering another threat.\n\nWe set up a factorial experiment on Pocillopora colonies, manipulating both guard crab presence and vermetid presence. Vermetids reduced coral growth, confirming their negative effects. But corals with both vermetids and guard crabs grew better than corals with vermetids alone—the crabs were somehow offsetting the snail damage.\n\nThe mechanism isn't certain. Guard crabs might physically dislodge mucus nets during their constant movement. They might create water currents that wash settling mucus away. Their territorial behavior might incidentally harass vermetids. Whatever the process, the functional outcome was clear.\n\nGuard crabs aren't single-purpose defenders. They provide multiple services whose value compounds across threat types. A coral losing its guard crabs loses protection from starfish and from vermetid damage. As reefs degrade and crab populations decline, remaining corals face mounting threats without their multi-service mutualist partners."
+    "species": [
+      "Pocillopora coral",
+      "Trapezia serenei guard crabs",
+      "Dendropoma maximum vermetid snails"
+    ],
+    "themes": [
+      "symbiosis",
+      "coral protection",
+      "reef ecology"
+    ],
+    "newsHeadline": "Tiny Bodyguard Crabs Save Coral Reefs from Slimy Attackers",
+    "essay": "When researchers transplanted coral colonies onto patch reefs in Moorea's lagoon, they discovered something remarkable: tiny guard crabs were completely protecting their coral hosts from a slimy threat. In their 40-day experiment, corals with their crab bodyguards thrived even when surrounded by mucus-producing vermetid snails, while those without crabs suffered dramatic growth reductions.\n\nThe researchers wanted to know whether guard crabs could protect corals from more than just crown-of-thorns seastar attacks and sedimentation—specifically, whether they could defend against vermetid snails. These sessile snails extrude mucous nets for feeding, and previous work had shown they can devastate coral growth. The team collected 40 coral colonies, removed crabs from half of them, and placed pairs of corals (one with crabs, one without) on 20 patch reefs. On half the reefs, they removed all vermetids; on the others, they left them alone.\n\nThe results were striking. Without guard crabs, vermetids reduced coral growth rates by 50%—similar to what had been observed in earlier studies. But when guard crabs were present, vermetids had no demonstrable effect on coral growth. The crabs completely ameliorated the deleterious effects. In fact, guard crabs increased coral growth by 100% when vermetids were present, while having no effect when vermetids were absent.\n\nThe crabs completely neutralized the threat. The researchers don't think the crabs were attacking the snails directly—their surveys found equivalent vermetid densities at the start and end of the experiment, and they never observed crabs leaving their coral colonies to interact with snails. The mechanism remains unclear, though they speculate the crabs might consume vermetid mucus, dislodge it during their movements, or actively remove it through housekeeping behaviors.\n\nThis matters because Pocillopora provides critical habitat throughout the eastern Pacific, and vermetid populations may be increasing in Moorea. Previous projections of coral dynamics didn't account for guard crabs because those studies used small coral fragments that couldn't support adult crabs. If crabs can effectively protect corals from vermetids, they may preserve not just the corals themselves but entire communities of fish and invertebrates that depend on them.\n\nThe interactions are complex. Recent work suggests some guard crab species actually increase fish mortality through competition, and those fish normally boost coral growth through oxygenation or nitrogen excretion. Understanding these multispecies interactions will be important for predicting how reefs respond to environmental change."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabrications related to writing in first person as if by a study author and adding emotional reactions/personal reflections not found in the paper. The scientific facts and numbers appear accurate, but the narrative voice is fabricated.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When my colleagues Chris McKeon, Craig Osenberg, Jeff Shima, and I transplanted coral colonies onto patch reefs in Moorea's lagoon",
+        "problem": "The article is written in first person as if by one of the study authors, but there's no indication this is actually written by any of the paper authors",
+        "paperSays": "The paper is authored by A. C. Stier, C. S. McKeon, C. W. Osenberg, J. S. Shima but the article doesn't identify which author is supposedly writing",
+        "suggestedFix": "Write in third person: 'When researchers transplanted coral colonies...'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "exactly what we'd seen in earlier studies",
+        "problem": "The paper doesn't say this 50% reduction was 'exactly' what they'd seen before - it says it was 'similar magnitude'",
+        "paperSays": "vermetids reduced the daily growth rates of Pocillopora by 50% (Fig.1), which was a similar magnitude as observed by Shima et al. (2010)",
+        "suggestedFix": "Change to 'similar to what had been observed in earlier studies'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "What surprised us most was how completely the crabs neutralized the threat",
+        "problem": "The paper doesn't express surprise or describe the authors' emotional reactions",
+        "paperSays": "The paper presents results objectively without describing authors' surprise",
+        "suggestedFix": "Remove emotional language: 'The crabs completely neutralized the threat'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "Yet we've only scratched the surface of these complex interactions",
+        "problem": "This metaphorical language and personal reflection doesn't appear in the paper",
+        "paperSays": "The paper discusses future research needs but doesn't use this phrasing",
+        "suggestedFix": "Use more direct language about future research needs"
+      }
+    ]
   }
 }

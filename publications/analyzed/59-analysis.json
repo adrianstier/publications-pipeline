@@ -7,36 +7,76 @@
   "doi": "10.2984/67.4.4",
   "doiUrl": "https://doi.org/10.2984/67.4.4",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T13:58:46.084Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 7,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "An exceptional settlement event brought convict surgeonfish recruits at far above normal densities, but most died within weeks due to intense density-dependent mortality. Despite the exceptional larval input, final recruitment to the population was not proportionally exceptional.",
-
-    "keyQuestion": "What happens to reef fish populations when settlement is extraordinarily high?",
-
-    "approach": "Researchers documented an exceptional settlement event for convict surgeonfish in Moorea and tracked subsequent mortality to quantify the relationship between initial density and survival.",
-
+    "summary": "Marine biologists documented two rare mass die-off events of surgeonfish in French Polynesia following exceptional recruitment pulses, where hundreds of newly settled fish developed white lesions and died, suggesting disease rather than predation as the cause of mortality.",
+    "keyQuestion": "What causes the high mortality that typically follows episodic settlement events in reef fishes, and could disease play a larger role than previously recognized?",
+    "approach": "Researchers analyzed 5 years of biannual fish surveys at 26 sites around Moorea to identify exceptional recruitment events, then documented and photographed the symptoms and mortality patterns during two settlement pulses of striped bristletooth surgeonfish in 2006 and 2009.",
     "keyFindings": [
-      "An exceptional settlement event brought surgeonfish recruits at far above normal densities",
-      "Mortality following settlement was extremely high—most recruits died within weeks",
-      "Intense density-dependent mortality reduced the cohort dramatically",
-      "Despite exceptional larval input, final recruitment was not proportionally exceptional"
+      "Recruit densities were more than six times higher during the 2006 and 2009 settlement events compared to average densities of about 3 recruits per 50 square meters",
+      "Hundreds of newly settled surgeonfish were found dead or dying, with visible symptoms including large white lesions particularly near the tail, decreased swimming ability, and tattered fins",
+      "Predators were not observed immediately consuming dead or dying individuals - they may have been satiated or may have avoided diseased prey",
+      "Both mass mortality events coincided with increased biomass of toxic cyanobacteria Lyngbya majuscula in the lagoon"
     ],
-
-    "stickyFact": "A bumper crop of baby surgeonfish settled on the reef—and then most of them died, showing that more arrivals doesn't always mean more survivors.",
-
-    "whyItMatters": "Reef fish populations are often considered recruitment-limited, with adult numbers depending on how many larvae arrive. This study shows that extreme settlement can trigger intense density-dependent mortality that erases much of the advantage, suggesting populations may be more buffered against larval supply variability than simple models predict.",
-
+    "stickyFact": "Recruit densities were more than six times higher in February 2006 and 2009 compared to average recruitment periods, followed by hundreds of diseased fish with white lesions lying dead on the lagoon floor.",
+    "whyItMatters": "This research challenges the assumption that predation is the primary cause of mortality following fish recruitment events, suggesting that disease outbreaks may be an underappreciated but important population control mechanism that could affect reef fish community structure and recovery.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Convict surgeonfish (Acanthurus triostegus)"],
-
-    "themes": ["Coral"],
-
-    "newsHeadline": "When Baby Boom Becomes Baby Bust on Coral Reefs",
-
-    "essay": "Joshua Idjadi, Shane Geange, Jada-Simone White, and I documented an exceptional settlement event for convict surgeonfish in Moorea—the largest anyone at the research station had seen. Surgeonfish carpeted the reef in densities far beyond normal, suggesting this cohort might dominate fish communities for years.\n\nWithin weeks, most were dead. We tracked mortality as the massive settlement event collapsed. Predators picked off settlers at high rates—so many vulnerable fish concentrated in one place made hunting efficient. Competition for food intensified as settlers stripped algae from the reef surface. Fish crowded into hiding spots meant for fewer individuals. The mathematics of too many fish competing for too little space took its toll.\n\nBy the time the mortality wave passed, the exceptional settlement had produced roughly average recruitment to the population. The surplus had vanished through density-dependent mortality.\n\nThis demonstrates how density dependence acts as a buffer. When settlers arrive at typical densities, per-capita survival is reasonable. When densities soar, resources become limiting, predators concentrate their efforts, and per-capita survival plummets. The population mechanism erases exceptional inputs through exceptional mortality.\n\nThe implications matter for reef fish population management. Simple models suggest more larvae arriving should mean more adults growing up. But if density-dependent mortality compensates strongly, extra recruits just die at higher rates. The population ceiling may be set by carrying capacity rather than larval supply. Enhancing larval production may produce diminishing returns if the reef cannot support the additional fish."
+    "species": "Striped bristletooth surgeonfish (Ctenochaetus striatus)",
+    "themes": [
+      "marine ecology",
+      "fish population dynamics",
+      "disease ecology",
+      "coral reef ecosystems"
+    ],
+    "newsHeadline": "Mystery Disease Kills Hundreds of Fish After Rare Ocean 'Baby Boom' in French Polynesia",
+    "essay": "In February 2006, my colleagues Joshua Idjadi, Shane Geange, Jada-Simone White, and I witnessed something extraordinary in the lagoons of Moorea: striped bristletooth surgeonfish had arrived as juveniles in what we call an episodic settlement event. But within days, hundreds of these fish were lying dead on the sandy bottom, their bodies marked by distinctive white lesions.\n\nWe had been tracking fish populations around this French Polynesian island for years, conducting biannual surveys at 26 sites using visual transects to estimate fish abundance and size. Our question was simple: what happens to reef fish communities during these rare recruitment bonanzas? We knew that high mortality typically follows such events, but the conventional wisdom blamed predation. What we saw in 2006, and again in 2009, made us question that assumption.\n\nOur data showed recruit densities were more than six times higher during these February events compared to our typical counts of about 3 recruits per 50 square meters. But the aftermath was unlike anything described in the literature. Instead of finding evidence of predation, we documented fish lying dead or dying with large white lesions, particularly near their tails, along with decreased swimming ability and tattered fins. Most telling was what we didn't see: predators weren't immediately consuming the dead and dying fish, suggesting they may have been satiated or avoiding diseased prey.\n\nWhat surprised us most was the apparent selectivity of whatever was killing these fish. Only the surgeonfish showed symptoms, despite the lagoon being full of other species that should have been equally vulnerable to predators or environmental stressors. The mechanism remained completely unclear to us. We noticed that both die-off events coincided with blooms of Lyngbya majuscula, a toxic cyanobacteria known to cause surgeonfish toxicity in Hawaii, but we had no way to test whether this was the culprit or mere coincidence.\n\nOur observations matter because they challenge a fundamental assumption about reef fish population dynamics. If disease outbreaks, rather than predation, drive mortality during recruitment pulses, it could completely change how we think about population bottlenecks and community structure on coral reefs. The timing wasn't random—these events happened when fish densities were at their highest, exactly when you'd expect disease transmission to be most efficient.\n\nThe capricious nature of these events left us with more questions than answers. We couldn't predict when they would occur, couldn't sample tissues for pathogen analysis, and couldn't rule out toxic effects from the cyanobacteria blooms. We need controlled studies to determine whether pathogens actually cause these die-offs, whether certain environmental conditions trigger outbreaks, and how frequently disease shapes reef fish populations in ways we've simply never recognized. Until then, every assumption about what controls fish communities remains open to question."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several invented details that make the observations sound more dramatic or conclusive than what was actually reported in the paper. While most facts are accurate, there are embellishments around quantities, behaviors, and interpretations that go beyond what the researchers documented.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "thousands of striped bristletooth surgeonfish had arrived as juveniles",
+        "problem": "The paper doesn't specify 'thousands' - it only says they observed 'hundreds of apparently diseased fish lying dead or dying'",
+        "paperSays": "we observed hundreds of apparently diseased fish lying dead or dying on the lagoon floor",
+        "suggestedFix": "Remove 'thousands' and stick to what was observed: hundreds of dead/dying fish"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "conducting biannual surveys at 26 sites using visual transects to count and measure every fish we encountered",
+        "problem": "The paper doesn't say they counted 'every fish' - it says they estimated abundance of 'all fishes' but this is different from counting every individual",
+        "paperSays": "observers conducted three 20 m × 2 m transects to visually estimate the abundance and size of all fishes at each of the sites",
+        "suggestedFix": "Change to 'conducting visual surveys to estimate fish abundance and size'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "hundreds of fish with large white lesions, particularly near their tails, along with decreased swimming ability and tattered fins",
+        "problem": "While the paper mentions these symptoms, it doesn't quantify 'hundreds' of fish with these symptoms - only that hundreds were found dead/dying",
+        "paperSays": "Visible symptoms of the apparent infection and poor condition included large white lesions on the body and particularly anterior to the caudal peduncle, decreased swimming ability, and tattered fins",
+        "suggestedFix": "Remove quantification and just describe the symptoms observed"
+      },
+      {
+        "type": "invented_detail",
+        "location": "keyFindings",
+        "claim": "Dead and dying fish were not immediately consumed by predators, suggesting predators either avoided diseased fish or were satiated",
+        "problem": "The paper presents both explanations as possibilities but doesn't suggest one or the other - the article makes it sound more conclusive",
+        "paperSays": "It is interesting that we did not observe predators immediately consuming dead or dying individuals. Predators may have been satiated, or alternatively may have avoided prey due to their poor condition.",
+        "suggestedFix": "Present both possibilities equally: 'Predators may have been satiated or may have avoided diseased prey'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "stickyFact",
+        "claim": "hundreds of diseased fish with white lesions washing up dead on the lagoon floor",
+        "problem": "The paper doesn't say fish 'washed up' - it says they were 'lying dead or dying on the lagoon floor'",
+        "paperSays": "we observed hundreds of apparently diseased fish lying dead or dying on the lagoon floor",
+        "suggestedFix": "Change to 'lying dead on the lagoon floor' without 'washing up'"
+      }
+    ]
   }
 }

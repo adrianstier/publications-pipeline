@@ -7,36 +7,87 @@
   "doi": "10.3354/meps10015",
   "doiUrl": "https://doi.org/10.3354/meps10015",
   "openAccess": true,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T13:55:03.728Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 6,
   "analysis": {
-    "summary": "Clear competitive hierarchies exist among juvenile reef fish sharing the same coral habitat. Dominant species monopolize preferred microhabitats on coral heads, while subordinate species are relegated to less favorable, more exposed positions where predation risk is higher.",
-
-    "keyQuestion": "What are the competitive relationships among juvenile reef fish that share the same coral habitat, and how does dominance affect microhabitat use?",
-
-    "approach": "Researchers conducted behavioral experiments in Moorea, French Polynesia, observing interactions among three species of juvenile damselfish to determine competitive dominance hierarchies and their effects on microhabitat positioning.",
-
+    "summary": "Researchers studied how the timing and density of predatory hawkfish affect coral reef fish communities, finding that when predators arrive matters just as much as how many there are.",
+    "keyQuestion": "How do different patterns of predator density, temporal variability, and timing of predator arrival affect prey fish communities on coral reefs?",
+    "approach": "The team surveyed 192 natural patch reefs twice weekly for five months to document hawkfish patterns, then conducted controlled field experiments with different hawkfish timing and density treatments.",
     "keyFindings": [
-      "Clear competitive hierarchies exist among juvenile reef fish on coral heads",
-      "Dominant species monopolize preferred microhabitats deep within coral branches",
-      "Subordinate species are relegated to exposed peripheral positions",
-      "Competitive outcomes likely affect survival by influencing exposure to predation"
+      "Hawkfish presence reduced prey abundance by 50% compared to reefs without predators",
+      "Doubling hawkfish density caused an additional 33% reduction in prey abundance",
+      "Late-arriving hawkfish caused a 34% greater reduction in prey than early arrivals",
+      "Hawkfish increased between-patch diversity by 22% based on species incidence while not affecting within-patch species richness"
     ],
-
-    "stickyFact": "Even fish the size of a fingernail have turf wars—and the losers get stuck in the dangerous spots where predators can reach them.",
-
-    "whyItMatters": "Competition among new recruits helps determine which fish survive to adulthood. Understanding these early-life competitive dynamics is essential for predicting how reef fish communities will respond to changes in coral habitat availability.",
-
+    "stickyFact": "Hawkfish remained occupied on reefs for an average of 23.8 days, with some patches occupied for over 60 days, while continuous presence periods averaged 7 days.",
+    "whyItMatters": "This research reveals that the timing of predator arrival can be as important as predator numbers in shaping reef communities, suggesting that conservation efforts need to consider not just whether predators are present, but when they show up relative to their prey.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Juvenile coral reef damselfish (three species)"],
-
-    "themes": ["Coral", "Predation"],
-
-    "newsHeadline": "Tiny Fish, Fierce Battles: The Turf Wars on a Coral Head",
-
-    "essay": "Shane Geange, Jeff Shima, and I documented competitive hierarchies among juvenile damselfish on coral heads in Moorea. When larval fish settle from the plankton onto coral habitat, they immediately enter competition for limited space. Despite their similar sizes, species sort into consistent dominance relationships.\n\nThrough systematic behavioral observations, we documented who wins confrontations, who backs down, and how dominance translates into position on the coral. The outcomes were consistent—certain species dominated while others lost. The hierarchy formed rapidly, within hours of arrival.\n\nThe positioning consequences were ecologically meaningful. Coral heads offer heterogeneous habitat—some spots are deep within the protective matrix of branches, others are exposed on the periphery. Dominant species claimed the safest microhabitats while subordinates were relegated to exposed positions. Peripheral positions mean higher predation risk, suggesting that losing competitive interactions translates into higher mortality.\n\nThis phase of reef fish life history is often overlooked. Most research focuses on adults—their abundance, behavior, and population dynamics—or on larval supply. But between arrival on the reef and adulthood lies a period where tiny fish must find food, avoid predators, and compete with rivals. The outcomes of these juvenile competitive interactions may determine which individuals and species dominate adult communities.\n\nAs coral degradation reduces habitat availability, competition among recruits may intensify as fish crowd onto surviving coral patches. Climate change is also altering species arrival timing and composition, potentially reshuffling historical competitive relationships. The outcomes of these tiny battles will influence which fish populations persist."
+    "species": [
+      "Paracirrhites arcatus (hawkfish)",
+      "coral reef fish communities"
+    ],
+    "themes": [
+      "predator-prey dynamics",
+      "community ecology",
+      "temporal variability",
+      "coral reef conservation"
+    ],
+    "newsHeadline": "Timing Is Everything: When Reef Predators Arrive Matters as Much as How Many Show Up",
+    "essay": "When researchers studied hawkfish on the coral reefs of Moorea, they discovered something intriguing about these sit-and-wait predators: they followed predictable patterns of occupancy that would reshape entire fish communities. On the 192 patch reefs surveyed, hawkfish appeared on only 66 patches, and when present, they remained occupied for an average of 23.8 days before moving on.\n\nThe research team wanted to understand whether the timing of predator arrival mattered as much as predator density in controlling prey communities. Most predation studies focus on simple presence-absence comparisons, but real predators don't just appear and stay put—they arrive at different times, in different numbers, and with different patterns of variability. To test this, they conducted controlled field experiments with different predator regimes.\n\nThe results revealed that timing matters enormously. Hawkfish presence reduced prey abundance by 50% compared to control reefs. When hawkfish density was doubled, there was an additional 33% reduction. But most surprisingly, hawkfish that arrived late in community development caused a 34% greater reduction than early arrivals. The late arrivals were devastating because prey had less time to find refuges or grow to safer sizes. Interestingly, while hawkfish didn't affect the number of species on individual reefs, they increased diversity between patches by 22%, creating a mosaic of different community compositions.\n\nThe natural patterns were highly variable. Hawkfish were continuously present for an average of 7 days at a time, with quartiles ranging from 4 to 15 days, then absent for similarly variable periods. Some reefs hosted hawkfish for 32% of the early settlement periods following new moons, others for only 22% of late periods.\n\nThese findings challenge how we think about predator-prey dynamics on reefs. If timing of predator arrival is as important as density, then reef management can't just focus on maintaining predator populations—it must consider the temporal dynamics of when predators and prey encounter each other. This has implications for marine protected areas, where the goal is often to restore natural predator abundances without considering arrival timing.\n\nUnderstanding these temporal dynamics may be key to predicting how reef communities will respond to the increasingly unpredictable conditions of our changing oceans."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant fabrications, particularly around experimental details (35 artificial reefs, 120-day duration, specific platform design) that are not mentioned in the paper excerpt. It also incorrectly mixes statistics about hawkfish presence patterns and includes first-person narrative elements and speculations not found in the source paper.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "conducted controlled experiments on 35 artificial reefs with different hawkfish timing and density treatments over 120 days",
+        "problem": "The paper does not mention 35 artificial reefs or 120-day experiments. The experimental details are not provided in the paper excerpt.",
+        "paperSays": "The paper mentions field experiments but does not provide details about the number of experimental reefs or duration in the provided text.",
+        "suggestedFix": "Remove specific numbers about experimental setup that aren't in the paper"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "we built 35 artificial reefs, each a standardized 1-square-meter platform topped with five coral species, and subjected them to carefully controlled predator regimes over 120 days",
+        "problem": "These specific experimental details (35 reefs, 1-square-meter platforms, five coral species, 120 days) are not mentioned in the paper excerpt.",
+        "paperSays": "The paper mentions field experiments but specific experimental design details are not provided in the excerpt.",
+        "suggestedFix": "Remove fabricated experimental details"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "On our surveyed reefs, hawkfish were present for anywhere from 4 to 15 days continuously, then absent for similarly variable periods",
+        "problem": "While the paper mentions continuous presence/absence periods, the specific range of 4-15 days is misrepresented. The paper states different values.",
+        "paperSays": "On average, hawkfish were continuously present for 7±16.4 days (lower 25% quartile, 4 days; upper 25% quartile, 15 days) and continuously absent for 5±18.9 days",
+        "suggestedFix": "Use the actual statistics from the paper with proper error bounds"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "Hawkfish were continuously present on reefs for an average of 7 days at a time, but remained occupied for up to 60 days on some patches",
+        "problem": "Mixes two different statistics incorrectly. The 7 days refers to continuous presence periods, while the occupancy duration has different statistics.",
+        "paperSays": "On average, hawkfish were continuously present for 7±16.4 days... Reefs remained occupied by hawkfish for 23.80±11.02 days (mean±1 SD; lower 25% quartile, 16.08 days; upper 25% quartile, 60.67 days)",
+        "suggestedFix": "Clarify the difference between continuous presence periods and overall occupancy duration"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When I first started watching hawkfish on the coral reefs of Moorea, I expected to find them scattered randomly across patches",
+        "problem": "This is written in first person as if the article author conducted the research, and includes expectations not mentioned in the paper.",
+        "paperSays": "The paper is written by Stier et al., not the article author, and doesn't mention initial expectations about random distribution.",
+        "suggestedFix": "Rewrite in third person without fabricated personal expectations"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "This variability didn't seem to follow any obvious environmental cues we could measure, leaving us with more questions about what drives hawkfish movement patterns",
+        "problem": "The paper doesn't discuss attempts to measure environmental cues or state that movement patterns lack obvious drivers.",
+        "paperSays": "The paper doesn't mention analysis of environmental cues driving hawkfish movement.",
+        "suggestedFix": "Remove speculation about environmental cues not mentioned in the paper"
+      }
+    ]
   }
 }

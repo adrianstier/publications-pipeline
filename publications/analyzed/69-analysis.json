@@ -1,42 +1,128 @@
 {
   "publicationId": "69",
-  "title": "The vermetid gastropod Dendropoma maximum reduces coral growth and survival",
+  "title": "The vermetid gastropod <i>Dendropoma maximum</i> reduces coral growth and survival",
   "authors": "Shima, Jeffrey S.; Osenberg, Craig W.; Stier, Adrian C.",
   "year": 2010,
   "journal": "Biology Letters",
   "doi": "10.1098/rsbl.2010.0291",
   "doiUrl": "https://doi.org/10.1098/rsbl.2010.0291",
   "openAccess": true,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T15:35:56.815Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 10,
   "analysis": {
-    "summary": "Vermetid snails—stationary filter feeders that build tubes on coral surfaces—significantly reduce coral growth and survival. Their sticky mucus nets may smother coral tissue, making them an underappreciated threat to coral health.",
-
-    "keyQuestion": "Do vermetid gastropods negatively affect the growth and survival of their coral hosts?",
-
-    "approach": "Researchers conducted a field experiment removing vermetid snails from coral colonies and comparing growth and survival to colonies with snails present.",
-
+    "summary": "Researchers discovered that a little-studied snail called Dendropoma maximum severely damages reef-building corals, reducing their growth by up to 81% and survival by up to 52%. This overlooked species could be reshaping coral reef communities across the Indo-Pacific.",
+    "keyQuestion": "How do vermetid gastropods (specifically Dendropoma maximum) affect the growth and survival of reef-building corals?",
+    "approach": "The researchers conducted field surveys on 90 coral reefs in Moorea, French Polynesia, documenting the relationship between vermetid presence and coral health. They then performed controlled field experiments, transplanting coral fragments to reefs where they either removed all vermetids or left them at natural densities, measuring coral growth and survival over 7 months.",
     "keyFindings": [
-      "Vermetid snails significantly reduced coral growth rates",
-      "Coral mortality was higher on colonies hosting vermetids",
-      "Mucus nets cast by vermetids likely smother coral tissue",
-      "Vermetids are an underappreciated stressor of coral health"
+      "Vermetids reduced coral skeletal growth by up to 81% and survival by up to 52% across four coral species",
+      "The presence of vermetids was strongly associated with flattened, stunted coral growth forms on natural reefs",
+      "Different coral species showed varying susceptibility to vermetid damage, suggesting these snails could alter coral community composition",
+      "Vermetid densities were positively correlated with dead coral substrate for three of four coral species studied"
     ],
-
-    "stickyFact": "A snail permanently attached to a coral, casting sticky nets for food, can slowly harm or kill its host—one of coral reefs' most insidious threats.",
-
-    "whyItMatters": "Vermetid snails are abundant on many reefs and may be increasing. Recognizing them as coral stressors adds to our understanding of threats reefs face and provides potential targets for localized management.",
-
+    "stickyFact": "Vermetids reduced skeletal growth rates of Pocillopora by 68-81%, P. rus by 62%, P. lobata by 40-62%, and Montipora by 24%.",
+    "whyItMatters": "This research reveals that an overlooked species may be a significant driver of coral reef decline at a time when reefs are already under severe stress from climate change and human activities. The finding that vermetids affect different coral species differently suggests they could be reshaping entire reef communities, potentially making some reefs less diverse or resilient.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Dendropoma maximum (vermetid snail)", "Pocillopora coral"],
-
-    "themes": ["Coral"],
-
-    "newsHeadline": "The Reef's Slow Assassin: A Snail That Smothers Coral to Death",
-
-    "essay": "Jeff Shima, Craig Osenberg, and I documented that vermetid snails—sedentary filter feeders permanently attached to coral skeletons—significantly harm their coral hosts. Despite appearing harmless, these snails reduced coral growth and increased coral mortality.\n\nWe ran an experiment removing vermetids from some colonies while leaving them on others. Corals freed from vermetids grew faster and survived better. What appeared to be a neutral association was actually parasitism.\n\nThe mechanism is likely the mucus nets vermetids cast to trap food particles. These sticky nets settle on coral tissue, potentially smothering polyps, blocking light needed for photosynthesis, and creating conditions for pathogen growth. Individual effects are subtle, but vermetids are often abundant—multiple individuals per colony—and effects compound over time.\n\nVermetids won't make headlines like bleaching events or crown-of-thorns outbreaks. But they're another chronic stressor on corals already facing mounting pressures. On high-value colonies targeted for restoration or genetic preservation, vermetid removal might boost coral performance. Recognizing the threat was the first step."
+    "species": [
+      "Dendropoma maximum",
+      "Porites lobata",
+      "Pocillopora",
+      "Porites rus",
+      "Montipora"
+    ],
+    "themes": [
+      "coral reef ecology",
+      "species interactions",
+      "overlooked species",
+      "coral decline"
+    ],
+    "newsHeadline": "Tiny Snails Are Secretly Devastating Coral Reefs Across the Pacific",
+    "essay": "Researchers studying coral reefs in Moorea's lagoons documented a pattern: some coral colonies appeared healthy and three-dimensional, while others were stunted and flattened. This morphological difference correlated with the presence of small, tube-building snails called vermetids that most reef scientists rarely study.\n\nThe research team investigated whether these gastropods, specifically Dendropoma maximum, harm reef-building corals. The snails are sessile filter-feeders that cast out mucus nets to capture food, and those nets often contact neighboring corals. The researchers surveyed 90 patch reefs to document patterns, then conducted controlled field experiments by transplanting coral fragments to small patch reefs, randomly removing vermetids from half the reefs while leaving them at natural densities on the others.\n\nVermetids reduced skeletal growth rates of Pocillopora by 68-81%, P. rus by 62%, P. lobata by 40-62%, and Montipora by 24%. They also reduced coral survival by up to 52% for three of the four species tested. Averaged across species, vermetids reduced coral skeletal growth by 56% and colony survival by 40%. Field surveys supported the experimental results: vermetid presence was strongly associated with flattened coral morphology, and higher vermetid densities correlated with more dead coral substrate.\n\nThe effects varied considerably among coral species. Montipora maintained 100% survival even with vermetids present, while Pocillopora suffered the most severe growth reductions. This variation suggests that vermetids might reshape reef communities by affecting coral species differently.\n\nThese findings are significant because coral reefs face mounting pressure from climate change, pollution, and other human impacts. The discovery that an abundant but overlooked species causes substantial additional damage highlights the potential importance of poorly studied species to coral dynamics. The differential effects on coral species suggest vermetids could alter coral community composition, potentially affecting reef diversity and resilience."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains extensive fabricated narrative elements, emotional commentary, and speculative discussion that aren't present in the source paper. While the core facts and numbers are accurate, the essay is written as a first-person narrative with invented details about the researchers' thought processes, emotions, and speculation.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we started surveying coral reefs in Moorea's lagoons, my colleagues Craig Osenberg and Adrian Stier and I kept noticing something odd. Some coral colonies looked healthy and three-dimensional, while others appeared stunted and flattened, as if something had been systematically damaging them. The difference was striking once we knew what to look for—and it seemed to correlate with the presence of small, tube-building snails called vermetids that most reef scientists barely notice.",
+        "problem": "This is written as a first-person narrative describing the researchers' thought process and observations in vivid detail, but the paper contains no such narrative or quotes",
+        "paperSays": "The paper simply states the methodology and results without any narrative description of the discovery process",
+        "suggestedFix": "Remove the fabricated first-person narrative and stick to the actual findings described in the paper"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We wanted to know if these overlooked gastropods, specifically Dendropoma maximum, were actually harming reef-building corals.",
+        "problem": "This implies the researchers started with uncertainty about whether vermetids harm corals, but the paper doesn't present this as the motivation",
+        "paperSays": "The paper states they wanted to explore vermetid-coral interactions in more detail and quantify effects, but doesn't frame it as uncertainty about whether harm occurs",
+        "suggestedFix": "Reframe to match the paper's actual research motivation"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Then we waited to see what would happen to coral growth and survival.",
+        "problem": "This casual narrative phrasing isn't in the paper",
+        "paperSays": "The paper describes the experimental timeline factually without narrative elements",
+        "suggestedFix": "State the experimental timeline factually without invented narrative"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The results were more dramatic than we expected.",
+        "problem": "The paper doesn't describe the researchers' expectations or surprise at the results",
+        "paperSays": "The paper presents results without commentary on whether they were expected or unexpected",
+        "suggestedFix": "Remove the fabricated commentary about expectations"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "What surprised us most was how variable the effects were among coral species.",
+        "problem": "The paper doesn't describe researcher surprise or emotions",
+        "paperSays": "The paper simply reports that 'Susceptibility to vermetids varied among coral species'",
+        "suggestedFix": "State the finding factually without invented emotional reactions"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "This variation puzzled us because the mechanisms underlying these vermetid-coral interactions remain unknown.",
+        "problem": "The paper doesn't describe researchers being 'puzzled' or express emotions",
+        "paperSays": "The paper doesn't discuss the researchers' emotional reactions to their findings",
+        "suggestedFix": "Remove fabricated emotional commentary"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We suspect the mucus nets are involved, but we don't understand exactly how they damage corals or why some species are more vulnerable than others.",
+        "problem": "The paper doesn't contain speculation about mucus nets being involved or express uncertainty in first person",
+        "paperSays": "The paper mentions mucus nets factually but doesn't present researcher speculation",
+        "suggestedFix": "Remove fabricated speculation and stick to what the paper states"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "If an abundant but overlooked species like D. maximum is causing this much additional damage, it could help explain some of the coral decline scientists have documented worldwide.",
+        "problem": "The paper doesn't make claims about worldwide coral decline or suggest vermetids explain global patterns",
+        "paperSays": "The paper focuses on the specific study location and doesn't extrapolate to worldwide patterns",
+        "suggestedFix": "Limit claims to what the paper actually concludes about the study location"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "So many questions remain. Are vermetid populations actually increasing as some anecdotal reports suggest? If so, what's driving that increase—coastal pollution, removal of their predators, or something else entirely?",
+        "problem": "The paper contains no discussion of anecdotal reports about increasing vermetid populations",
+        "paperSays": "The paper doesn't mention population trends or anecdotal reports",
+        "suggestedFix": "Remove fabricated references to anecdotal reports"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "And most urgently, can we figure out exactly how these mucus nets damage corals? Until we understand the mechanism, we can't predict where and when these impacts will be most severe, or whether there's anything we can do to help corals defend themselves against these tiny but destructive neighbors.",
+        "problem": "This speculative commentary about future research priorities and management implications isn't in the paper",
+        "paperSays": "The paper doesn't discuss future research priorities or management implications in this detail",
+        "suggestedFix": "Remove fabricated speculation about future research and management needs"
+      }
+    ]
   }
 }

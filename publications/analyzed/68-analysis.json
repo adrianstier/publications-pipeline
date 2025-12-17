@@ -7,36 +7,87 @@
   "doi": "10.1007/s00338-010-0592-7",
   "doiUrl": "https://doi.org/10.1007/s00338-010-0592-7",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T14:45:06.949Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 6,
   "analysis": {
-    "summary": "Predators substantially reduced reef fish recruit abundance and species richness, but predation was non-selective among species. All species were eaten in proportion to their abundance, meaning predation reduces community size without reshaping community composition.",
-
-    "keyQuestion": "Do predators selectively target certain species of reef fish recruits, or do they prey indiscriminately?",
-
-    "approach": "Researchers used predator-exclusion cages to compare recruitment onto protected versus exposed reef patches, then analyzed whether predation was selective among species using rarefaction.",
-
+    "summary": "Researchers in French Polynesia found that predators dramatically reduce both the number and variety of young coral reef fish by eating them indiscriminately soon after they settle on reefs, rather than targeting specific species.",
+    "keyQuestion": "How do predators affect the diversity and abundance of young coral reef fish communities as they settle onto reefs?",
+    "approach": "The team built 21 artificial patch reefs in Moorea's lagoon and randomly assigned them to three treatments: caged reefs that excluded predators, uncaged reefs exposed to predators, and partial cage controls. They monitored fish recruitment over 54 days during the 2008 summer spawning season.",
     "keyFindings": [
-      "Predator access substantially reduced recruit abundance",
-      "Species richness dropped with predator access",
-      "Rarefaction analysis showed predation was non-selective among species",
-      "Predators affected diversity through numerical reduction rather than selective filtering"
+      "Predators reduced recruit abundance by 74% compared to reefs where predators were absent",
+      "Species richness was 42% lower on reefs exposed to predators",
+      "Predators foraged non-selectively among species, affecting all families rather than targeting specific ones",
+      "The reduction in species diversity was caused by fewer total fish rather than selective predation on rare species"
     ],
-
-    "stickyFact": "Predators ate most of the baby fish—but they didn't prefer any particular species. They just ate whoever was there.",
-
-    "whyItMatters": "Understanding whether predators shape community composition (by selective feeding) versus community size (by indiscriminate feeding) is essential for predicting how reefs respond to changes in predator populations.",
-
+    "stickyFact": "Young coral reef fish were 74% less abundant on reefs exposed to predators than on protected ones after just 54 days.",
+    "whyItMatters": "This research reveals that predation can fundamentally alter coral reef fish community structure by indiscriminately reducing fish numbers soon after settlement. Understanding these community-level effects helps explain how predators shape the diversity patterns we see on coral reefs and could inform reef management strategies.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Multiple species of juvenile reef fish", "Reef predators"],
-
-    "themes": ["Coral"],
-
-    "newsHeadline": "Reef Predators Aren't Picky—They Just Eat Everything",
-
-    "essay": "Jennifer Heinlein, Mark Steele, and I tested whether reef predators selectively target certain species of fish recruits. We used cages to exclude predators from some reef patches while leaving others exposed, then compared what survived after several weeks.\n\nPredators dramatically reduced recruit abundance on exposed patches. Species richness also dropped. The question was whether predators were filtering the community—preferentially consuming certain species—or just reducing everyone proportionally.\n\nRarefaction analysis provided the answer. When we standardized for total abundance, community composition was similar between caged and exposed patches. Predators weren't selecting certain species; they were eating prey in proportion to their availability. The species that became rare under predation were the same species that were rare without predation. Common species stayed relatively common.\n\nThis non-selective pattern means predators affect community size without reshaping community structure. If predator effects operate through total mortality rather than selective filtering, then managing diversity requires managing overall predation pressure rather than protecting specific vulnerable species—because all species are equally vulnerable."
+    "species": [
+      "Pocillopora cf. verrucosa (coral)",
+      "Various coral reef fish families including Acanthuridae, Pomacentridae, Gobiidae, Labridae"
+    ],
+    "themes": [
+      "predator-prey interactions",
+      "community ecology",
+      "coral reef fish recruitment",
+      "marine biodiversity"
+    ],
+    "newsHeadline": "Reef Predators Act Like Lawnmowers, Cutting Down Young Fish Indiscriminately",
+    "essay": "A study conducted in Moorea, French Polynesia examined how predators affect young coral reef fish communities during recruitment. Researchers constructed 21 identical patch reefs from live Pocillopora coral heads, each about 30 centimeters in diameter, and placed them on a sandy bottom in Cook's Bay. The reefs were randomly assigned to three treatments: seven received full cages to exclude predators, seven got partial cages as controls, and seven remained completely exposed to predators.\n\nAfter 54 days of monitoring during the 2008 austral summer, the results showed dramatic predator effects. A total of 172 young fish from 20 species and nine families were observed across all treatments. Predators reduced recruit abundance by 74% and species richness by 42% compared to protected reefs. Every fish family experienced losses when predators were present, though the magnitude varied. Acanthuridae, Lethrinidae, and Pomacentridae showed statistically significant reductions, with families like Balistidae, Lethrinidae, and Mullidae experiencing the highest proportional losses (94-100%), while Gobiidae and Labridae had smaller reductions of approximately 30%.\n\nThe key finding was that predators operated non-selectively. Rarefaction analysis revealed that reduced species diversity occurred simply because fewer individual fish meant fewer species could persist on each reef, rather than predators targeting specific species. This indiscriminate predation pattern suggests that predators function more like a general mortality factor than as selective sculptors of community structure.\n\nThese results indicate that predation can alter diversity of reef fish communities by reducing abundance across species soon after settlement, thereby reducing the number of species present on reefs. The study demonstrates the important role of both resident and transient predators in shaping coral reef fish community structure during the critical early recruitment period."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains multiple significant fabrications, particularly in the essay section where dramatic personal narratives, specific species data, and emotional language have been invented. The core scientific findings are accurately reported, but the presentation includes substantial fictional elements not found in the source paper.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we pulled up our data after 54 days of watching artificial reefs in Moorea's crystal-clear lagoon, the numbers stopped us cold.",
+        "problem": "This is a fabricated dramatic scene-setting quote that doesn't appear in the paper. The paper doesn't include any such personal narrative or quotes from researchers.",
+        "paperSays": "The paper is written in standard scientific format without personal narratives or dramatic quotes.",
+        "suggestedFix": "Remove the fabricated quote and stick to factual reporting of the results."
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We'd come to French Polynesia to answer a deceptively simple question",
+        "problem": "This personal narrative about the researchers' motivations is fabricated. The paper doesn't include such personal accounts.",
+        "paperSays": "The paper states the research objective in standard scientific language without personal narrative.",
+        "suggestedFix": "Replace with factual statement about the research objective."
+      },
+      {
+        "type": "fabricated_numbers",
+        "location": "essay",
+        "claim": "gobies and wrasses lost about 30% of their numbers",
+        "problem": "The paper says 'smallest reductions were in the families Gobiidae and Labridae (~30%)' but this refers to proportional reduction, and the tilde (~) indicates approximation, not an exact 'about 30%' figure.",
+        "paperSays": "smallest reductions were in the families Gobiidae and Labridae (~30%)",
+        "suggestedFix": "Use 'approximately 30%' or '~30%' to match the paper's language."
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we surveyed the predators themselves, we found that roving hunters dominated—species like Halichoeres trimaculatus and Rhinecanthus aculeatus made up over 80% of what we observed.",
+        "problem": "This specific information about predator species composition is completely fabricated. The paper mentions predator surveys but doesn't provide these species names or the 80% figure.",
+        "paperSays": "The paper mentions predator surveys were conducted but doesn't provide specific species composition data or percentages.",
+        "suggestedFix": "Remove this fabricated detail entirely or replace with what the paper actually says about predator surveys."
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Our 54-day snapshot raises as many questions as it answers. How do these early losses play out over months or years?",
+        "problem": "These specific research questions and the framing as 'raising questions' are fabricated speculation not found in the paper.",
+        "paperSays": "The paper doesn't include these speculative questions or frame the results this way.",
+        "suggestedFix": "Replace with actual conclusions or limitations mentioned in the paper."
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The young fish we watched disappear represent the next generation of reef communities—understanding what determines their fate feels more urgent than ever.",
+        "problem": "This dramatic conclusion about urgency and 'watching fish disappear' is fabricated emotional language not present in the scientific paper.",
+        "paperSays": "The paper doesn't include emotional language or statements about urgency.",
+        "suggestedFix": "Replace with the actual conclusions stated in the paper about predation effects on reef fish communities."
+      }
+    ]
   }
 }

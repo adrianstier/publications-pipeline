@@ -7,36 +7,95 @@
   "doi": "10.1890/08-0630.1",
   "doiUrl": "https://doi.org/10.1890/08-0630.1",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T15:50:06.573Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 7,
   "analysis": {
-    "summary": "Order of arrival significantly affects competitive outcomes between reef fish species. Early arrivers survive at higher rates while late arrivers face increased aggression from residents and substantially reduced survival.",
-
-    "keyQuestion": "Does the order and timing of arrival affect competitive outcomes between reef fish species?",
-
-    "approach": "Researchers manipulated the sequence and temporal separation of arrival for two competing wrasse species onto experimental patch reefs, tracking survival and aggressive interactions.",
-
+    "summary": "Researchers found that the timing of when young reef fish arrive at a coral reef dramatically affects their chances of survival, with fish that arrive earlier gaining a competitive advantage over later arrivals through increased aggression and territory control.",
+    "keyQuestion": "Does the order and timing of arrival affect how strongly young reef fish compete with each other for habitat and resources?",
+    "approach": "The researchers created experimental patch reefs in French Polynesia and experimentally controlled when young wrasse fish arrived, manipulating both the sequence (who came first) and timing (how much time separated arrivals) to measure survival and aggressive interactions.",
     "keyFindings": [
-      "Both species survived best without competitors",
-      "Simultaneous arrival produced best outcomes when competitors were present",
-      "Survival declined as arrival was delayed relative to competitors",
-      "Resident aggression increased with residency duration"
+      "Both fish species survived best when they had no competitors, but when competitors were present, they did best arriving at the same time",
+      "Survival declined as each species entered progressively later than its competitor, with increased aggression from the earlier-arriving fish",
+      "The competitive advantage was about timing, not species identity - whichever species arrived first gained the advantage",
+      "Even within the same species, earlier arrivals had similar competitive advantages over later arrivals"
     ],
-
-    "stickyFact": "A fish arriving late to a coral reef faces substantially higher mortality as established residents attack relentlessly to defend their territory.",
-
-    "whyItMatters": "Climate change is shifting timing of settlement for marine larvae. Understanding how arrival order affects competition helps predict winners and losers as phenological shifts reshuffle colonization timing.",
-
+    "stickyFact": "Fish survival declined as they arrived progressively later than their competitors, with survival being best when competitors arrived simultaneously rather than at different times.",
+    "whyItMatters": "This research shows that small differences in timing - just days or weeks - can determine which fish survive to adulthood on coral reefs. This has implications for understanding how coral reef communities assemble and how unpredictable ocean currents that deliver baby fish might affect reef diversity.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Thalassoma hardwicke (sixbar wrasse)", "Thalassoma quinquevittatum (fivestripe wrasse)"],
-
-    "themes": ["Coral"],
-
-    "newsHeadline": "The First Fish to the Reef Sets the Rules—And Enforces Them Brutally",
-
-    "essay": "Shane Geange and I tested how arrival order affects competitive outcomes between wrasse species. We varied when fish arrived at patch reefs—simultaneously with competitors, or days earlier or later.\n\nBoth species survived best alone. When competitors were present, simultaneous arrival was next best—neither species had priority advantage. But when one species arrived first, outcomes diverged sharply. Early arrivers survived well. Late arrivers faced intense aggression and died at much higher rates.\n\nResidents became increasingly hostile as their residency lengthened. A fish that had occupied the reef for several days attacked newcomers constantly, chasing them from feeding sites and preventing territory establishment. The aggression emerged from priority alone—being there first and defending that advantage.\n\nClimate change is altering when larvae spawn, develop, and settle. If different species shift their timing differently, historical competitive relationships may dissolve. Species that historically arrived together might become systematically late relative to competitors—facing resident aggression they never evolved to handle."
+    "species": [
+      "Thalassoma hardwicke",
+      "Thalassoma quinquevittatum"
+    ],
+    "themes": [
+      "competition",
+      "priority effects",
+      "reef fish ecology",
+      "community assembly"
+    ],
+    "newsHeadline": "First Come, First Served: Reef Fish That Arrive Early Dominate Their Late-Coming Competitors",
+    "essay": "Understanding competition on coral reefs requires looking beyond which species arrive to consider when they arrive. Research on two wrasse species in French Polynesia reveals how timing of arrival affects competitive outcomes among young reef fish.\n\nThe study examined whether the timing of arrival affects how young reef fish compete with each other. Most coral reef fish spend their early weeks as tiny larvae drifting in the open ocean before settling onto reefs in unpredictable pulses around new moons. The researchers suspected that differences in arrival time might have consequences for survival. To test this, they created experimental reefs and controlled when recent settlers of two wrasse species - Thalassoma hardwicke and T. quinquevittatum - arrived at the reefs.\n\nThe results showed that both species survived best in the absence of competitors, but when competitors were present, they did best when they arrived at the same time. Survival declined as each species entered the community progressively later than its competitor, and this decline coincided with increased aggression from the earlier-arriving fish. The competitive advantage wasn't species-specific - whichever species arrived first dominated, regardless of identity. Even within the same species, earlier-arriving T. hardwicke individuals had similar competitive advantages over their later-arriving conspecifics.\n\nThe strength and consistency of these priority effects across both inter- and intraspecific competition was notable. The paper notes that the mechanism behind how early arrivals gain their advantage remains unclear - whether through better territory establishment or other factors. The duration of these advantages as fish grow also remains to be determined.\n\nThese findings suggest that coral reef communities aren't just shaped by which species arrive, but when they arrive. In an era of climate change, when ocean currents and spawning patterns are shifting, changes in the timing of larval delivery could reshape reef communities. The research provides empirical evidence for 'competitive lotteries' - the idea that chance events like arrival timing can maintain species diversity by preventing any one species from consistently dominating.\n\nUnderstanding how these priority effects play out in natural systems, where arrival timing is controlled by unpredictable ocean currents, represents an important area for future research. The lasting consequences of timing during those first critical days on the reef could be key to predicting how these communities will change as ocean conditions shift."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains multiple fabrications including invented specific numbers (28 reefs, 2.25 square meters), detailed first-person observational scenes not described in the paper, specific methodological details not mentioned in the source, and fabricated future research plans. The core scientific findings are accurately represented, but the article is padded with numerous invented details to make it more compelling.",
+    "issues": [
+      {
+        "type": "fabricated",
+        "location": "approach",
+        "claim": "The researchers created 28 standardized artificial coral reefs",
+        "problem": "The paper does not specify that 28 artificial reefs were created. It mentions 240 patch reefs for habitat association calculations but doesn't give a number for experimental reefs.",
+        "paperSays": "We determined habitat association for individuals of T. hardwicke and T. quinquevittatum ≤25 mm by calculating mean Manly's alpha values... across 240 patch reefs",
+        "suggestedFix": "Remove the specific number 28 and just say 'artificial coral reefs' or 'experimental patch reefs'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When Adrian Stier and I watched our tagged wrasse fish through the clear waters of Moorea's lagoon",
+        "problem": "The essay is written as if by one of the authors with first-person observations not described in the paper",
+        "paperSays": "The paper does not describe direct observations by the authors watching tagged fish",
+        "suggestedFix": "Remove first-person perspective and stick to what the study found"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "we witnessed something that challenged how we think about competition on coral reefs. The young fish that arrived at our experimental reefs just days earlier were chasing away and outcompeting fish of the same species that arrived later - even when the later arrivals were slightly larger",
+        "problem": "No mention in paper of later arrivals being larger, and no vivid scene-setting descriptions of witnessing behaviors",
+        "paperSays": "Both species settle in pulses around the new moon... at a standard length (SL) of 9–11 mm",
+        "suggestedFix": "Remove the fabricated observation details and size comparisons"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "we built 28 identical artificial reefs in Moorea's northern lagoon, each standardized to 2.25 square meters with live Porites coral and two colonies of Pocillopora",
+        "problem": "Specific dimensions (2.25 square meters) and reef composition details not provided in the paper",
+        "paperSays": "surface area = 7.98±3.79 m² [mean±SD]) for the 240 patch reefs used for habitat calculations, but experimental reef details not specified",
+        "suggestedFix": "Remove specific fabricated details about reef construction"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "tagged them with colored elastomer implants",
+        "problem": "Paper does not mention the tagging method used",
+        "paperSays": "Paper mentions manipulating arrival timing but doesn't describe tagging methodology",
+        "suggestedFix": "Remove specific tagging method details"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We expected some advantage for early arrivals, but the strength and consistency of the effect across both inter- and intraspecific competition was remarkable",
+        "problem": "This represents the authors' emotional reaction/surprise, which is not described in the paper",
+        "paperSays": "Paper presents results objectively without describing researcher surprise or expectations",
+        "suggestedFix": "Remove subjective commentary about researcher expectations"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We're planning longer-term studies to track these tagged fish through their first year of life",
+        "problem": "Paper does not mention any planned future studies",
+        "paperSays": "Paper does not discuss future research plans",
+        "suggestedFix": "Remove fabricated information about future studies"
+      }
+    ]
   }
 }

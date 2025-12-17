@@ -7,36 +7,81 @@
   "doi": "10.1111/j.1469-185X.2011.00199.x",
   "doiUrl": "https://doi.org/10.1111/j.1469-185X.2011.00199.x",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T14:24:47.972Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "A comprehensive review examining why some animals can regenerate appendages while others cannot. Fundamental biological traits—including body size, metabolic rate, developmental mode, and cellular plasticity—correlate with and may constrain regenerative ability across animal groups.",
-
-    "keyQuestion": "What fundamental biological traits enable or constrain appendage regeneration across animal species?",
-
-    "approach": "Researchers reviewed the literature on appendage regeneration across diverse animal groups, identifying key traits and mechanisms that correlate with regenerative ability.",
-
+    "summary": "Researchers studied how multiple species of small crabs and shrimp living in coral branches work together to clean sediment off their coral hosts, finding that having more symbiont species—not just more individuals—dramatically improves the coral's ability to stay sediment-free.",
+    "keyQuestion": "Do multiple symbiont species living together on coral hosts provide better services than single species, and how do their combined effects compare to what you'd expect from their individual contributions?",
+    "approach": "The team surveyed coral colonies in French Polynesia to document which crabs and shrimp live together, then conducted controlled experiments with different combinations of symbionts to measure how much sediment they removed from corals overnight.",
     "keyFindings": [
-      "Regenerative ability is influenced by multiple interacting fundamental traits",
-      "Smaller body size, lower metabolism, and retained developmental flexibility correlate with regeneration",
-      "The cellular sources of regeneration vary among species (dedifferentiation vs. stem cells)",
-      "Constraints on regeneration may be byproducts of adaptations for other functions"
+      "Corals alone removed only 10% of sediment, but this increased to 30% with two symbionts and 48% with four symbionts",
+      "The two most common species—Trapezia serenei crabs and Alpheus lottini shrimp—co-occurred more often than expected by chance",
+      "Per-capita effects of symbionts were independent of density and species identity, meaning each individual contributed equally regardless of how many others were present",
+      "Symbiont density appears restricted by intraspecific competition, so increased cleaning can only be achieved by adding different species, not more of the same species"
     ],
-
-    "stickyFact": "The reason humans can't regrow limbs may be connected to the same traits that allow our complex, active lives—biology often trades regeneration for other capabilities.",
-
-    "whyItMatters": "Understanding why some animals regenerate while others don't could inform regenerative medicine. If mammalian constraints reflect fundamental trade-offs rather than insurmountable barriers, there may be pathways to enhancing human healing.",
-
-    "location": "Review article (global scope)",
-
-    "species": ["Salamanders", "Mammals", "Various regenerating and non-regenerating species"],
-
-    "themes": ["Methods"],
-
-    "newsHeadline": "Why You Can't Regrow Your Arm—And What Biology Says About Changing That",
-
-    "essay": "Ashley Seifert, James Monaghan, Matthew Smith, Bret Pasch, François Michonneau, Malcolm Maden, and I reviewed what determines whether animals can regenerate appendages. Salamanders regrow limbs. Starfish regrow arms. Many other animals seal wounds with scar tissue and function with missing parts. We examined what regenerators have in common that non-regenerators lack.\n\nPatterns emerged from comparative analysis. Regenerators tend to be smaller with lower metabolic rates. They often retain developmental characteristics into adulthood—cellular plasticity that enables rebuilding lost structures. The source of regenerative cells varies: some species dedifferentiate mature cells back to stem-like states, while others tap resident stem cell populations.\n\nThe correlations suggest trade-offs. The high metabolism that lets mammals maintain warm bodies may come at the cost of cellular plasticity. Complex immune systems that protect against infection may interfere with regenerative processes. Growing large and developing quickly may preclude maintaining the flexibility regeneration requires.\n\nFor regenerative medicine, this means simply finding a 'regeneration gene' and adding it may not work. The constraints may reflect fundamental trade-offs with other systems we need. But if constraints are modulable—if we can temporarily restore plasticity or create favorable conditions locally—enhancement becomes conceivable. Understanding the full package of traits that enable regeneration is the first step toward mimicking it."
+    "stickyFact": "Corals removed only 10% of sediment when alone, but removal jumped to 30% and 48% with the presence of two and four symbionts, respectively.",
+    "whyItMatters": "As coastal development increases sedimentation on coral reefs, understanding how symbiotic relationships help corals survive becomes critical for reef conservation. This research suggests that maintaining diverse communities of coral symbionts—not just high numbers—may be key to reef resilience.",
+    "location": "Moorea, French Polynesia",
+    "species": [
+      "Pocillopora cf. verrucosa (coral)",
+      "Trapezia serenei (crab)",
+      "Alpheus lottini (shrimp)"
+    ],
+    "themes": [
+      "Mutualism",
+      "Coral reef ecology",
+      "Symbiosis",
+      "Sedimentation",
+      "Biodiversity"
+    ],
+    "newsHeadline": "Tiny Crab and Shrimp Housekeepers Give Corals a Fighting Chance Against Sediment Burial",
+    "essay": "Research on coral reefs around Moorea, French Polynesia reveals how small crabs and shrimp living in coral branches actively clean their hosts. Scientists suspected these creatures were doing more than just hiding in coral branches—they thought they might be actively cleaning their hosts. Their experiments proved that corals alone removed only 10% of sediment dumped on them overnight, but this jumped dramatically to 30% with two symbionts and 48% with four symbionts present.\n\nResearchers wanted to understand whether having multiple species of these coral symbionts provided better cleaning services than single species, and whether their combined effects were simply additive or something more complex. Over three consecutive days, they surveyed Pocillopora coral colonies, documenting which crabs and shrimp lived together. Then they designed controlled experiments using outdoor seawater tanks, placing corals with different combinations of the two most common species—Trapezia serenei crabs and Alpheus lottini shrimp—and measuring how much sediment they removed during their active nighttime hours.\n\nThe field survey revealed that these two species co-occurred more often than expected by chance, and experiments showed why this partnership matters. Each symbiont contributed equally to sediment removal regardless of density or species identity—what researchers call independent per-capita effects. When they had two Alpheus, two Trapezia, or one of each, the cleaning benefit was proportional to the number of individuals present. Most surprisingly, increasing the total number of symbionts from two to four nearly doubled the sediment removal, but this could only be achieved by adding different species, not more individuals of the same species.\n\nThe study suggests symbiont density is restricted by intraspecific competition. The researchers propose this limitation is likely related to mating systems since field-collected Trapezia typically occur as reproductive pairs. This means that even though different species are functionally equivalent at cleaning, symbiont diversity plays a crucial role not through added functionality but by overcoming density limitations imposed by competition within species.\n\nThese findings matter because sedimentation is an increasing threat to coral reefs worldwide. Natural disturbances like storms and human activities like coastal development increase sediment deposition, which decreases coral growth and increases mortality. While corals can remove some sediment through mucus sloughing and polyp extension, this work suggests that symbionts play a critical role in protecting corals from burial. Maintaining diverse communities of coral symbionts—not just high abundances—may be essential for reef resilience.\n\nMany questions remain about these intricate partnerships. Future work should explore whether similar patterns hold for other coral-symbiont systems across different reef environments, and whether the diversity-function relationship discovered extends to other services these symbionts provide, like defense against predators."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabrications including an invented specific number of colonies surveyed (133), vivid scene-setting descriptions not in the paper, and emotional reactions not described by the authors. The core scientific findings are accurate but the presentation includes fabricated details.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When we pulled up coral colonies from the reefs around Moorea and shook them over collection bags, small crabs and shrimp tumbled out like tiny housekeepers caught in the act.",
+        "problem": "This vivid scene-setting description is not in the paper. The paper only states they 'enveloped each colony in a plastic bag to prevent symbiont loss'",
+        "paperSays": "We collected colonies of Pocillopora cf. verrucosa ranging from 45–160 cm maximum diameter from 1–2 m depth by enveloping each colony in a plastic bag to prevent symbiont loss, and removing each colony from the substrate with a chisel.",
+        "suggestedFix": "Remove the fabricated scene and stick to factual collection methods described in the paper"
+      },
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "The team surveyed 133 coral colonies in French Polynesia",
+        "problem": "The specific number 133 does not appear anywhere in the paper",
+        "paperSays": "The paper does not specify the exact number of colonies surveyed",
+        "suggestedFix": "Remove the specific number and just say 'coral colonies'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "Over three consecutive days, we surveyed 133 Pocillopora coral colonies",
+        "problem": "Again, the number 133 is fabricated",
+        "paperSays": "Over three consecutive days (July 19–21, 2010), we conducted a field survey",
+        "suggestedFix": "Remove the fabricated number"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "What puzzled us was why symbiont density seemed so tightly regulated.",
+        "problem": "The paper doesn't describe researchers being 'puzzled' - this is an invented emotional reaction",
+        "paperSays": "Our results suggest that symbiont density is restricted by intraspecific competition.",
+        "suggestedFix": "State the finding objectively without fabricated emotions"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "The mechanism behind this competition remains unclear from our study.",
+        "problem": "The paper actually proposes a specific mechanism - mating systems",
+        "paperSays": "Symbiont diversity plays a key role, not through added functionality but by overcoming density limitation likely imposed by intraspecific mating systems.",
+        "suggestedFix": "Accurately reflect that the paper suggests mating systems as the likely mechanism"
+      }
+    ]
   }
 }

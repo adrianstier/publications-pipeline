@@ -7,36 +7,76 @@
   "doi": "10.1890/09-1993.1",
   "doiUrl": "https://doi.org/10.1890/09-1993.1",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T15:37:34.886Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "Adding reef habitat redistributes settling larvae across the landscape rather than attracting additional larvae from the ocean. This 'propagule redirection' reduces crowding on individual patches, improving survival and boosting total recruitment despite similar total settlement.",
-
-    "keyQuestion": "Does adding habitat increase total fish recruitment, or does it redistribute existing larvae across more reef?",
-
-    "approach": "Researchers experimentally manipulated reef habitat availability in Moorea, tracking how larval fish distributed among patches and how this affected recruitment success.",
-
+    "summary": "Scientists tested whether adding new coral reef habitat attracts more fish larvae overall (like a 'field of dreams') or simply redirects them away from existing sites. They found evidence for both effects occurring simultaneously.",
+    "keyQuestion": "When new habitat becomes available, do marine larvae increase in total numbers or simply redistribute from existing sites?",
+    "approach": "Researchers placed artificial coral reefs in pairs on sandy areas in Moorea, French Polynesia - some pairs isolated, others surrounded by additional coral colonies. They monitored fish settlement daily for 28 days, removing settlers each day to focus purely on colonization patterns.",
     "keyFindings": [
-      "Isolated reefs received more settlers than reefs with neighbors nearby",
-      "Adding habitat redirected larvae away from existing patches",
-      "Total settlement didn't increase proportionally with habitat",
-      "Reduced crowding improved survival, boosting total recruitment"
+      "Isolated reefs received 2-4 times more fish settlers than reefs with neighbors, proving larvae were redirected away from sites with more habitat nearby",
+      "Total settlement across all reefs increased only 1.3-fold despite a 6-fold increase in reef area, showing redirection was stronger than new recruitment",
+      "Mathematical modeling predicted that habitat addition increases fish populations primarily by reducing competition at existing sites rather than attracting new colonists",
+      "Four fish species showed consistent redirection patterns, representing 88% of all settlers observed during the study"
     ],
-
-    "stickyFact": "Build more reef and fish will spread out across it—surviving better because they're less crowded, even though no extra fish arrived from the ocean.",
-
-    "whyItMatters": "Reef restoration often assumes adding habitat adds fish proportionally. This study shows the relationship is more complex—new habitat redistributes larvae, with benefits coming from reduced density-dependent mortality.",
-
+    "stickyFact": "Fish larvae were redirected so strongly that isolated reefs received 2-4 times more settlers than reefs with neighbors, even though the neighboring reefs had 6 times more total habitat available.",
+    "whyItMatters": "This research challenges the common assumption that restoring habitat automatically increases wildlife populations. It suggests that habitat restoration may primarily help existing populations by reducing crowding rather than attracting new individuals, which has major implications for coral reef restoration and marine protected area design.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Coral reef fish (recruiting larvae)"],
-
-    "themes": ["Coral", "Conservation"],
-
-    "newsHeadline": "Adding Reef Doesn't Just Add Fish—It Rearranges Them",
-
-    "essay": "Craig Osenberg and I investigated what happens when you add reef habitat. The simple expectation is proportional response: more habitat, more fish. But settlement didn't scale linearly with habitat availability. Instead, adding habitat redistributed the larvae that were already arriving.\n\nWe called this propagule redirection. Larvae drifting toward the reef settle on whatever habitat they encounter. With more patches available, the same larvae spread across more reef. Isolated patches received more settlers than patches with neighbors nearby—alternative habitat diluted settlement at any single location.\n\nThis sounds like bad news—just shuffling fish around. But redirection had consequences. Lower settlement density meant weaker competition and less aggression. Fish on less-crowded patches survived better. Total recruitment after density-dependent mortality played out was higher when more habitat was available—not because more larvae arrived, but because more survived.\n\nThe practical implications affect restoration design. Adding habitat helps, but through mechanisms different than usually assumed. Strategic placement that effectively spreads settlement and reduces crowding could outperform approaches that simply maximize habitat area."
+    "species": "Four reef fish species: Dascyllus aruanus, Dascyllus flavicaudus, Halichoeres trimaculatus, and Paragobiodon lacunicolus",
+    "themes": [
+      "Marine ecology",
+      "Habitat restoration",
+      "Larval settlement",
+      "Population dynamics"
+    ],
+    "newsHeadline": "Baby Fish Choose Lonelier Reefs Over Crowded Neighborhoods, Challenging 'Build It and They Will Come' Restoration",
+    "essay": "Researchers studying coral reef fish settlement in French Polynesia discovered that baby fish larvae consistently choose isolated coral patches over ones surrounded by neighbors, even when the neighborhoods offer six times more habitat. This finding challenges conventional wisdom about habitat restoration.\n\nStier and Osenberg wanted to test a fundamental question in marine ecology: when you add new habitat, do you actually increase the total number of colonists, or do you simply shuffle them around? The 'Field of Dreams' hypothesis suggests that if you build habitat, marine life will come in proportion to what you've built. But the researchers suspected something more complex was happening - that new habitat might redirect larvae away from existing sites, creating what they called 'settlement shadows.'\n\nTo test this, they constructed 168 identical artificial reefs using cinder blocks topped with living coral colonies, arranging them in carefully designed patterns across 12 sites in Moorea's lagoon. The results were striking. Focal reefs without neighbors received two to four times more settlers than identical reefs surrounded by additional habitat. Yet when looking at the entire experimental array, total colonization increased only 1.3-fold despite a sixfold increase in reef area.\n\nThe researchers monitored four fish species that comprised 88% of all settlers - two damselfish species, a wrasse, and a goby - and all showed the same pattern. The larvae were clearly being redirected, choosing to settle on lonelier reefs rather than crowded neighborhoods.\n\nThese findings challenge a cornerstone assumption of habitat restoration. The researchers' mathematical modeling suggested that adding habitat increases fish populations primarily by reducing competition and density-dependent mortality at existing sites, rather than by attracting brand new colonists. This means restoration projects might be helping marine life in ways we haven't fully appreciated, but also that the benefits might be more limited than hoped. The implications stretch from coral reef restoration to marine protected area design."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications in the essay section, where it's written from a false first-person perspective as if by one of the study authors, and includes invented details, mechanisms, and future research questions not found in the paper. The factual content about the study results appears accurate, but the narrative style is misleading and fabricated.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we placed our first artificial reef on the sandy bottom near Moorea, French Polynesia, we had no idea we were about to witness baby fish making sophisticated real estate decisions.",
+        "problem": "This appears to be written from the first person perspective of the study authors, but this article is not written by Stier and Osenberg. The dramatic scene-setting is fabricated.",
+        "paperSays": "The paper is written in third person scientific style without any such dramatic narrative",
+        "suggestedFix": "Remove first-person narrative and dramatic scene-setting"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "My colleague Craig Osenberg and I watched as newly settled fish larvae consistently chose isolated coral patches",
+        "problem": "Article falsely presents itself as written by Adrian Stier, one of the study authors",
+        "paperSays": "The paper does not contain any first-person narrative from the authors",
+        "suggestedFix": "Write in third person: 'Researchers watched as...' or 'The study showed...'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We still don't fully understand the mechanism - whether larvae are actively avoiding crowded areas, being competitively excluded, or responding to some other cue.",
+        "problem": "These specific mechanisms are not discussed in the paper as potential explanations",
+        "paperSays": "The paper does not speculate about these specific behavioral mechanisms",
+        "suggestedFix": "Remove speculation about specific mechanisms not mentioned in the paper"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "So many questions remain. How do larvae actually detect and avoid crowded areas? Does this redirection pattern hold across different species, seasons, and reef systems?",
+        "problem": "These specific future research questions are not mentioned in the paper",
+        "paperSays": "The paper's discussion focuses on different aspects like connectivity, temporal scale, and habitat quality",
+        "suggestedFix": "Either remove these questions or base them on what the paper actually discusses in terms of future research needs"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Understanding whether our baby fish made good real estate decisions will require following them far beyond their first day on the reef.",
+        "problem": "This metaphorical language and specific research direction is not from the paper",
+        "paperSays": "The paper does not use this metaphorical language or suggest this specific research approach",
+        "suggestedFix": "Remove metaphorical language and stick to what the paper actually concludes about future research needs"
+      }
+    ]
   }
 }

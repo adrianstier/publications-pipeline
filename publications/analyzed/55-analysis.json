@@ -7,36 +7,83 @@
   "doi": "10.1111/j.1600-0706.2013.01073.x",
   "doiUrl": "https://doi.org/10.1111/j.1600-0706.2013.01073.x",
   "openAccess": true,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T13:52:41.406Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 6,
   "analysis": {
-    "summary": "Frequentist statistical hypothesis tests are inappropriate for interpreting simulation model results. P-values can always be made arbitrarily small by running more replicates, regardless of effect size or ecological significance.",
-
-    "keyQuestion": "Is it appropriate to use frequentist statistical hypothesis tests to interpret results from ecological simulation models?",
-
-    "approach": "Researchers examined the logical foundations of statistical hypothesis testing and explained why these tests are inappropriate for simulation models, offering alternatives for proper interpretation.",
-
+    "summary": "Ecologists are misusing statistical significance tests when analyzing computer simulation models, producing meaningless p-values that can be manipulated by simply running more simulations. The researchers argue scientists should focus on the actual size of differences between model scenarios instead of statistical significance.",
+    "keyQuestion": "When is it appropriate to use statistical significance tests to interpret results from ecological simulation models?",
+    "approach": "The authors reviewed recent ecological literature to identify cases where researchers used statistical tests (like ANOVA) on simulation model outputs, then analyzed why this practice is problematic using statistical theory and specific published examples.",
     "keyFindings": [
-      "P-values in simulations are determined by the number of replicates, which can be arbitrarily increased",
-      "Running more simulations always produces smaller p-values regardless of effect magnitude",
-      "The null hypothesis is known to be false in simulations by construction",
-      "Effect sizes and practical significance should replace statistical significance for simulations"
+      "Statistical power in simulations can be arbitrarily high since researchers can run unlimited replications, making p-values meaningless",
+      "Null hypotheses in model comparisons are known to be false before testing begins, invalidating the premise of the statistical test",
+      "With 24,000 simulation runs, researchers can produce extremely small p-values regardless of biological effect size",
+      "Focus should shift to quantifying effect sizes and biological significance rather than statistical significance"
     ],
-
-    "stickyFact": "In a computer simulation, you can always get a statistically significant result by running enough replicates—even if the effect is ecologically meaningless.",
-
-    "whyItMatters": "Simulation models are central to ecological research and management decisions. Misinterpreting results through inappropriate statistical tests leads to overconfident conclusions about ecological importance.",
-
-    "location": "Methodological (applicable globally)",
-
-    "species": ["Not applicable (methods paper)"],
-
-    "themes": ["Methods"],
-
-    "newsHeadline": "Why P-Values Lie When Applied to Computer Simulations",
-
-    "essay": "Will White, Andrew Rassweiler, Jameal Samhouri, Crow White, and I addressed a methodological problem in ecological simulation modeling: the misuse of frequentist statistical hypothesis tests to interpret model results.\n\nStatistical hypothesis testing was designed for situations where the null hypothesis might actually be true and sampling variation makes detection uncertain. In field experiments, treatments might have identical effects, and statistics quantify confidence that observed differences aren't just noise. Simulation models are different. If model parameters differ, running with different values will always produce different results. The null hypothesis is false by construction.\n\nThe problem is that statistical power in simulations is controlled by replication, which can be increased arbitrarily. Run enough model iterations and any difference—no matter how trivially small—achieves statistical significance. P < 0.05 just requires sufficient replicates. The ritual of hypothesis testing, designed to protect against false positives in noisy data, becomes meaningless when noise can be reduced at will.\n\nWe argued for focusing on effect sizes and practical significance rather than statistical significance when interpreting simulations. The question shouldn't be whether a model effect is detectable, but whether it's large enough to matter ecologically. This requires judgment about what magnitudes are meaningful, sensitivity analyses across parameter ranges, and clear communication about uncertainty. As simulation models become increasingly central to ecological forecasting and management, interpreting them correctly becomes essential."
+    "stickyFact": "With sufficient computer time, researchers can literally choose their desired p-value by setting the number of simulation runs, making any effect size appear statistically significant no matter how small.",
+    "whyItMatters": "This research addresses a fundamental methodological problem in ecological modeling that could lead to incorrect conclusions about ecosystem dynamics and management decisions if researchers continue misinterpreting simulation results.",
+    "location": "Not specified",
+    "species": "Various (including lobsters Jasus edwardsii, sea urchins Centrostephanus rodgersii, seaweeds Ecklonia radiata and Phyllospora comosa)",
+    "themes": [
+      "Statistical methodology",
+      "Ecological modeling",
+      "Scientific practice"
+    ],
+    "newsHeadline": "Scientists Are Misusing Statistics When Analyzing Ecological Simulation Models",
+    "essay": "A group of ecologists has identified a troubling trend in how researchers analyze computer simulation models. When examining a simulation study of rocky reef ecosystems, the authors found that researchers had run 24,000 computer simulations to test whether different predator behaviors affected their model results, producing a p-value of 10^-15. However, the original researchers admitted this result was meaningless because of their huge sample size and ignored their own statistical test.\n\nWhite and colleagues wanted to understand why so many ecologists were using statistical significance tests on computer simulation results when these tests seemed inappropriate. They examined the ecological literature and found multiple examples where researchers were applying t-tests and ANOVAs to simulation outputs, revealing a fundamental misunderstanding of statistical methodology.\n\nThe core problem is that when running computer simulations, researchers can control exactly how many replications to perform. Statistical power becomes meaningless when replication is essentially unlimited. More importantly, different model parameters will produce different results by design - that's why researchers test them. The null hypothesis of 'no difference' is known to be false from the beginning.\n\nIn the rocky reef study examined, 24,000 runs produced an F-statistic of 67.5 with a p-value of 10^-15. But this statistical significance is meaningless because researchers could achieve any desired p-value simply by running more simulations.\n\nThis matters because simulation models are increasingly central to ecological research and management decisions. When researchers focus on p-values instead of effect sizes, they might conclude that small, biologically meaningless differences are important simply because they're statistically significant with thousands of simulation runs. Conversely, they might dismiss large, ecologically important effects that don't reach arbitrary significance thresholds.\n\nThe solution isn't to abandon quantitative analysis of models, but to focus on what really matters: the magnitude of differences and their ecological significance. Instead of asking 'is this difference statistically significant?' researchers should ask 'how big is this difference and does it matter ecologically?' This requires defining beforehand what magnitude of change would constitute meaningful ecological effects, similar to focusing on 'biological significance' rather than statistical significance."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant issues including incorrect framing as specifically about marine science, inappropriate first-person narrative format, and fabricated anecdotes about the authors' personal experiences that don't appear in the paper. The core scientific content is accurate but presented incorrectly.",
+    "issues": [
+      {
+        "type": "error",
+        "location": "headline",
+        "claim": "Marine Scientists Are Misusing Statistics in Ways That Could Undermine Ocean Conservation",
+        "problem": "The paper is about ecological simulation models in general, not specifically marine science or ocean conservation",
+        "paperSays": "The paper discusses 'ecological simulation models' broadly and uses examples from terrestrial rocky reef communities, not specifically marine conservation",
+        "suggestedFix": "Scientists Are Misusing Statistics When Analyzing Ecological Simulation Models"
+      },
+      {
+        "type": "error",
+        "location": "summary",
+        "claim": "Marine ecologists are misusing statistical significance tests",
+        "problem": "The paper addresses ecologists generally, not specifically marine ecologists",
+        "paperSays": "The paper discusses 'ecologists' and 'ecological simulation models' without limiting to marine contexts",
+        "suggestedFix": "Ecologists are misusing statistical significance tests"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When my colleagues Andrew Rassweiler, Jameal Samhouri, Adrian Stier, Crow White and I stumbled across a simulation study of rocky reef ecosystems",
+        "problem": "This is written as a first-person narrative from J. Wilson White, but the article format doesn't indicate this is a direct quote or interview",
+        "paperSays": "The paper is written in academic third person, not as a personal narrative",
+        "suggestedFix": "Remove first-person narrative and present as objective reporting"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "I started digging through the ecological literature and found example after example - from terrestrial plant studies to fisheries models to life-history theory",
+        "problem": "The paper doesn't mention examining terrestrial plant studies, fisheries models, or life-history theory specifically",
+        "paperSays": "The paper mentions reviewing 'recent examples from the ecological literature' but doesn't specify these particular areas",
+        "suggestedFix": "The authors reviewed recent examples from the ecological literature"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "We found ourselves in the awkward position of rejecting papers as reviewers when authors used inappropriate statistical tests, while other reviewers were demanding these same meaningless tests",
+        "problem": "This specific detail about rejecting papers as reviewers is not mentioned in the paper",
+        "paperSays": "The paper asks 'Are peer reviewers the problem?' but doesn't describe the authors' specific experiences as reviewers",
+        "suggestedFix": "Remove this fabricated personal anecdote"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "One of our own papers faced criticism for not including p-values when we reported correlation coefficients from ecosystem models",
+        "problem": "This specific anecdote is not mentioned in the paper",
+        "paperSays": "The paper doesn't describe any specific experiences with their own papers being criticized",
+        "suggestedFix": "Remove this fabricated anecdote"
+      }
+    ]
   }
 }

@@ -7,36 +7,80 @@
   "doi": "10.1371/journal.pone.0032079",
   "doiUrl": "https://doi.org/10.1371/journal.pone.0032079",
   "openAccess": true,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T14:26:14.407Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "Coral symbionts—crabs and shrimp living within coral branches—provide housekeeping services by removing sediment from coral surfaces. More symbionts removed more sediment, with effects adding up independently rather than synergistically.",
-
-    "keyQuestion": "Do multiple symbiont species and individuals provide increasing housekeeping benefits to their coral hosts?",
-
-    "approach": "Researchers surveyed symbiont abundance on coral colonies in Moorea and conducted experiments manipulating symbiont density and identity to measure sediment removal rates.",
-
+    "summary": "Scientists studied how multiple species of crabs and shrimp living on coral reefs work together to keep their coral homes clean by removing harmful sediment, finding that more species of cleaners leads to cleaner corals.",
+    "keyQuestion": "Do multiple species of coral-dwelling symbionts work together to help their coral host, or do they interfere with each other's cleaning abilities?",
+    "approach": "Researchers surveyed coral colonies in French Polynesia to see which crabs and shrimp live together, then conducted controlled experiments adding different combinations of two species (Trapezia crabs and Alpheus shrimp) to corals and measuring how much sediment they removed overnight.",
     "keyFindings": [
-      "Symbionts dramatically increased sediment removal from coral surfaces",
-      "Both crabs and shrimp contributed to housekeeping services",
-      "Per-capita effects were independent—no interference or synergy at tested densities",
-      "Multiple symbiont species co-occurred more often than expected by chance"
+      "Corals alone removed only 10% of sediment, but removal increased to 30% with two symbionts and 48% with four symbionts",
+      "The two main species (Trapezia crabs and Alpheus shrimp) co-occurred more often than expected by chance in natural colonies",
+      "Each symbiont's per-capita cleaning effect remained the same regardless of how many others were present - they worked independently",
+      "All common symbionts only occurred as pairs in nature, never at higher abundances, suggesting intraspecific competition limits density"
     ],
-
-    "stickyFact": "Corals remove only about 10% of sediment from themselves—but with a crew of crabs and shrimp, nearly half gets cleared away.",
-
-    "whyItMatters": "Sedimentation threatens coral reefs worldwide. Symbiont cleaning services scale with symbiont abundance, suggesting that maintaining healthy symbiont communities is essential for coral survival in turbid waters.",
-
+    "stickyFact": "Corals with four cleaning symbionts removed 48% of sediment compared to just 10% for corals without any cleaners - nearly five times more effective at staying sediment-free.",
+    "whyItMatters": "As coastal development and storms increase sediment loads on coral reefs, understanding how coral cleaners work could inform conservation strategies. The research shows that coral health depends not just on having symbionts, but on maintaining diverse communities of different cleaning species.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Trapezia serenei (crab)", "Alpheus lottini (snapping shrimp)", "Pocillopora coral"],
-
-    "themes": ["Coral", "Mutualisms"],
-
-    "newsHeadline": "The Cleaning Crew That Keeps Coral Alive",
-
-    "essay": "Michael Gil, Seabird McKeon, Sarah Lemer, Matthieu Leray, Suzanne Mills, Craig Osenberg, and I investigated housekeeping services provided by coral symbionts. Guard crabs and snapping shrimp are known for defending corals, but they spend most of their time moving around coral surfaces, grooming tissue. We tested whether this activity constitutes meaningful sediment removal.\n\nWe surveyed coral colonies across Moorea to document symbiont communities. Crabs and shrimp co-occurred more often than chance would predict, suggesting they weren't excluding each other through competition. In experiments, we placed corals with varying numbers of symbionts and measured sediment removal. Corals alone cleared limited sediment from their surfaces. Adding symbionts substantially increased removal rates.\n\nThe effects added up independently. Each symbiont contributed roughly equal cleaning regardless of how many others were present—no interference at higher densities, but no synergy either. Housekeeping appears to be parallel labor: each symbiont clears sediment from its vicinity without coordinating with others.\n\nThis additive pattern means losing symbionts causes proportional losses in cleaning services. Sedimentation threatens reefs from coastal development, dredging, and erosion. Corals have limited self-cleaning ability—their survival depends on the cleaning crew living within their branches. Protecting corals means protecting the crabs and shrimp that keep them clean."
+    "species": [
+      "Pocillopora cf. verrucosa",
+      "Trapezia serenei",
+      "Alpheus lottini"
+    ],
+    "themes": [
+      "coral reef ecology",
+      "mutualism",
+      "sediment removal",
+      "biodiversity"
+    ],
+    "newsHeadline": "Coral Housekeepers: Multiple Species of Cleaners Keep Reefs Sediment-Free Better Than Any Single Species",
+    "essay": "Researchers studying coral reefs in French Polynesia discovered that corals with four cleaning symbionts removed 48% of sediment compared to just 10% for corals without any cleaners. The study examined whether multiple species of coral cleaners worked together synergistically, interfered with each other, or simply provided independent benefits.\n\nOver three consecutive days, researchers surveyed Pocillopora coral colonies, documenting every crab and shrimp they found. They then designed controlled experiments using outdoor seawater tanks, adding different combinations of the two most common species - Trapezia serenei crabs and Alpheus lottini shrimp - to corals before adding precisely measured amounts of sediment at dusk.\n\nThe results showed clear benefits of multiple cleaner species. Alone, corals removed only 10% of the sediment. With two symbionts, removal jumped to 30%. With four symbionts, it reached 48%. Each additional cleaner contributed the same per-capita benefit regardless of how many others were present - they worked independently, not synergistically. In field surveys, Trapezia crabs and Alpheus shrimp co-occurred more often than expected by chance, and all common symbionts occurred only as pairs, never at higher abundances.\n\nThe pairing pattern observed in nature was notable. Despite the clear benefits of having more cleaners, researchers never found more than two individuals of any species on a single coral. This suggests that intraspecific competition - likely related to mating systems - prevents higher densities.\n\nThese findings matter because sediment is a major threat to coral reefs worldwide. Natural disturbances like cyclones and human activities like coastal development increase sediment loads, which decrease coral growth and increase mortality. While corals can remove some sediment through mucus sloughing and cilia movement, this work shows that symbionts play a critical role in protecting corals from sedimentation damage. The key insight is that coral health depends not just on having cleaners, but on maintaining diverse communities of different cleaning species.\n\nAs coral reefs face increasing threats, understanding these partnerships becomes important for predicting which reefs might survive and which conservation strategies might help them thrive."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabrications including an invented specific number of coral colonies surveyed (133), fabricated first-person narrative scenes, and speculative claims about mechanisms and researcher emotions not found in the paper. The core scientific findings are accurately reported, but the presentation includes unnecessary embellishments.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "surveyed 133 coral colonies",
+        "problem": "The paper does not specify the exact number of coral colonies surveyed",
+        "paperSays": "Over three consecutive days (July 19–21, 2010), we conducted a field survey on the western shore of Moorea... We collected colonies of Pocillopora cf. verrucosa ranging from 45–160 cm maximum diameter",
+        "suggestedFix": "Remove the specific number and just say 'surveyed coral colonies'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When my colleagues and I pulled our first coral colony from the waters around Moorea and carefully bagged it to prevent any creatures from escaping, we found exactly what we expected: pairs of crabs and shrimp living among the branches",
+        "problem": "This is a fabricated first-person narrative scene-setting that doesn't appear in the paper",
+        "paperSays": "We collected colonies of Pocillopora cf. verrucosa by enveloping each colony in a plastic bag to prevent symbiont loss, and removing each colony from the substrate with a chisel",
+        "suggestedFix": "Remove the fabricated first-person narrative and stick to what the paper reports"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Over three days, we surveyed 133 Pocillopora coral colonies",
+        "problem": "The specific number 133 is not mentioned in the paper",
+        "paperSays": "Over three consecutive days (July 19–21, 2010), we conducted a field survey",
+        "suggestedFix": "Remove the specific number and just say coral colonies were surveyed"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The mechanism by which symbionts remove sediment remains unclear from our study, though we know they're most active at night when the cleaning happens",
+        "problem": "The paper doesn't discuss the mechanism being unclear or make claims about when symbionts are most active",
+        "paperSays": "At dusk, sediment trials were initiated... At dawn (,13 hours after trial initiation) sediment bins were recollected... the period over which the decapods are most active",
+        "suggestedFix": "Remove speculation about mechanisms and stick to what was observed in the experiment"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "What surprised us most was the rigid pairing pattern we observed in nature",
+        "problem": "The paper doesn't express surprise or characterize the pattern as 'rigid'",
+        "paperSays": "Our field survey showed that all common symbionts typically occur as pairs and never at greater abundances",
+        "suggestedFix": "Simply state the observation without emotional characterization"
+      }
+    ]
   }
 }

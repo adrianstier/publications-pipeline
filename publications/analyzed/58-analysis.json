@@ -7,36 +7,84 @@
   "doi": "10.1890/11-1983.1",
   "doiUrl": "https://doi.org/10.1890/11-1983.1",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T13:57:19.476Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 4,
+  "issuesFound": 6,
   "analysis": {
-    "summary": "Both predator density and timing of arrival significantly affect reef fish prey community structure. Early-arriving predators have stronger effects than late-arriving predators at equal densities, because early predators encounter prey during their most vulnerable settlement period.",
-
-    "keyQuestion": "How do predator density and timing of arrival interact to affect reef fish community assembly?",
-
-    "approach": "Researchers conducted field experiments in Moorea, French Polynesia, manipulating both the density of hawkfish predators and the timing of their arrival relative to prey settlement to test how these factors shape prey communities.",
-
+    "summary": "Scientists studying coral reef fish found that when predatory hawkfish arrive to colonize reefs matters just as much as how many show up, dramatically changing which fish species survive and thrive in reef communities.",
+    "keyQuestion": "How do different patterns of predator arrival - including their density, timing, and variability over time - affect the formation and composition of reef fish communities?",
+    "approach": "Researchers first surveyed 192 natural patch reefs in French Polynesia for five months to document hawkfish behavior patterns, then conducted field experiments using artificial reefs to test how timing and density affected fish community development.",
     "keyFindings": [
-      "Predator density and timing of arrival both significantly affect prey community structure",
-      "Early-arriving predators have stronger effects than late-arriving predators at equal densities",
-      "The interaction between density and timing creates complex community outcomes",
-      "Standard predator-removal experiments may miss important temporal dynamics"
+      "Hawkfish presence reduced prey fish abundance by 50% compared to reefs without predators",
+      "Doubling hawkfish density caused an additional 33% reduction in prey abundance beyond the initial 50%",
+      "Late-arriving hawkfish caused a 34% additional reduction in prey compared to early arrivals",
+      "Predator timing affected community composition and increased diversity differences between patches by 22%, even though it didn't change species richness within patches"
     ],
-
-    "stickyFact": "A predator that arrives early can shape a prey community more powerfully than predators that show up late—even if there are more latecomers.",
-
-    "whyItMatters": "Most predation studies compare 'predator present' versus 'predator absent,' ignoring when predators arrive. This temporal dimension may be crucial for understanding community assembly and predicting responses to changes in predator arrival timing.",
-
+    "stickyFact": "On natural reefs, hawkfish were present for an average of only 47% of survey days, staying continuously for an average of 7 days (ranging from 4-15 days) before disappearing again.",
+    "whyItMatters": "This research reveals that the timing of predator colonization can be as important as predator density in shaping entire reef communities, suggesting that conservation efforts need to consider not just how many predators are present, but when they arrive relative to their prey.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Hawkfish (Paracirrhites arcatus)", "Juvenile reef fish"],
-
-    "themes": ["Coral", "Predation"],
-
-    "newsHeadline": "In the Predator Game, Timing Is Everything",
-
-    "essay": "Shane Geange, Kate Hanson, Ben Bolker, and I investigated how both predator density and timing of arrival affect reef fish prey communities. Standard predation experiments compare treatments with and without predators, but predators in nature vary not just in presence but in when they appear.\n\nWe designed an experiment manipulating both factors. Hawkfish arrived at coral patches early—when prey fish were settling from the plankton—or late, after prey were established. Results showed timing matters as much as density, maybe more.\n\nEarly-arriving hawkfish had disproportionately strong effects on prey communities. They could pick off new settlers before prey had time to grow, learn the reef, or develop avoidance behaviors. Late-arriving predators, even at higher densities, encountered prey that were larger, more experienced, and better able to escape. A single early predator shaped prey communities more powerfully than multiple late predators.\n\nThe difference reflects a temporal refuge. Prey that survived early predation had already passed through their most vulnerable window. Prey facing late predation had the advantage of size and experience. This temporal dimension creates dynamics that density alone doesn't capture.\n\nThis finding has implications for how climate change may affect reef communities. Warming is shifting the timing of biological events—when larvae settle, when predators arrive. If these shifts differ between predators and prey, historical timing relationships dissolve. A predator that always arrived after prey settlement might start arriving before, fundamentally changing the interaction. Predicting these changes requires experiments that treat timing as a variable, not a constant."
+    "species": "Hawkfish (Paracirrhites arcatus)",
+    "themes": [
+      "predation",
+      "community ecology",
+      "coral reefs",
+      "timing effects"
+    ],
+    "newsHeadline": "Timing Is Everything: When Predator Fish Arrive at Coral Reefs Reshapes Entire Communities",
+    "essay": "Researchers studying predation on coral reefs have discovered that timing matters as much as numbers when it comes to how predators shape fish communities. Working in the shallow lagoons of Moorea, French Polynesia, scientists wanted to understand whether the timing of predator arrival affects reef fish communities as much as predator density itself.\n\nFor five months, the team surveyed 192 natural patch reefs twice weekly, documenting the presence and absence of hawkfish (Paracirrhites arcatus), sit-and-wait carnivores that perch on coral branches. What they found was striking: these predators were present only 47% of the time on average, staying continuously for an average of 7 days before disappearing again. Some reefs had low-density, stable hawkfish populations; others experienced dramatic changes in predator numbers over time.\n\nThe researchers then conducted controlled field experiments using artificial reefs, manipulating hawkfish arrivals to test different scenarios including early arrivals, late arrivals, and varying densities. The results revealed the powerful effects of timing on reef communities.\n\nHawkfish presence reduced prey fish abundance by 50% compared to reefs without predators. When researchers doubled hawkfish density, prey suffered an additional 33% reduction. But the timing effect was nearly as powerful: when hawkfish arrived late in community development, they caused a 34% additional reduction in prey abundance compared to early arrivals. Hawkfish didn't change species richness within patches, but they increased differences between patches by 22% and fundamentally altered which species dominated each reef.\n\nSurprisingly, variability in hawkfish density over time didn't matter—only the timing and total density affected prey communities. The researchers expected temporal fluctuations to create refuges for prey during predator-free periods, but the data showed no such effect.\n\nThese findings matter because most predation studies use constant predator densities, missing the dynamic reality of natural systems. The research suggests that conservation efforts focusing only on predator abundance may miss critical aspects of community dynamics. If the timing of predator colonization shapes entire communities, then understanding migration patterns, seasonal movements, and recruitment timing becomes crucial for predicting reef resilience.\n\nThe study raises important questions about how prey communities recover when predators leave, whether different predator species show similar timing effects, and what drives the natural patterns of hawkfish movement. The work provides a reminder that in ecology, when something happens can matter just as much as what happens."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabricated details including specific numbers not found in the paper (35 reefs, 120 days, 5 treatments), a completely invented first-person narrative scene, and misrepresentation of statistical data. While the core findings are accurately reported, these fabrications significantly undermine the article's credibility.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "built 35 artificial reefs",
+        "problem": "The paper does not specify the number of artificial reefs constructed",
+        "paperSays": "The paper mentions conducting field experiments but does not provide the specific number 35 for artificial reefs",
+        "suggestedFix": "Remove the specific number and say 'built artificial reefs'"
+      },
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "five different treatments over 120 days",
+        "problem": "The paper mentions six types of natural variation patterns but does not specify five treatments or 120 days for the experimental duration",
+        "paperSays": "The paper describes 'six types of natural variation in hawkfish density' and mentions experiments but not the specific duration or number of treatments",
+        "suggestedFix": "Remove specific numbers and describe the experimental approach more generally"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "staying continuously for just 7 days at a time",
+        "problem": "The paper states hawkfish were continuously present for 7±16.4 days on average, not 'just 7 days'",
+        "paperSays": "hawkfish were continuously present for 7±16.4 days (lower 25% quartile, 4 days; upper 25% quartile, 15 days)",
+        "suggestedFix": "Change to 'staying continuously for an average of 7 days (ranging from 4-15 days)'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "I was crouched on a patch reef in the shallow lagoons of Moorea, watching a hawkfish perched motionless on an Acropora branch, when it struck me how much we didn't know about predation on coral reefs.",
+        "problem": "This is a fabricated first-person narrative scene not present in the scientific paper",
+        "paperSays": "The paper contains no first-person narrative or scene-setting descriptions",
+        "suggestedFix": "Remove the fabricated narrative opening and start with factual information from the study"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "Then we built 35 artificial reefs and manipulated hawkfish arrivals across 120 days, testing five different scenarios",
+        "problem": "Same fabricated numbers as in approach section",
+        "paperSays": "Paper mentions experiments but not these specific numbers",
+        "suggestedFix": "Remove specific numbers"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "The mechanism behind timing effects remains unclear from our study. We suspect late-arriving predators encounter prey that haven't yet found size refugia or developed anti-predator behaviors, but we can't say for certain.",
+        "problem": "This speculation about mechanisms is not presented in the paper as the authors' uncertainty",
+        "paperSays": "The paper discusses potential mechanisms but does not present them as uncertain speculation by the authors",
+        "suggestedFix": "Present the mechanisms as discussed in the paper rather than as uncertain speculation"
+      }
+    ]
   }
 }

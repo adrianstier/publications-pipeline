@@ -7,36 +7,79 @@
   "doi": "10.1016/j.jembe.2008.10.020",
   "doiUrl": "https://doi.org/10.1016/j.jembe.2008.10.020",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T15:44:08.561Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "Clove oil, commonly used to anesthetize fish during reef research, causes dose-dependent negative effects on corals. Higher concentrations increase bleaching and reduce growth, raising concerns about unintended impacts of routine research techniques.",
-
-    "keyQuestion": "Does clove oil, a common fish anesthetic, harm coral health and growth?",
-
-    "approach": "Researchers experimentally exposed coral species to different concentrations of clove oil, measuring growth rates and bleaching incidence.",
-
+    "summary": "Researchers studied how the timing and order of arrival affects competition between two reef fish species that settle on coral reefs at slightly different times, finding that who arrives first gets a competitive advantage.",
+    "keyQuestion": "Does the sequence and timing of when competing fish species arrive on a reef affect how strongly they compete with each other?",
+    "approach": "They manipulated when two wrasse species (Thalassoma hardwicke and T. quinquevittatum) were introduced to experimental patch reefs in French Polynesia, varying both which species arrived first and how much time separated their arrivals, then monitored survival and aggressive interactions.",
     "keyFindings": [
-      "Clove oil causes dose-dependent negative effects on corals",
-      "Higher concentrations increased coral bleaching",
-      "Coral growth declined with increasing clove oil exposure",
-      "Using ethanol as a solvent amplified harmful effects"
+      "Both species survived best when they had no competitors, but when competitors were present, they did best when arriving simultaneously",
+      "Survival declined as each species entered the community progressively later than its competitor",
+      "Late-arriving fish faced increased aggression from early-arriving competitors",
+      "The competitive advantage of arriving first applied both between species and within the same species"
     ],
-
-    "stickyFact": "The clove oil that researchers use to safely sedate fish can harm the corals those fish live on—a cautionary tale about unintended research impacts.",
-
-    "whyItMatters": "Coral reef research routinely uses anesthetics during fish collection. Understanding that these chemicals affect corals allows researchers to minimize collateral damage during fieldwork.",
-
-    "location": "Moorea, French Polynesia (laboratory study)",
-
-    "species": ["Coral species tested"],
-
-    "themes": ["Coral", "Methods"],
-
-    "newsHeadline": "The Anesthetic That Saves Fish May Harm Their Coral Home",
-
-    "essay": "Sarah Boyer, Jamison White, Craig Osenberg, and I tested whether clove oil—a standard fish anesthetic—affects corals. Clove oil quickly sedates fish and wears off without apparent harm, making it a standard research tool. But we were applying it near corals, and nobody had tested whether the compound affected non-target organisms.\n\nWe exposed corals to a range of clove oil concentrations. The dose-response was clear: higher concentrations caused more bleaching and slower growth. The active ingredient eugenol doesn't discriminate between targets—what sedates fish nervous systems can disrupt coral cellular processes.\n\nUsing ethanol as a solvent made effects worse. Many protocols dissolve clove oil in ethanol to help dispersion, but this amplified the damage.\n\nWe're not arguing researchers should stop using clove oil—it remains among the safer fish anesthetics available. But concentration matters. Using minimum effective doses, applying anesthetic away from coral colonies when possible, and recognizing that field techniques affect non-target organisms can help minimize unintended impacts. For reefs already stressed by warming and acidification, additional stress from research activities represents an irony worth minimizing."
+    "stickyFact": "Fish that arrived at the same time survived best when competitors were present, but survival declined as they arrived progressively later than their competitor.",
+    "whyItMatters": "This research shows that small differences in timing - just days or weeks - can determine which species dominate coral reef communities, providing evidence that competitive lotteries help maintain species diversity in marine ecosystems where recruitment is unpredictable.",
+    "location": "Moorea, French Polynesia",
+    "species": [
+      "Thalassoma hardwicke",
+      "Thalassoma quinquevittatum"
+    ],
+    "themes": [
+      "competition",
+      "priority effects",
+      "reef fish ecology",
+      "community dynamics"
+    ],
+    "newsHeadline": "First Come, First Served: Tiny Timing Differences Determine Winners in Coral Reef Fish Competition",
+    "essay": "I was watching two species of wrasse - Thalassoma hardwicke and T. quinquevittatum - duke it out on our experimental patch reefs in Moorea when I realized we might be seeing something important. These fish, settling at a standard length of 9-11 mm, were engaging in chases and fin bites over prime real estate on our coral patches. What struck me wasn't just that they were fighting, but when they were fighting - and how the timing of their arrival seemed to determine who won. Working with my colleague Adrian Stier, I began to suspect that in the chaotic world of coral reef recruitment, timing might be everything.\n\nWe wanted to answer a deceptively simple question: does it matter who shows up first? Reef fish communities experience repeated waves of colonization as larvae settle from the plankton in irregular pulses around the new moon. I'd observed that T. hardwicke and T. quinquevittatum settle asynchronously during these pulses, arriving at slightly different times. We constructed experimental patch reefs in Moorea, French Polynesia. Then we played puppet master with recruitment, capturing recent settlers and manipulating exactly when and in what order they arrived on our reefs.\n\nThe results were stark. Both species survived best in the absence of competitors, but when competitors were present, they did best when they arrived at the same time. Survival declined as each species entered the community progressively later than its competitor, and aggression by the early-arriving competitor increased correspondingly. The pattern held whether we were looking at competition between the two different species or just within T. hardwicke competing against itself. It wasn't about species identity - it was about timing.\n\nWhat surprised me most was how consistent and strong these priority effects were. I'd expected some advantage to early arrival, but the magnitude caught me off guard. The mechanism behind this advantage remains unclear from our study - we don't know whether it's about size differences that develop over time, resource preemption, or simply the psychological advantage of being established. We also can't say exactly what resources they're competing for, though their similar habitat preferences and diets suggest overlap in what they need.\n\nThis matters because it suggests that competitive lotteries - essentially random winners determined by arrival order rather than inherent competitive ability - might be crucial for maintaining species diversity in marine systems. When recruitment is spatially and temporally unpredictable, as it is for most reef fishes, small differences in timing can flip competitive outcomes. This adds a layer of stochasticity to community assembly that traditional competition theory doesn't capture. It also means that factors affecting larval supply timing - like climate variability or oceanographic changes - could have cascading effects on adult community structure.\n\nI'm left wondering about the broader implications. How common are these priority effects across different reef fish species? Do they scale up to affect entire community structure over multiple settlement events? And perhaps most intriguingly, are some species evolving to time their reproduction to take advantage of priority effects, breeding earlier to give their offspring a head start? The reefs around Moorea continue to pulse with new settlers each month, each arrival potentially reshuffling the competitive deck in ways we're only beginning to understand."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabricated details including specific measurements, numbers, and experimental procedures not found in the source paper. The main scientific findings are accurately represented, but the essay includes invented observational details and methodology specifics.",
+    "issues": [
+      {
+        "type": "fabricated_number",
+        "location": "essay",
+        "claim": "barely longer than a paperclip at 13.8 mm on average",
+        "problem": "The specific measurement of 13.8 mm average length is not mentioned in the paper",
+        "paperSays": "Both species settle in pulses around the new moon in the austral summer, at a standard length (SL) of 9–11 mm",
+        "suggestedFix": "Change to 'at a standard length of 9-11 mm' as stated in the paper"
+      },
+      {
+        "type": "fabricated_number",
+        "location": "essay",
+        "claim": "We constructed 28 standardized patch reefs",
+        "problem": "The specific number 28 is not mentioned in the paper",
+        "paperSays": "We determined habitat association for individuals of T. hardwicke and T. quinquevittatum, 25 mm by calculating mean Manly's alpha values for 13 habitat categories across 240 patch reefs",
+        "suggestedFix": "Remove the specific number or refer to experimental patch reefs without specifying quantity"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "each with a base of live Porites lobata coral and two colonies of Pocillopora verrucosa",
+        "problem": "This specific reef construction detail is not described in the paper",
+        "paperSays": "The paper mentions habitat associations with various coral types but doesn't describe experimental reef construction",
+        "suggestedFix": "Remove this fabricated construction detail"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We tagged each fish with colored elastomer markers so we could track individuals",
+        "problem": "The use of colored elastomer markers is not mentioned in the paper",
+        "paperSays": "The paper describes experimental manipulations but doesn't specify marking methods",
+        "suggestedFix": "Remove this fabricated tagging detail"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "in the northern lagoon",
+        "problem": "The specific location within Moorea (northern lagoon) is not mentioned in the paper",
+        "paperSays": "At our study site in Moorea, French Polynesia",
+        "suggestedFix": "Just say 'in Moorea, French Polynesia' as stated in the paper"
+      }
+    ]
   }
 }

@@ -7,36 +7,75 @@
   "doi": "10.1890/10-1510.1",
   "doiUrl": "https://doi.org/10.1890/10-1510.1",
   "openAccess": true,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T14:27:50.642Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 5,
   "analysis": {
-    "summary": "A comprehensive review synthesizing knowledge about the economic value of services provided by estuarine and coastal ecosystems—salt marshes, mangroves, seagrass beds, coral reefs, shellfish reefs, and beaches. These ecosystems provide storm protection, fishery nurseries, carbon storage, and water filtration worth billions of dollars.",
-
-    "keyQuestion": "What is the economic value of services provided by estuarine and coastal ecosystems, and how can valuation be improved?",
-
-    "approach": "Scientists reviewed the literature on ecosystem services from major coastal habitat types, synthesizing methods and estimates of their economic value.",
-
+    "summary": "Researchers conducted a comprehensive review to understand what estuarine and coastal ecosystems are worth to humanity, finding that while we have good economic valuations for some services like those provided by coral reefs and salt marshes, many critical benefits from seagrass beds and sand dunes remain unvalued despite massive global losses of these habitats.",
+    "keyQuestion": "What are the economic values of the various services that estuarine and coastal ecosystems provide to humans, and how can this information guide conservation and management decisions?",
+    "approach": "The researchers reviewed existing literature to catalog ecosystem services across five major coastal habitat types (marshes, mangroves, coral reefs, seagrass beds, and sand beaches/dunes) and compiled available economic valuation estimates for these services, focusing on how changes in these ecosystems affect human welfare.",
     "keyFindings": [
-      "Coastal ecosystems provide enormous economic value through multiple services",
-      "Valuation methods vary widely and often underestimate total value",
-      "Different ecosystems provide different services—no single habitat is universally most valuable",
-      "Valuation is essential for incorporating ecosystem services into policy decisions"
+      "Massive global habitat loss has already occurred: 50% of salt marshes, 35% of mangroves, 30% of coral reefs, and 29% of seagrasses are either lost or degraded worldwide",
+      "This habitat loss has caused measurable declines in ecosystem services: 33% decline in viable fisheries, 69% decline in nursery habitats, and 63% decline in filtering and detoxification services",
+      "Economic valuations exist for some services from coral reefs, salt marshes, and mangroves, but many important services like erosion control and pollution control have not been reliably valued",
+      "Connectivity between coastal ecosystems produces synergistic benefits that are much more significant than services from any single ecosystem alone"
     ],
-
-    "stickyFact": "Coastal ecosystems provide services worth billions annually—but only if we bother to count them in our economic decisions.",
-
-    "whyItMatters": "Coastal ecosystems are being destroyed rapidly, often because their economic value is invisible in traditional accounting. Quantifying ecosystem services makes the cost of destruction explicit and can shift policy toward conservation.",
-
-    "location": "Global review",
-
-    "species": ["Salt marshes", "Mangroves", "Seagrass beds", "Coral reefs", "Shellfish reefs"],
-
-    "themes": ["Conservation", "Management"],
-
-    "newsHeadline": "The Hidden Economy of Coastlines Is Worth More Than We Ever Counted",
-
-    "essay": "Ed Barbier, Sally Hacker, Chris Kennedy, Evamaria Koch, Brian Silliman, and I synthesized knowledge about the economic value of coastal ecosystem services. Salt marshes, mangroves, seagrass beds, coral reefs, shellfish reefs, and beaches all provide services that benefit human welfare—storm protection, fishery nurseries, carbon storage, water filtration, tourism support.\n\nWe reviewed how these services are valued economically. Storm protection can be quantified by comparing damage scenarios with and without ecosystem buffers. Fishery nursery value derives from tracing commercial catch to juvenile habitats. Carbon storage connects to emerging carbon markets. The methods have become sophisticated, though estimates still carry substantial uncertainty.\n\nThe values are large. Individual hectares of coastal habitat can generate substantial annual value, primarily through services that traditional economics treats as free. When developers convert coastal ecosystems, these values disappear but rarely appear in cost-benefit analyses. The marsh being filled generated services—storm protection, fishery support, water filtration—but nobody was billing for them.\n\nQuantifying ecosystem services doesn't guarantee conservation, but it makes explicit what's lost when ecosystems are destroyed. Uncertainty doesn't justify assigning zero value—zero is almost certainly wrong. Coastal ecosystems sustain economies that depend on them but rarely acknowledge the debt. Making that debt visible is the first step toward sustainable management."
+    "stickyFact": "The global decline in coastal ecosystems has caused a 69% decline in nursery habitats and a 63% decline in water filtering and detoxification services provided by suspension feeders and wetlands.",
+    "whyItMatters": "This research provides the economic framework needed to justify coastal conservation investments and reveals that we're losing significant ecosystem services, while highlighting that many critical services remain completely unvalued, meaning we're likely underestimating the true cost of coastal habitat destruction.",
+    "location": "Global",
+    "species": "Various coastal and estuarine species",
+    "themes": [
+      "conservation",
+      "economics",
+      "ecosystem services"
+    ],
+    "newsHeadline": "Scientists Reveal Massive Economic Value Hidden in Disappearing Coastlines",
+    "essay": "When researchers led by Edward Barbier and colleagues began tallying up what the world's coastlines are actually worth, they revealed something significant: we're losing natural wealth at a staggering pace, and we don't even know how much we're losing.\n\nThe team wanted to answer a deceptively simple question: what are estuarine and coastal ecosystems actually worth to humanity? These are the marshes, mangroves, coral reefs, seagrass beds, and beaches that rim our continents, and they're disappearing faster than almost any other habitat on Earth. To find out what we're losing, they combed through decades of research to catalog every service these ecosystems provide and put dollar values on them wherever possible.\n\nThe numbers were substantial, but not in the way one might expect. Yes, coastal ecosystems provide enormous economic value - but what the research showed was how much we've already lost. Globally, 50% of salt marshes, 35% of mangroves, 30% of coral reefs, and 29% of seagrasses are either lost or degraded. This destruction has caused a 33% decline in viable fisheries, a 69% decline in nursery habitats like oyster reefs and wetlands, and a 63% decline in the filtering and detoxification services that clean our water. We're not just losing scenery - we're losing the infrastructure that supports coastal economies and protects coastal communities.\n\nThe research revealed significant gaps in our economic knowledge. We've gotten good at valuing some services - we know coral reefs generate tourism revenue and salt marshes protect against storms. But vast categories of benefits remain completely unvalued. We have no reliable economic estimates for how seagrass beds and sand dunes protect our coasts, or how mangroves control pollution. Even for the ecosystems we understand better, critical services like nutrient transfer between coral reefs and other habitats have never been properly valued.\n\nThis matters because these ecosystems don't work in isolation - they're connected across the seascape in ways that multiply their benefits. A mangrove forest doesn't just provide nursery habitat for fish; it also filters pollution that would otherwise damage nearby coral reefs, which in turn provide the fish that support coastal fisheries. When we lose one piece, we lose more than just that piece - we lose the synergistic effects that make the whole system more valuable than the sum of its parts. This connectivity means that managing individual habitats in isolation is insufficient.\n\nThe path forward requires what the researchers call a 'seascape approach' - managing entire coastal systems rather than individual habitats. But first, we need to fill the enormous gaps in our knowledge about what these systems are worth. Until we can put proper valuations on coastal protection, water filtration, and habitat connectivity, we'll keep making decisions based on incomplete information. The question isn't whether we can afford to protect these ecosystems - it's whether we can afford not to understand what we're losing when we don't."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant fabrications, including invented dollar amounts not mentioned in the paper, a fabricated first-person narrative voice, and emotional reactions not present in the source. While the core scientific findings are accurate, the presentation style and specific claims go beyond what the paper actually says.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "headline",
+        "claim": "The Hidden Trillion-Dollar Value of Disappearing Coastlines",
+        "problem": "The paper never mentions a trillion-dollar value or uses that specific figure",
+        "paperSays": "The paper discusses the value of ecosystem services but does not provide a total dollar amount or mention 'trillion-dollar value'",
+        "suggestedFix": "Remove the specific trillion-dollar claim and use more general language about economic value"
+      },
+      {
+        "type": "fabrication",
+        "location": "whyItMatters",
+        "claim": "we're losing billions of dollars in ecosystem services annually",
+        "problem": "The paper does not provide any specific annual dollar loss figures",
+        "paperSays": "The paper discusses losses but does not quantify them as 'billions of dollars annually'",
+        "suggestedFix": "Remove the specific dollar amount and say 'we're losing significant economic value in ecosystem services'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When my colleagues Sally Hacker, Chris Kennedy, Evamaria Koch, Adrian Stier, Brian Silliman and I began tallying up what the world's coastlines are actually worth",
+        "problem": "The article is written in first person as if by Edward Barbier, but there's no indication this is an actual quote or first-person account from Barbier",
+        "paperSays": "The paper is authored by Barbier et al. but is written in standard academic third person",
+        "suggestedFix": "Rewrite in third person: 'When researchers led by Edward Barbier began tallying up...'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "What surprised me most was how patchy our economic knowledge remains",
+        "problem": "This personal reflection and emotional response is not in the paper",
+        "paperSays": "The paper objectively states gaps in knowledge but does not include personal reactions or surprises",
+        "suggestedFix": "Rewrite objectively: 'The research revealed significant gaps in economic knowledge'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "we discovered something alarming",
+        "problem": "The paper does not use emotional language like 'alarming' or describe the researchers' emotional responses",
+        "paperSays": "The paper presents findings objectively without emotional characterizations",
+        "suggestedFix": "Use neutral language: 'the research revealed'"
+      }
+    ]
   }
 }

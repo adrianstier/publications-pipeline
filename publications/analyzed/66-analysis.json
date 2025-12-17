@@ -7,36 +7,85 @@
   "doi": "10.1007/s00442-009-1554-z",
   "doiUrl": "https://doi.org/10.1007/s00442-009-1554-z",
   "openAccess": false,
-  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "analyzedAt": "2025-12-17T14:32:16.322Z",
   "expertReviewed": true,
-  "accuracyScore": 10,
-  "issuesFound": 0,
+  "accuracyScore": 6,
+  "issuesFound": 6,
   "analysis": {
-    "summary": "Priority effects (arriving first) and habitat complexity both affect competitive outcomes among settling reef fish. Early arrivers dominate newcomers, and complex habitat benefits early arrivers but does not rescue late arrivers from intense competition.",
-
-    "keyQuestion": "How do priority effects (arriving first) and habitat complexity interact to affect competitive outcomes among settling reef fish?",
-
-    "approach": "Researchers conducted a factorial field experiment in Moorea, manipulating both relative timing of arrival and habitat complexity to measure effects on survival of competing juvenile wrasses.",
-
+    "summary": "Scientists studied how the timing of when fish arrive at a reef and the complexity of their habitat affects competition between young coral reef fish, finding that early arrival gives fish a major survival advantage but only in simple habitats.",
+    "keyQuestion": "How do the timing of arrival and habitat complexity independently and together affect the strength of competition among young coral reef fish?",
+    "approach": "The researchers manipulated experimental coral reefs in French Polynesia, controlling when young wrasse arrived (simultaneously or 5 days apart) and the structural complexity of the habitat, then measured survival and aggressive behavior.",
     "keyFindings": [
-      "Simultaneous arrival with competitors improved survival compared to late arrival",
-      "Complex habitat increased survival for early and simultaneous arrivers",
-      "Complex habitat did not rescue fish that arrived late",
-      "Aggression by prior residents drove mortality among late arrivers"
+      "Fish arriving simultaneously with competitors had 2.89-fold higher survival than those arriving 5 days later",
+      "Complex habitats increased survival by 1.55-fold, but only when fish arrived simultaneously or early",
+      "Habitat complexity had no effect on survival for late-arriving fish",
+      "Aggression from early residents toward newcomers was significantly higher when newcomers arrived 5 days late"
     ],
-
-    "stickyFact": "A fish arriving late to a reef faces much higher mortality—and hiding places can't save it from residents who already know every crevice.",
-
-    "whyItMatters": "Climate change is altering timing of settlement for reef fish. Understanding how priority effects shape communities reveals vulnerabilities that intensify as phenological mismatches increase.",
-
+    "stickyFact": "Fish that arrived at the same time as their competitors had nearly 3 times better survival odds than those arriving just 5 days later - a 2.89-fold increase in survival.",
+    "whyItMatters": "This research shows that small differences in timing can have massive effects on survival in competitive environments, which becomes increasingly important as climate change alters breeding seasons and settlement patterns of marine species.",
     "location": "Moorea, French Polynesia",
-
-    "species": ["Thalassoma quinquevittatum (fivestripe wrasse)"],
-
-    "themes": ["Coral"],
-
-    "newsHeadline": "First Fish to the Reef Wins—And That's a Problem as Timing Shifts",
-
-    "essay": "Shane Geange and I tested how priority effects and habitat complexity affect competitive outcomes among settling reef fish. We manipulated both factors: some fish arrived simultaneously with competitors while others arrived late, and reefs varied in structural complexity.\n\nLate arrivers suffered substantially higher mortality. Early residents had established territories, learned the terrain, and grown larger. They attacked newcomers relentlessly, driving mortality rates that far exceeded those of fish arriving simultaneously.\n\nWe expected complex habitat might buffer late arrivers by providing hiding places. It didn't work that way. Complex habitat improved survival for early and simultaneous arrivers, but late arrivers died at high rates regardless of habitat complexity. Residents knew where all the hiding spots were and searched them systematically.\n\nThe first-mover advantage created by even short priority periods was substantial. Climate change is altering when larvae spawn, develop, and settle. If different species shift their timing differently, historical competitive relationships may dissolve. Species that historically arrived simultaneously might find themselves systematically late—facing resident aggression they never evolved to handle."
+    "species": "Five-lined wrasse (Thalassoma quinquevittatum)",
+    "themes": [
+      "competition",
+      "priority effects",
+      "habitat complexity",
+      "coral reef ecology",
+      "fish behavior"
+    ],
+    "newsHeadline": "Late to the Party: Coral Reef Fish Face Near-Certain Death When They Arrive Just Days Behind Competitors",
+    "essay": "Researchers Shane Wallace Geange and Adrian C. Stier studied young wrasse settling onto coral reefs in the lagoons of Moorea, witnessing something that would fundamentally change how we think about competition in marine ecosystems. Those fish arriving just five days after their competitors faced survival odds nearly three times worse than those arriving simultaneously—a 2.89-fold difference that meant the difference between life and death.\n\nThe scientists wanted to understand something that had puzzled marine biologists for years: why does timing matter so much in competitive interactions, and can complex habitats level the playing field? To find out, they constructed experimental patch reefs in Moorea's northern lagoon and manipulated two key variables—when young five-lined wrasse arrived (simultaneously or with a 5-day delay) and the structural complexity of their new homes. Then they observed what happened.\n\nThe results were stark. Simultaneous arrival with competitors resulted in that dramatic 2.89-fold increase in survival compared to arriving 5 days later. But habitat complexity told a more nuanced story. When fish arrived simultaneously or early, increasing habitat complexity boosted survival by 1.55-fold. However, for those unlucky late arrivals, habitat complexity provided no survival benefit whatsoever. Through behavioral observations, the researchers discovered that survivorship was negatively correlated with aggression, and aggression by prior residents toward newcomers was significantly greater when focal individuals arrived 5 days later than when they arrived simultaneously.\n\nWhat surprised the researchers most was that increasing habitat complexity didn't reduce aggression at all. They had expected complex habitats to provide refuges that would dampen competitive interactions, but the data told a different story. It seems that when competitors arrive simultaneously, competitive interactions are weak and habitat complexity helps by disrupting predation. But when competitors arrive at different times, aggression intensifies and late arrivals get excluded from habitat resources entirely, making complexity irrelevant.\n\nThese findings matter because they reveal that competition isn't just about who's stronger or bigger—it's about when you show up to the party. As climate change shifts breeding seasons and larval transport patterns across the globe, small changes in settlement timing could have cascading effects on reef fish communities. A few days' difference in arrival time could determine which individuals survive to reproduce and which lineages persist.\n\nBut fundamental questions remain about the mechanisms at play. Scientists still don't fully understand why habitat complexity fails to buffer late arrivals from competitive exclusion, or exactly how early residents maintain their dominance. The study shows that the strength of competition is context-dependent, but the competitive mechanisms that determine these outcomes require further investigation."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabricated details including specific numbers of experimental reefs and coral colonies not mentioned in the paper, incorrect first-person narration, invented details about tagging fish, and dramatic language not present in the source. The core scientific findings are accurately reported, but the article adds fabricated methodological details and narrative elements.",
+    "issues": [
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "When my colleague Adrian Stier and I watched young wrasse settle onto our experimental coral reefs",
+        "problem": "Article is written in first person as if by one of the authors, but this is a news article being fact-checked, not authored by the scientists",
+        "paperSays": "The paper is authored by Shane Wallace Geange and Adrian C. Stier",
+        "suggestedFix": "Remove first person perspective and write as third person: 'When researchers Geange and Stier watched...'"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "We constructed 30 identical patch reefs in Moorea's northern lagoon, each built from live Porites coral and separated by sand flats",
+        "problem": "The specific number '30 identical patch reefs' is not mentioned in the paper",
+        "paperSays": "The paper mentions the study was conducted in Moorea's northern lagoon but doesn't specify the exact number of experimental reefs",
+        "suggestedFix": "Remove the specific number: 'The researchers constructed experimental patch reefs in Moorea's northern lagoon'"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "each built from live Porites coral",
+        "problem": "Paper doesn't specify that experimental reefs were built from live Porites coral",
+        "paperSays": "Patch reefs are predominantly massive Porites coral colonies, often surmounted by smaller colonies of other coral species",
+        "suggestedFix": "Remove specific construction details not mentioned in the paper"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "with either 2 or 4 branching Pocillopora coral colonies",
+        "problem": "The specific numbers '2 or 4' coral colonies are not mentioned in the paper",
+        "paperSays": "The paper mentions manipulating habitat complexity but doesn't specify these exact numbers of coral colonies",
+        "suggestedFix": "Remove specific numbers: 'varying the structural complexity of the habitat'"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "Then we tagged individual fish and watched what happened",
+        "problem": "Paper doesn't mention tagging individual fish",
+        "paperSays": "Paper describes behavioral observations and survival measurements but doesn't mention tagging",
+        "suggestedFix": "Remove tagging reference: 'Then they observed survival and behavior'"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "the underwater battles that determine these life-and-death outcomes remain largely hidden from view",
+        "problem": "This dramatic language about 'underwater battles' and things being 'hidden from view' is not in the paper",
+        "paperSays": "Paper discusses aggression and competitive interactions but doesn't use this dramatic language",
+        "suggestedFix": "Use more neutral scientific language about competitive mechanisms"
+      }
+    ]
   }
 }
