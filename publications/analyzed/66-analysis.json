@@ -1,0 +1,42 @@
+{
+  "publicationId": "66",
+  "title": "Priority effects and habitat complexity affect the strength of competition",
+  "authors": "Geange, Shane Wallace; Stier, Adrian C.",
+  "year": 2010,
+  "journal": "Oecologia",
+  "doi": "10.1007/s00442-009-1554-z",
+  "doiUrl": "https://doi.org/10.1007/s00442-009-1554-z",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Priority effects (arriving first) and habitat complexity both affect competitive outcomes among settling reef fish. Early arrivers dominate newcomers, and complex habitat benefits early arrivers but does not rescue late arrivers from intense competition.",
+
+    "keyQuestion": "How do priority effects (arriving first) and habitat complexity interact to affect competitive outcomes among settling reef fish?",
+
+    "approach": "Researchers conducted a factorial field experiment in Moorea, manipulating both relative timing of arrival and habitat complexity to measure effects on survival of competing juvenile wrasses.",
+
+    "keyFindings": [
+      "Simultaneous arrival with competitors improved survival compared to late arrival",
+      "Complex habitat increased survival for early and simultaneous arrivers",
+      "Complex habitat did not rescue fish that arrived late",
+      "Aggression by prior residents drove mortality among late arrivers"
+    ],
+
+    "stickyFact": "A fish arriving late to a reef faces much higher mortality—and hiding places can't save it from residents who already know every crevice.",
+
+    "whyItMatters": "Climate change is altering timing of settlement for reef fish. Understanding how priority effects shape communities reveals vulnerabilities that intensify as phenological mismatches increase.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Thalassoma quinquevittatum (fivestripe wrasse)"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "First Fish to the Reef Wins—And That's a Problem as Timing Shifts",
+
+    "essay": "Shane Geange and I tested how priority effects and habitat complexity affect competitive outcomes among settling reef fish. We manipulated both factors: some fish arrived simultaneously with competitors while others arrived late, and reefs varied in structural complexity.\n\nLate arrivers suffered substantially higher mortality. Early residents had established territories, learned the terrain, and grown larger. They attacked newcomers relentlessly, driving mortality rates that far exceeded those of fish arriving simultaneously.\n\nWe expected complex habitat might buffer late arrivers by providing hiding places. It didn't work that way. Complex habitat improved survival for early and simultaneous arrivers, but late arrivers died at high rates regardless of habitat complexity. Residents knew where all the hiding spots were and searched them systematically.\n\nThe first-mover advantage created by even short priority periods was substantial. Climate change is altering when larvae spawn, develop, and settle. If different species shift their timing differently, historical competitive relationships may dissolve. Species that historically arrived simultaneously might find themselves systematically late—facing resident aggression they never evolved to handle."
+  }
+}

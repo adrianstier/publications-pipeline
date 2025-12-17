@@ -1,0 +1,42 @@
+{
+  "publicationId": "59",
+  "title": "High Mortality in a Surgeonfish Following an Exceptional Settlement Event",
+  "authors": "Stier, Adrian C.; Idjadi, Joshua A.; Geange, Shane W.; White, Jada-Simone S.",
+  "year": 2013,
+  "journal": "Pacific Science",
+  "doi": "10.2984/67.4.4",
+  "doiUrl": "https://doi.org/10.2984/67.4.4",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "An exceptional settlement event brought convict surgeonfish recruits at far above normal densities, but most died within weeks due to intense density-dependent mortality. Despite the exceptional larval input, final recruitment to the population was not proportionally exceptional.",
+
+    "keyQuestion": "What happens to reef fish populations when settlement is extraordinarily high?",
+
+    "approach": "Researchers documented an exceptional settlement event for convict surgeonfish in Moorea and tracked subsequent mortality to quantify the relationship between initial density and survival.",
+
+    "keyFindings": [
+      "An exceptional settlement event brought surgeonfish recruits at far above normal densities",
+      "Mortality following settlement was extremely high—most recruits died within weeks",
+      "Intense density-dependent mortality reduced the cohort dramatically",
+      "Despite exceptional larval input, final recruitment was not proportionally exceptional"
+    ],
+
+    "stickyFact": "A bumper crop of baby surgeonfish settled on the reef—and then most of them died, showing that more arrivals doesn't always mean more survivors.",
+
+    "whyItMatters": "Reef fish populations are often considered recruitment-limited, with adult numbers depending on how many larvae arrive. This study shows that extreme settlement can trigger intense density-dependent mortality that erases much of the advantage, suggesting populations may be more buffered against larval supply variability than simple models predict.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Convict surgeonfish (Acanthurus triostegus)"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "When Baby Boom Becomes Baby Bust on Coral Reefs",
+
+    "essay": "Joshua Idjadi, Shane Geange, Jada-Simone White, and I documented an exceptional settlement event for convict surgeonfish in Moorea—the largest anyone at the research station had seen. Surgeonfish carpeted the reef in densities far beyond normal, suggesting this cohort might dominate fish communities for years.\n\nWithin weeks, most were dead. We tracked mortality as the massive settlement event collapsed. Predators picked off settlers at high rates—so many vulnerable fish concentrated in one place made hunting efficient. Competition for food intensified as settlers stripped algae from the reef surface. Fish crowded into hiding spots meant for fewer individuals. The mathematics of too many fish competing for too little space took its toll.\n\nBy the time the mortality wave passed, the exceptional settlement had produced roughly average recruitment to the population. The surplus had vanished through density-dependent mortality.\n\nThis demonstrates how density dependence acts as a buffer. When settlers arrive at typical densities, per-capita survival is reasonable. When densities soar, resources become limiting, predators concentrate their efforts, and per-capita survival plummets. The population mechanism erases exceptional inputs through exceptional mortality.\n\nThe implications matter for reef fish population management. Simple models suggest more larvae arriving should mean more adults growing up. But if density-dependent mortality compensates strongly, extra recruits just die at higher rates. The population ceiling may be set by carrying capacity rather than larval supply. Enhancing larval production may produce diminishing returns if the reef cannot support the additional fish."
+  }
+}

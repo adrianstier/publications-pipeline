@@ -1,0 +1,42 @@
+{
+  "publicationId": "65",
+  "title": "Coral density and predation affect growth of a reef-building coral",
+  "authors": "Shantz, A. A.; Stier, A. C.; Idjadi, J. A.",
+  "year": 2011,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-010-0694-2",
+  "doiUrl": "https://doi.org/10.1007/s00338-010-0694-2",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Both coral density and predation affect coral growth, but in opposite directions than expected. Corals grew faster at higher densities (contrary to competition predictions) and slower with predator access. The effects were independent—no interaction between density and predation.",
+
+    "keyQuestion": "How do coral colony density and predation independently and interactively affect coral growth?",
+
+    "approach": "Researchers conducted a field experiment manipulating predator access and conspecific coral density for massive Porites colonies, measuring skeletal growth rates.",
+
+    "keyFindings": [
+      "Predator exclusion increased coral growth",
+      "Higher coral density increased growth—contrary to competition predictions",
+      "The effects of predators and density were independent",
+      "Density benefits may come from altered water flow or increased mutualist access"
+    ],
+
+    "stickyFact": "Corals grow faster when they have neighbors—the coral equivalent of strength in numbers, contradicting expectations of competition.",
+
+    "whyItMatters": "Coral restoration often spaces transplants widely to minimize competition. This study suggests clustering might actually benefit growth, potentially improving restoration outcomes.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Massive Porites coral"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "Corals Grow Faster with Neighbors—So Why Do We Plant Them Alone?",
+
+    "essay": "Andrew Shantz, Joshua Idjadi, and I tested how coral density and predation affect coral growth. Standard ecological theory predicts that organisms living close together compete for resources, so corals planted close together should grow slower. We found the opposite: corals with neighbors grew faster than isolated corals.\n\nThe experiment manipulated two factors: predator access and neighbor density. Caging corals to exclude predatory fish boosted growth, confirming that corallivory takes a toll. But the density effect was larger and opposite to predictions. More neighbors meant more growth, not less.\n\nThe mechanism remains unclear. Clustered coral colonies might alter water flow beneficially, enhancing delivery of food particles or export of waste. They might attract more mutualist partners than isolated colonies can support. Neighbors might reduce sedimentation through collective effects on currents.\n\nThe finding has implications for coral restoration. Projects typically space transplants widely to minimize expected competition. But if spacing sacrifices density benefits that natural reefs provide, this approach might be undermining restoration success. Strategic clustering—close enough for facilitation without intense competition—might accelerate recovery. Understanding reefs as integrated systems rather than collections of competing individuals could improve conservation strategies."
+  }
+}

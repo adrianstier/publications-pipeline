@@ -1,0 +1,80 @@
+{
+  "publicationId": "6",
+  "title": "Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength",
+  "authors": "DiFiore, Bartholomew P.; Stier, Adrian C.",
+  "year": 2023,
+  "journal": "Journal of Animal Ecology",
+  "doi": "10.1111/1365-2656.13918",
+  "doiUrl": "https://doi.org/10.1111/1365-2656.13918",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T19:03:55.101Z",
+  "expertReviewed": true,
+  "accuracyScore": 1,
+  "issuesFound": 5,
+  "analysis": {
+    "summary": "Scientists studied how variation in body size affects the strength of interactions between lobsters and sea urchins across different spatial and temporal scales.",
+    "keyQuestion": "How does body size variation drive spatial and temporal changes in lobster-urchin interaction strength?",
+    "approach": "The researchers examined lobster-urchin interactions to understand how body size influences interaction dynamics.",
+    "keyFindings": [
+      "Body size variation drives spatial and temporal variation in lobster-urchin interaction strength"
+    ],
+    "stickyFact": "Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength.",
+    "whyItMatters": "Understanding how body size affects predator-prey interactions helps predict ecosystem dynamics and species interactions in marine environments.",
+    "location": "Marine environments where lobsters and urchins interact",
+    "species": "Lobsters and sea urchins",
+    "themes": [
+      "predator-prey interactions",
+      "body size effects",
+      "marine ecology",
+      "spatial variation",
+      "temporal variation"
+    ],
+    "newsHeadline": "Body Size Variation Drives Changes in Lobster-Urchin Interactions",
+    "essay": "Understanding predator-prey relationships in marine ecosystems requires examining how various factors influence interaction strength. Bartholomew DiFiore and Adrian Stier investigated how body size variation affects the interactions between lobsters and sea urchins across different scales. Their research titled 'Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength' provides insights into how physical characteristics of organisms can influence ecological dynamics. The study contributes to our understanding of marine predator-prey relationships and how they vary in space and time. This research is important for predicting how marine ecosystems might respond to environmental changes that affect organism size distributions or predator-prey dynamics."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The entire article appears to be about a completely different study (Kopecky et al. on coral reef material legacies) than the one cited in the header (DiFiore & Stier on lobster-urchin interactions). This is a fundamental mismatch where the wrong paper content has been used throughout the entire article.",
+    "issues": [
+      {
+        "type": "error",
+        "location": "headline",
+        "claim": "Dead Coral Skeletons May Be Sabotaging Reef Recovery",
+        "problem": "This paper is not about coral reefs, coral skeletons, or reef recovery. The title and content indicate this is about lobster-urchin interactions.",
+        "paperSays": "Title: Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength. The abstract discusses coral reef material legacies, but this appears to be a different paper entirely from the DiFiore & Stier lobster-urchin study referenced in the header.",
+        "suggestedFix": "The entire article appears to be about a completely different study than the one cited in the header"
+      },
+      {
+        "type": "error",
+        "location": "summary",
+        "claim": "Scientists used mathematical modeling to show how dead coral skeletons left behind after bleaching events can make coral reefs more vulnerable to collapse",
+        "problem": "The cited paper by DiFiore & Stier is about lobster-urchin interactions, not coral reef modeling",
+        "paperSays": "Title: Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength",
+        "suggestedFix": "The summary should be about the actual DiFiore & Stier lobster-urchin study"
+      },
+      {
+        "type": "error",
+        "location": "essay",
+        "claim": "My colleagues Adrian Stier, Russell Schmitt, Sally Holbrook, and Holly Moeller at UC Santa Barbara and I decided to tackle this puzzle",
+        "problem": "The cited paper is by DiFiore & Stier, but the essay is written from the perspective of Kopecky and mentions different co-authors. This appears to be content from a different paper (Kopecky et al.) that studies coral reefs, not the DiFiore & Stier lobster study that should be the focus.",
+        "paperSays": "Authors: DiFiore, Bartholomew P.; Stier, Adrian C.",
+        "suggestedFix": "The essay should be about the DiFiore & Stier lobster-urchin study, not a coral reef study"
+      },
+      {
+        "type": "error",
+        "location": "keyFindings",
+        "claim": "All four key findings about coral skeletons, macroalgae refugia, and regime shifts",
+        "problem": "These findings are about coral reef ecology, but the cited paper is about lobster-urchin interactions",
+        "paperSays": "Title: Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength",
+        "suggestedFix": "Key findings should be about lobster-urchin interaction strength variation"
+      },
+      {
+        "type": "error",
+        "location": "whyItMatters",
+        "claim": "This research helps explain why some coral reefs recover quickly after disturbances while others shift permanently to algae-dominated states",
+        "problem": "The cited paper is about lobster-urchin interactions, not coral reef recovery",
+        "paperSays": "Title: Variation in body size drives spatial and temporal variation in lobster–urchin interaction strength",
+        "suggestedFix": "Should explain why lobster-urchin interaction research matters"
+      }
+    ]
+  }
+}

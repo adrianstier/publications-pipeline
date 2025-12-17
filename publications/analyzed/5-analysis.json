@@ -1,0 +1,98 @@
+{
+  "publicationId": "5",
+  "title": "3D photogrammetry improves measurement of growth and biodiversity patterns in branching corals",
+  "authors": "Curtis, Joseph S.; Galvan, Journ W.; Primo, Alexander; Osenberg, Craig W.; Stier, Adrian C.",
+  "year": 2023,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-023-02367-7",
+  "doiUrl": "https://doi.org/10.1007/s00338-023-02367-7",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T19:02:50.493Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 7,
+  "analysis": {
+    "summary": "Scientists used underwater 3D photography to measure coral colonies and found it provides more accurate measurements of coral growth and better predictions of which corals harbor the most diverse communities of fish and invertebrates compared to traditional measuring techniques.",
+    "keyQuestion": "Do manual measurements or 3D photogrammetry better describe short-term coral growth and predict the abundance and biodiversity of animals living within coral colonies?",
+    "approach": "Researchers measured 60 Pocillopora coral colonies in Moorea, French Polynesia using both traditional tape measures and 3D photogrammetry. They tracked growth over 105 days and counted the fish and invertebrates living in each colony to see which measurement method better predicted biodiversity.",
+    "keyFindings": [
+      "3D photogrammetry measurements of coral skeletal volume were the best predictors of fish and invertebrate abundance and diversity within coral colonies",
+      "Photogrammetric growth measurements were much less variable than manual measurements - skeletal volume measurements had a standard deviation of only 9.99% compared to 23.9% for manual ellipsoid measurements",
+      "Over a third of manual growth measurements were negative (13 out of 33 colonies), while only 4 out of 33 photogrammetric measurements and zero skeletal volume measurements were negative",
+      "All photogrammetric growth measurements showed the expected positive correlation with initial coral size, while manual measurements showed no correlation"
+    ],
+    "stickyFact": "Over a third of manual growth measurements were negative (13 out of 33 colonies), suggesting the corals were shrinking, while photogrammetric skeletal measurements showed zero negative growth rates over the same period.",
+    "whyItMatters": "This research shows that 3D photography can revolutionize coral reef monitoring by providing more accurate growth measurements and better predictions of which corals support the most biodiversity. This could help scientists identify the most ecologically valuable coral colonies for conservation efforts and track reef health more precisely as climate change threatens coral ecosystems.",
+    "location": "Moorea, French Polynesia",
+    "species": "Pocillopora coral colonies",
+    "themes": [
+      "marine technology",
+      "coral reef ecology",
+      "biodiversity monitoring",
+      "conservation tools"
+    ],
+    "newsHeadline": "Underwater 3D Photography Reveals Hidden Patterns in Coral Growth and Marine Life",
+    "essay": "Researchers comparing traditional measuring techniques to 3D photogrammetry found significant differences in how accurately each method captures coral growth and predicts biodiversity. The study, conducted on 60 Pocillopora coral colonies in Moorea, French Polynesia, revealed that over a third of manual measurements suggested corals were shrinking over a 105-day period, while photogrammetric skeletal measurements showed zero instances of negative growth.\n\nThe research team, led by Joseph Curtis and colleagues from UC Santa Barbara and the University of Georgia, wanted to determine which measurement method better captures coral growth patterns and predicts which colonies support the most diverse communities of fish and invertebrates. They measured each colony using both flexible tape to estimate length, width, and height, and underwater photography to create detailed 3D models.\n\nThe results demonstrated clear advantages for photogrammetric measurements. Skeletal volume measurements had a standard deviation of only 9.99%, while manual ellipsoid measurements varied by 23.9% – more than twice as much. The 3D approach also provided better predictions of biodiversity, with skeletal volume measurements reducing prediction error by about 10% compared to manual estimates. All photogrammetric methods showed positive correlation with initial colony size, while manual measurements showed no correlation.\n\nThese findings have important implications for coral reef conservation. As coral reefs face unprecedented pressure from climate change, accurate monitoring tools are essential for tracking reef health and identifying which colonies support the most biodiversity. The ability to non-destructively measure skeletal volume could transform how scientists monitor reef recovery and target protection efforts.\n\nThe research highlights both the potential and the challenges of implementing new technologies in marine ecology. While photogrammetry offers clear advantages in measurement accuracy and predictive power, scaling up these techniques to monitor thousands of colonies across entire reef systems remains a significant challenge for the conservation community."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications, particularly in the essay section which is written as a first-person account with invented personal reactions, explanations, and commentary not found in the paper. The factual content about the study methods and results appears accurate, but the fabricated narrative voice and personal anecdotes are major issues.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When I first compared our traditional measuring tape data to the 3D photogrammetry models of the same coral colonies, I couldn't believe what I was seeing.",
+        "problem": "The essay is written in first person as if by the researcher, but this is fabricated - there are no quotes or first-person accounts from researchers in the paper",
+        "paperSays": "The paper is written in standard scientific third person with no personal anecdotes or first-person accounts",
+        "suggestedFix": "Remove first-person narrative and stick to reporting the findings objectively"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "My colleagues Journ Galvan, Alexander Primo, Craig Osenberg, and I had stumbled onto something important",
+        "problem": "This implies a personal account and uses casual language ('stumbled onto') not found in the paper",
+        "paperSays": "The paper lists authors but contains no personal accounts of discovery",
+        "suggestedFix": "Report the research findings without fabricated personal narrative"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "What surprised me most was how much error seemed to creep into our traditional measurements, especially for larger corals that departed from simple elliptical shapes.",
+        "problem": "This is a fabricated personal reaction - the paper doesn't discuss researcher surprise or mention larger corals departing from elliptical shapes",
+        "paperSays": "The paper objectively reports measurement differences without personal reactions or explanations about coral shapes",
+        "suggestedFix": "Report the measurement differences without fabricated personal commentary"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The 3D models revealed that when we multiplied length, width, and height measurements to calculate volume, small errors in each dimension compounded into large errors in our final estimates.",
+        "problem": "This explanation of error propagation is not provided in the paper - it's a fabricated mechanistic explanation",
+        "paperSays": "The paper reports differences in measurement variability but doesn't explain the mechanism of error propagation",
+        "suggestedFix": "Report the observed differences without adding fabricated explanations"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "I also hadn't expected that photogrammetry would give us access to measurements we simply couldn't make manually – like the actual skeletal volume of living corals without destroying them.",
+        "problem": "This is fabricated personal commentary about expectations and destructive sampling that isn't mentioned in the paper",
+        "paperSays": "The paper describes skeletal volume measurements but doesn't discuss destruction or researcher expectations",
+        "suggestedFix": "Simply state that photogrammetry allowed measurement of skeletal volume"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "But I'm left with questions that keep me up at night.",
+        "problem": "This is fabricated personal commentary not found in the paper",
+        "paperSays": "The paper contains no personal reflections or commentary from researchers",
+        "suggestedFix": "Remove fabricated personal commentary"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Why do some measurement approaches work better for certain coral shapes than others? How much of what we think we know about coral growth patterns is actually measurement error?",
+        "problem": "These specific questions are fabricated and not posed in the paper",
+        "paperSays": "The paper doesn't pose these specific questions about coral shapes or measurement error",
+        "suggestedFix": "Remove fabricated questions or base them on actual discussion in the paper"
+      }
+    ]
+  }
+}

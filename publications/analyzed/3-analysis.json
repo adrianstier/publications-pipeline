@@ -1,0 +1,74 @@
+{
+  "publicationId": "3",
+  "title": "How fishes and invertebrates impact coral resilience",
+  "authors": "Stier, Adrian C.; Osenberg, Craig W.",
+  "year": 2024,
+  "journal": "Current Biology",
+  "doi": "10.1016/j.cub.2024.05.071",
+  "doiUrl": "https://doi.org/10.1016/j.cub.2024.05.071",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T18:59:27.646Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 4,
+  "analysis": {
+    "summary": "This is a quick guide explaining how small coral guard crabs (Trapeziidae family) protect their coral hosts from predators and sediment, creating a mutually beneficial relationship that helps maintain coral reef ecosystems.",
+    "keyQuestion": "What services do coral guard crabs provide to their host corals, and how do these relationships affect coral reef resilience?",
+    "approach": "This is a review paper that synthesizes existing research on Trapeziid crabs and their relationships with corals, drawing on field observations and experimental studies of crab defensive behaviors and coral survival.",
+    "keyFindings": [
+      "Trapeziid crabs actively defend their coral hosts against predators like crown-of-thorns sea stars and corallivorous snails by attacking them with their claws",
+      "The crabs also act as housekeepers, removing sediment from coral surfaces that could otherwise kill the colony",
+      "When researchers remove crabs from corals in high sedimentation areas, the corals die, but corals with crabs present survive",
+      "Climate change experiments show increased water temperature reduces crab abundance and egg production, and causes crabs to expel their mates"
+    ],
+    "stickyFact": "Over 20 species of Trapeziid crab live within the branches of coral colonies and are so dependent on their coral host for food and shelter that they cannot survive outside of their host.",
+    "whyItMatters": "Understanding these crab-coral partnerships reveals how small organisms can have outsized effects on coral reef resilience, and shows how climate change could disrupt these protective relationships, potentially accelerating coral reef decline.",
+    "location": "Tropical Pacific Ocean",
+    "species": "Trapeziidae family crabs and their coral hosts (primarily Pocillopora genus)",
+    "themes": [
+      "symbiosis",
+      "coral reef ecology",
+      "climate change impacts",
+      "predator defense"
+    ],
+    "newsHeadline": "Tiny Bodyguard Crabs Fight Off Coral Predators Much Larger Than Themselves",
+    "essay": "Trapeziid crabs represent a remarkable example of mutualistic relationships in coral reef ecosystems. These small crustaceans live exclusively within the branches of cauliflower corals and other branching species in the tropical Pacific, often as male-female pairs, and cannot survive outside their coral homes.\n\nResearch has revealed that these crabs serve dual roles as both defenders and housekeepers for their coral hosts. They attack predators like crown-of-thorns sea stars and pincushion stars - voracious corallivores that can devastate reefs - using their powerful claws to shove the predators and pinch their tube feet. They also defend against grazing snails like Drupella cornus and Coralliophila violacea. Beyond defense, the crabs constantly remove sediment from coral surfaces, and this housekeeping proves critical for coral survival. When researchers remove crabs from corals in coastal regions with high sedimentation rates, the corals die, but when crabs are present, the corals survive.\n\nClimate change poses new threats to these partnerships. In experiments simulating future climate conditions, increased water temperature reduced crab abundance and egg production. The warming also caused crabs to expel their mates and other helpful crustaceans, suggesting that climate change could unravel these protective relationships even before the corals themselves succumb to bleaching.\n\nThis research demonstrates how coral resilience depends on networks of relationships that extend beyond the coral organism itself. By protecting their hosts, these crabs create 'halos' of protection that benefit nearby corals and the fish and invertebrates that depend on them. The crabs' services typically greatly outweigh any costs from their feeding on coral tissue, making them net positive for reef health. Individual crabs vary in their defensive capabilities based on size, claw shape, and genetics, though the factors that determine defensive effectiveness remain areas for further research.\n\nAs climate change accelerates, understanding and protecting these mutualistic relationships becomes increasingly important for coral conservation efforts and maintaining the diversity of coral reef ecosystems."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant fabrications, including a completely false sticky fact about neurons/nervous systems, fabricated personal anecdotes, and invented first-person perspective. While much of the scientific content is accurate to the paper, these fabrications undermine the credibility.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "These coral colonies contain more than half of the neurons in the entire coral reef nervous system.",
+        "problem": "This claim about neurons and nervous systems is completely fabricated - corals don't have nervous systems, and this information appears nowhere in the paper",
+        "paperSays": "The paper discusses Trapeziid crabs and their symbiotic relationship with corals, but makes no mention of neurons or nervous systems",
+        "suggestedFix": "Replace with an actual fact from the paper, such as 'Over 20 species of Trapeziid crab live within the branches of coral colonies and cannot survive outside of their host.'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "I first became fascinated by these relationships when I watched a crab no bigger than a quarter attack a crown-of-thorns sea star many times its size.",
+        "problem": "This is a fabricated personal anecdote - the paper is written by Stier and Osenberg, and contains no first-person observations or size comparisons to quarters",
+        "paperSays": "The paper is a review/quick guide format with no personal anecdotes or specific observational details like size comparisons",
+        "suggestedFix": "Remove the fabricated personal story and stick to the scientific information from the paper"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Working with my colleague Craig Osenberg, we wanted to understand exactly how these tiny Trapeziid crabs manage to protect their coral homes",
+        "problem": "The article is written as if by one of the authors, but this is fabricated - the paper doesn't describe their personal research process this way",
+        "paperSays": "The paper is co-authored by Stier and Osenberg but doesn't describe their personal working relationship or research motivations in first person",
+        "suggestedFix": "Write in third person about the research rather than fabricating a first-person perspective"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "We don't fully understand why this social breakdown occurs",
+        "problem": "The paper doesn't state that the mechanism is unknown - this adds speculation not present in the source",
+        "paperSays": "The paper simply states the experimental results: 'increased water temperature caused reductions in crab abundance and egg production, and caused crabs to expel their mates'",
+        "suggestedFix": "State only what the experiments found without adding speculation about understanding the mechanism"
+      }
+    ]
+  }
+}

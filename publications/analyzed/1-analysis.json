@@ -1,0 +1,67 @@
+{
+  "publicationId": "1",
+  "title": "Fish services to corals: a review of how coral-associated fishes benefit corals",
+  "authors": "Stier, Adrian C.; Chase, Tory J.; Osenberg, Craig W.",
+  "year": 2025,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-025-02647-4",
+  "doiUrl": "https://doi.org/10.1007/s00338-025-02647-4",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T18:53:33.551Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 3,
+  "analysis": {
+    "summary": "This review paper synthesizes how certain fish species that live closely with corals provide vital services to their coral hosts, including enhanced oxygenation, nutrient delivery, sediment removal, and protection from predators and diseases.",
+    "keyQuestion": "How do coral-associated fishes positively contribute to the health and resilience of corals?",
+    "approach": "The authors conducted a comprehensive literature review to synthesize existing research on the beneficial relationships between coral-associated fishes and their coral hosts, focusing on species that maintain close spatial relationships with live coral structures.",
+    "keyFindings": [
+      "Fish-induced water movement increased coral photosynthesis by 3-6% during the day through enhanced gas exchange",
+      "Grunt schools increased nitrogen and phosphorus concentrations around corals by tenfold, leading to 75% increases in growth of Acropora cervicornis",
+      "Corals with resident damselfish exhibited approximately 37% greater growth in skeletal surface area over 13 months compared to corals without fish",
+      "Fish provide sediment removal services that benefit coral health"
+    ],
+    "stickyFact": "Grunt schools increased nitrogen and phosphorus concentrations around corals by tenfold, leading to 75% increases in growth of Acropora cervicornis.",
+    "whyItMatters": "Understanding these fish-coral partnerships could help enhance coral restoration efforts and reef resilience as coral reefs face increasing threats from climate change, pollution, and overfishing. These beneficial relationships may help buffer corals against environmental stressors.",
+    "location": "Global coral reefs including Caribbean, Gulf of Eilat, and tropical Pacific",
+    "species": "Coral-associated fishes including damselfishes (Dascyllus marginatus, Dascyllus aruanus, Chromis viridis), grunts (Haemulidae), gobies, snappers, and their coral hosts including Acropora cervicornis, Stylophora pistillata, and Pocillopora sp.",
+    "themes": [
+      "marine symbiosis",
+      "coral resilience",
+      "fish-coral interactions",
+      "nutrient cycling",
+      "coral restoration"
+    ],
+    "newsHeadline": "Fish Are Providing Life-Saving Services to Corals—And Scientists Are Just Beginning to Understand How",
+    "essay": "When my colleagues Tory Chase, Craig Osenberg, and I began reviewing decades of research on coral-fish relationships, we discovered something remarkable: the fish weren't just taking from their coral homes—they were giving back in measurable ways. In one striking example, damselfish increased their host coral's photosynthesis by 3-6% simply through their swimming movements, creating vital water flow during daylight hours.\n\nWe wanted to understand how coral-associated fishes—species that maintain close relationships with live coral structures—actually benefit their hosts. Rather than conduct new experiments, we synthesized existing research to reveal patterns that individual studies might miss. We focused on fish that spend significant time with corals, from obligate coral dwellers like damselfishes and gobies to facultative species like grunts and snappers that use corals for shelter.\n\nThe numbers told a compelling story. Grunt schools foraging away from reefs at night but sheltering near corals during the day increased nitrogen and phosphorus concentrations around their host corals by tenfold. This nutrient boost led to 75% increases in growth of Acropora cervicornis. In another study spanning 13 months, corals hosting resident damselfish showed approximately 37% greater growth in skeletal surface area compared to fishless corals. Fish also provide important sediment removal services that benefit coral health.\n\nWhat surprised us most was how context-dependent these relationships proved to be. In areas with high nitrogen concentrations and high flow, the positive relationship between fish density and coral growth was actually reversed. We also found paradoxical patterns at different scales—beneficial effects observed in small-scale studies didn't always scale up to reef-wide surveys.\n\nThese findings matter because coral reefs face unprecedented threats from climate change, pollution, and overfishing. Understanding how fish-coral partnerships work could help us harness these natural relationships to enhance restoration efforts. If fish truly help buffer corals against environmental stressors, protecting these partnerships becomes as important as protecting the corals themselves.\n\nYet we're still scratching the surface of how these relationships function. We need more mechanistic understanding of when fish help versus harm their coral hosts, and how factors like coral morphology, water chemistry, and fish density interact. The future of coral restoration may depend not just on replanting corals, but on ensuring the right fish communities are there to support them."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications, particularly around sediment accumulation statistics that do not appear in the source paper. The core findings about photosynthesis increases, nutrient concentration increases, and damselfish growth benefits are accurately reported, but the fabricated sediment data represents a serious accuracy issue.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "Corals without fish had 2-5 times more sediment accumulation compared with colonies with fishes, resulting in up to 90% reduction in coral survival",
+        "problem": "These specific statistics (2-5 times more sediment, 90% reduction in survival) do not appear anywhere in the provided paper text",
+        "paperSays": "The paper mentions sediment removal as a service but does not provide these specific quantitative measurements",
+        "suggestedFix": "Remove the fabricated statistics or replace with general statement about sediment removal benefits"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "corals without fish accumulated 2-5 times more sediment, resulting in up to 90% reduction in coral survival in some cases",
+        "problem": "These specific statistics are not found in the paper text provided",
+        "paperSays": "The paper discusses sediment removal as a fish service but does not provide these specific measurements",
+        "suggestedFix": "Remove the fabricated statistics"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "The positive effects of fish on coral growth could actually flip to negative effects in sites with high nitrogen concentrations and high flow, though the mechanism behind this reversal remains somewhat unclear",
+        "problem": "While the paper mentions context-dependent effects and mentions high nitrogen/flow conditions, it doesn't specifically describe a 'flip to negative effects' or discuss unclear mechanisms in this way",
+        "paperSays": "The paper discusses that 'growth of the branching coral, Pocillopora sp. was positively associated with densities of damselfishes... However, in areas with high nitrogen concentrations and high flow, the positive relationship between fish density and coral growth was actually reversed' but doesn't characterize the mechanism as 'unclear'",
+        "suggestedFix": "Stick closer to the paper's actual description of the context-dependent effects"
+      }
+    ]
+  }
+}

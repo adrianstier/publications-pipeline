@@ -1,0 +1,99 @@
+{
+  "publicationId": "37",
+  "title": "Costly stakeholder participation creates inertia in marine ecosystems",
+  "authors": "Lynham, J.; Halpern, B.S.; Blenckner, T.; Essington, T.; Estes, J.; Hunsicker, M.; Kappel, C.; Salomon, A.K.; Scarborough, C.; Selkoe, K.A.; Stier, A.",
+  "year": 2017,
+  "journal": "Marine Policy",
+  "doi": "10.1016/j.marpol.2016.11.011",
+  "doiUrl": "https://doi.org/10.1016/j.marpol.2016.11.011",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T21:35:16.215Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 7,
+  "analysis": {
+    "summary": "Scientists analyzed field experiments to understand how predatory fish affect the diversity and abundance of young reef fish during their most vulnerable period after settling on coral reefs. They found that predators mainly act as generalists, reducing overall fish numbers rather than selectively targeting specific species.",
+    "keyQuestion": "How do mesopredators (medium-sized predatory fish) affect the abundance and biodiversity of recently settled reef fish communities during the critical early survival period?",
+    "approach": "The researchers conducted a meta-analysis of ten published field experiments conducted between 2002-2014. Each study used isolated experimental reefs where scientists could control predator presence and absence, then tracked how prey fish communities developed over 42-120 days.",
+    "keyFindings": [
+      "Mesopredators reduced prey fish abundance by 60% on average across all studies",
+      "The 35% reduction in overall species diversity (gamma diversity) was largely a statistical artifact caused by lower fish numbers, not selective predation",
+      "Most mesopredators behaved as generalists, eating prey in proportion to their abundance rather than targeting specific species",
+      "When corrected for abundance effects, alpha diversity showed no detectable difference (only 0.1%) between predator and control treatments"
+    ],
+    "stickyFact": "Young reef fish experience an average of 50% mortality in their first 48 hours on the reef - what researchers call a 'predation gauntlet'",
+    "whyItMatters": "This research helps distinguish real ecological impacts from statistical artifacts when predator populations change due to overfishing or invasive species. It's particularly important for coral reef conservation as fishing has dramatically reduced apex predators, potentially leading to mesopredator population explosions.",
+    "location": "Coral reef ecosystems globally",
+    "species": "Mesopredators including small groupers, snappers, peacock grouper (Cephalopholis argus), and Pacific lionfish (Pterois volitans and Pterois miles)",
+    "themes": [
+      "predator-prey dynamics",
+      "coral reef ecology",
+      "biodiversity",
+      "statistical artifacts",
+      "marine conservation"
+    ],
+    "newsHeadline": "Reef Fish Predators Are Surprisingly Fair Hunters, New Analysis Reveals",
+    "essay": "When I first saw our results showing that mesopredators reduced prey fish diversity by 35%, I thought we had uncovered evidence of selective predation devastating coral reef communities. But when my colleague Christopher Stallings and I dug deeper with our team including Jameal Samhouri, Mark Albins, and Glenn Almany, we discovered something far more nuanced - and reassuring.\n\nWe wanted to understand what happens during what we call the 'predation gauntlet' - that brutal first 48 hours when young reef fish experience 50% mortality after settling on coral reefs. With apex predators like sharks increasingly rare due to fishing, mesopredators like small groupers and snappers have exploded in numbers. We needed to know: were these medium-sized predators selectively picking off certain species and reshaping entire reef communities? We compiled every field experiment we could find - ten studies spanning 2002 to 2014 - where researchers had built isolated experimental reefs and carefully controlled predator presence and absence.\n\nThe numbers were stark. Across all studies, reefs with mesopredators had 60% fewer prey fish and 35% lower species diversity. But here's where it got interesting: when we used statistical techniques called rarefaction to account for the fact that fewer total fish naturally means fewer species, the diversity difference became undetectable (only 0.1%). The predators weren't being picky - they were eating everything in proportion to what was available, like shoppers grabbing items randomly from store shelves. The apparent loss of diversity was simply because there were fewer fish overall.\n\nOur findings matter because they help separate real ecological disasters from statistical mirages. When we see declining fish diversity in areas with lots of mesopredators, we need to ask whether we're seeing true selective predation or just the mathematical consequence of fewer fish. For most predators, it appears to be the latter. This doesn't mean mesopredator increases are harmless - a 60% reduction in prey abundance is still massive - but it suggests reef communities might be more resilient to predator changes than we feared.\n\nThe ocean keeps surprising us with its complexity, and understanding these predator-prey dynamics is crucial for coral reef conservation as we face ongoing changes in predator populations due to fishing and species introductions."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabricated statistics and invented behavioral details not present in the source paper. While the core findings about predator effects on abundance and diversity are accurately reported, the article adds speculative details about specific species behaviors and includes a fabricated statistic about peacock grouper biomass.",
+    "issues": [
+      {
+        "type": "fabricated_number",
+        "location": "keyFindings",
+        "claim": "The apparent 35% reduction in species diversity",
+        "problem": "The paper states gamma diversity was reduced by an average of 35%, but this was not described as 'apparent' - it was a real measured reduction",
+        "paperSays": "an average of 35% lower gamma diversity (t=2.711, df=10,P=0.022)",
+        "suggestedFix": "Change to 'The 35% reduction in overall species diversity (gamma diversity)'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "keyFindings",
+        "claim": "Two species - the dottyback Pseudochromis fuscus and invasive peacock grouper - were exceptions that disproportionately affected rare species",
+        "problem": "The paper mentions Pseudochromis fuscus and peacock grouper but does not specifically state they 'disproportionately affected rare species'",
+        "paperSays": "The paper mentions these species but doesn't provide this specific behavioral detail about affecting rare species",
+        "suggestedFix": "Remove this specific claim about these species affecting rare species"
+      },
+      {
+        "type": "fabricated_number",
+        "location": "essay",
+        "claim": "The peacock grouper case is particularly troubling because this introduced species now makes up more than 80% of large predator biomass in some Hawaiian locations",
+        "problem": "This specific 80% statistic does not appear anywhere in the paper",
+        "paperSays": "The paper mentions peacock grouper became 'numerically dominant mesopredators' but provides no specific percentage",
+        "suggestedFix": "Change to 'became numerically dominant mesopredators in their invaded communities'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "when we used statistical techniques called rarefaction to account for the fact that fewer total fish naturally means fewer species, the diversity difference vanished completely",
+        "problem": "The paper shows rarefied alpha diversity had only a 0.1% difference, but it doesn't say the difference 'vanished completely'",
+        "paperSays": "However, there was no detectable effect of mesopredators on rarefied alpha diversity (0.1%",
+        "suggestedFix": "Change to 'the diversity difference became undetectable (only 0.1%)'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "Two species broke this pattern, and they worried me. The dottyback Pseudochromis fuscus and the invasive peacock grouper Cephalopholis argus both showed genuine preferences for rare species",
+        "problem": "The paper does not provide evidence that these specific species showed preferences for rare species",
+        "paperSays": "The paper mentions these species but does not describe their specific feeding preferences",
+        "suggestedFix": "Remove this claim about specific species preferences"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We still don't understand why these two species behave differently from other mesopredators",
+        "problem": "The paper doesn't establish that these species behave differently or discuss this as an open question",
+        "paperSays": "No such discussion appears in the paper",
+        "suggestedFix": "Remove this speculative statement"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "And what about lionfish, those spectacular invaders that have conquered the Atlantic? Our preliminary data suggest they might be generalists like most other mesopredators, but we need more experiments to be sure",
+        "problem": "The paper mentions lionfish as introduced predators but provides no preliminary data about their feeding behavior",
+        "paperSays": "the accidentally introduced Pacific lionfishes (Pterois volitans and Pterois miles) in the Atlantic and Caribbean",
+        "suggestedFix": "Remove the claim about preliminary data on lionfish feeding behavior"
+      }
+    ]
+  }
+}

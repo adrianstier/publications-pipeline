@@ -1,0 +1,42 @@
+{
+  "publicationId": "70",
+  "title": "Propagule redirection: Habitat availability reduces colonization and increases recruitment in reef fishes",
+  "authors": "Stier, Adrian C.; Osenberg, Craig W.",
+  "year": 2010,
+  "journal": "Ecology",
+  "doi": "10.1890/09-1993.1",
+  "doiUrl": "https://doi.org/10.1890/09-1993.1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Adding reef habitat redistributes settling larvae across the landscape rather than attracting additional larvae from the ocean. This 'propagule redirection' reduces crowding on individual patches, improving survival and boosting total recruitment despite similar total settlement.",
+
+    "keyQuestion": "Does adding habitat increase total fish recruitment, or does it redistribute existing larvae across more reef?",
+
+    "approach": "Researchers experimentally manipulated reef habitat availability in Moorea, tracking how larval fish distributed among patches and how this affected recruitment success.",
+
+    "keyFindings": [
+      "Isolated reefs received more settlers than reefs with neighbors nearby",
+      "Adding habitat redirected larvae away from existing patches",
+      "Total settlement didn't increase proportionally with habitat",
+      "Reduced crowding improved survival, boosting total recruitment"
+    ],
+
+    "stickyFact": "Build more reef and fish will spread out across it—surviving better because they're less crowded, even though no extra fish arrived from the ocean.",
+
+    "whyItMatters": "Reef restoration often assumes adding habitat adds fish proportionally. This study shows the relationship is more complex—new habitat redistributes larvae, with benefits coming from reduced density-dependent mortality.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Coral reef fish (recruiting larvae)"],
+
+    "themes": ["Coral", "Conservation"],
+
+    "newsHeadline": "Adding Reef Doesn't Just Add Fish—It Rearranges Them",
+
+    "essay": "Craig Osenberg and I investigated what happens when you add reef habitat. The simple expectation is proportional response: more habitat, more fish. But settlement didn't scale linearly with habitat availability. Instead, adding habitat redistributed the larvae that were already arriving.\n\nWe called this propagule redirection. Larvae drifting toward the reef settle on whatever habitat they encounter. With more patches available, the same larvae spread across more reef. Isolated patches received more settlers than patches with neighbors nearby—alternative habitat diluted settlement at any single location.\n\nThis sounds like bad news—just shuffling fish around. But redirection had consequences. Lower settlement density meant weaker competition and less aggression. Fish on less-crowded patches survived better. Total recruitment after density-dependent mortality played out was higher when more habitat was available—not because more larvae arrived, but because more survived.\n\nThe practical implications affect restoration design. Adding habitat helps, but through mechanisms different than usually assumed. Strategic placement that effectively spreads settlement and reduces crowding could outperform approaches that simply maximize habitat area."
+  }
+}

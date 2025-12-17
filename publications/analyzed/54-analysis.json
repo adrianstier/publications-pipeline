@@ -1,0 +1,42 @@
+{
+  "publicationId": "54",
+  "title": "Larval dispersal drives trophic structure across Pacific coral reefs",
+  "authors": "Stier, Adrian C.; Hein, Andrew M.; Parravicini, Valeriano; Kulbicki, Michel",
+  "year": 2014,
+  "journal": "Nature Communications",
+  "doi": "10.1038/ncomms6575",
+  "doiUrl": "https://doi.org/10.1038/ncomms6575",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Larval dispersal differences between trophic groups drive systematic variation in food web structure across Pacific coral reefs. Isolated islands have higher predator-to-prey ratios because predator larvae disperse farther than prey larvae.",
+
+    "keyQuestion": "Why do isolated coral reef communities have relatively more predators compared to prey species than near-shore reefs?",
+
+    "approach": "Researchers analyzed reef fish community data from across the Pacific Ocean and developed a colonization-extinction model based on larval dispersal to explain ocean-scale gradients in trophic structure.",
+
+    "keyFindings": [
+      "Predator species richness is relatively stable across isolation gradients",
+      "Prey species richness declines more rapidly with increasing island isolation",
+      "Isolated islands have higher predator-to-prey species ratios",
+      "Differences in larval dispersal between trophic groups explain this pattern"
+    ],
+
+    "stickyFact": "On remote Pacific islands, there are more predator species per prey species than on near-shore reefs—because predator larvae travel farther across open ocean.",
+
+    "whyItMatters": "This challenges assumptions that isolated communities lose predators first. Understanding how dispersal shapes food web structure is essential for predicting how marine communities respond to changes in connectivity.",
+
+    "location": "Pacific Ocean coral reefs",
+
+    "species": ["Pacific reef fish communities"],
+
+    "themes": ["Coral", "Climate"],
+
+    "newsHeadline": "The Loneliest Pacific Islands Have the Most Predators Per Prey",
+
+    "essay": "Andrew Hein, Valeriano Parravicini, Michel Kulbicki, and I analyzed reef fish community data from across the Pacific Ocean to understand how trophic structure varies with island isolation. The standard expectation is that remote islands should lose top predators first—predators need prey to sustain them, and isolation should make predator colonization difficult.\n\nThe data showed a different pattern. While total species richness declined with isolation as expected, prey species declined faster than predators. Remote islands had higher ratios of predator species to prey species than near-shore reefs. The most isolated atolls had proportionally more predators, not fewer.\n\nThe explanation comes from larval biology. Reef fish larvae drift in ocean currents before settling onto reefs, and different species have different larval durations. Predatory fish tend to have longer larval periods, allowing them to disperse farther. Prey species have shorter larval periods and settle closer to their origins. Distance filters species differentially by trophic group.\n\nWe developed a colonization-extinction model incorporating these dispersal differences. The model predicted that predator-to-prey ratios should increase with isolation, matching the observed pattern. Larval dispersal biology at the individual level scales up to determine food web structure across ocean basins. This has implications for how we think about remote reef conservation—the ecological constraints on isolated reefs may differ fundamentally from near-shore systems."
+  }
+}

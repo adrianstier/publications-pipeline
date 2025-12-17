@@ -1,0 +1,74 @@
+{
+  "publicationId": "2",
+  "title": "Coral guard crabs",
+  "authors": "Stier, Adrian C.; Osenberg, Craig W.",
+  "year": 2024,
+  "journal": "Current Biology",
+  "doi": "10.1016/j.cub.2023.10.067",
+  "doiUrl": "https://doi.org/10.1016/j.cub.2023.10.067",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T18:57:22.272Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 4,
+  "analysis": {
+    "summary": "This paper describes coral guard crabs in the family Trapeziidae, small crustaceans that live symbiotically within branching corals in the tropical Pacific Ocean, protecting their hosts from predators and sediment while being completely dependent on the coral for survival.",
+    "keyQuestion": "How do small Trapeziid crabs effectively protect their coral hosts from much larger predators and environmental threats?",
+    "approach": "This is a review paper that synthesizes existing research on Trapeziid crab-coral mutualisms, examining their defensive behaviors, ecological impacts, and responses to climate change through various field studies and experiments.",
+    "keyFindings": [
+      "Trapeziid crabs attack predators much larger than themselves, including crown-of-thorns sea stars and pincushion stars, using their claws to shove and pinch the predators' tube feet",
+      "The crabs act as housekeepers, removing sediment from coral surfaces, which is critical for coral survival in high-sedimentation areas",
+      "Climate change experiments showed increased water temperature caused reductions in crab abundance and egg production, and caused crabs to expel their mates",
+      "The crabs create 'halos' of protection around coral colonies, indirectly protecting nearby corals and other reef organisms"
+    ],
+    "stickyFact": "These small crabs can protect their coral host from sea stars that could otherwise eat an entire colony in a single night.",
+    "whyItMatters": "These small crabs play a crucial role in coral reef resilience by protecting corals from predators and sediment damage. As climate change threatens coral reefs, understanding these protective relationships becomes critical for conservation efforts, especially since warming waters reduce crab abundance and defensive behavior.",
+    "location": "Tropical Pacific Ocean",
+    "species": "Trapeziidae family crabs (over 20 species), Pocillopora corals, crown-of-thorns sea stars (Acanthaster planci), pincushion stars (Culcita novaeguineae)",
+    "themes": [
+      "symbiosis",
+      "coral reef ecology",
+      "climate change impacts",
+      "predator-prey interactions"
+    ],
+    "newsHeadline": "Tiny Bodyguard Crabs Take On Giant Starfish to Save Coral Reefs",
+    "essay": "The remarkable world of coral guard crabs represents one of nature's most unlikely partnerships. These small Trapeziid crabs live their entire lives within the branches of cauliflower corals in the tropical Pacific, turning coral protection into a specialized art form.\n\nResearch on these crab-coral partnerships has revealed how small crustaceans can defend their coral homes against threats many times their size. These crabs fearlessly attack predators much larger than themselves, using their powerful claws to shove sea stars and pinch their tube feet. The crabs don't just fight off predators - they're meticulous housekeepers too, constantly removing sediment from coral surfaces. When researchers removed crabs from corals in coastal regions with high sedimentation rates, the corals died, but when crabs were present, the corals survived. The over 20 species of Trapeziid crabs have evolved this mutualism so completely that they cannot survive outside their coral hosts.\n\nWhat makes these partnerships particularly important is how they create protective effects that extend beyond individual coral colonies. The crabs generate 'halos' of protection around their host corals, creating zones of reduced predation pressure that benefit nearby corals and the fish and invertebrates that depend on them. However, research has also revealed troubling vulnerability - in experiments simulating future climate conditions, increased water temperature caused reductions in crab abundance and egg production, and even caused crabs to expel their mates and other defensive partners.\n\nThis research matters because these partnerships represent a critical but often overlooked component of coral reef resilience. As coral reefs face unprecedented threats from climate change, understanding every mechanism that helps corals survive becomes essential. The decline in crab densities and defensive behavior under warming conditions could further accelerate coral reef collapse, underscoring the urgent need for dramatic reductions in global carbon emissions to protect not just corals, but the intricate web of relationships that sustain them.\n\nMany questions remain about these remarkable partnerships. How do different crab species coordinate their defenses? What determines which corals get the best protection? And most urgently - can we find ways to support these crab-coral mutualisms as ocean conditions continue to change? The fate of these small bodyguards may be more intertwined with the future of coral reefs than we ever imagined."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications including invented size comparisons, a completely fabricated 'sticky fact' about neurons, and a false first-person narrative that misrepresents the nature of this review paper. The core scientific content appears accurate, but the presentation contains multiple invented details.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "The coral contains more than half of all neurons in the entire nervous system - wait, that's from the wrong section. From the actual crab paper:",
+        "problem": "This appears to be completely fabricated content that creates a fake 'correction' scenario. The paper contains no discussion of neurons or nervous systems.",
+        "paperSays": "The paper is about coral guard crabs and contains no mention of neurons or nervous systems.",
+        "suggestedFix": "Remove this fabricated content entirely and use only the actual sticky fact about crabs protecting corals from sea stars."
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "These Trapeziid crabs, barely larger than a coin... how can a crab smaller than your thumb",
+        "problem": "The paper describes them as 'small crustaceans' but provides no specific size comparisons to coins or thumbs.",
+        "paperSays": "Crabs in the family Trapeziidae are small crustaceans",
+        "suggestedFix": "Describe them simply as 'small crustaceans' without specific size comparisons not provided in the paper."
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "I never expected to spend my career studying bodyguards the size of quarters. But that's exactly what my colleague Craig Osenberg and I found ourselves doing",
+        "problem": "This creates a fake first-person narrative. This is a review paper, not a personal research account by the authors.",
+        "paperSays": "This is a review paper synthesizing existing research, not a personal account of the authors' research experiences.",
+        "suggestedFix": "Remove first-person narrative and present as objective review of research findings."
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "We examined decades of research on these crab-coral partnerships, looking at everything from defensive behaviors to the ecological ripple effects",
+        "problem": "Creates false impression this was the authors' research methodology. This is a review paper format, not original research.",
+        "paperSays": "The paper is a review article in Current Biology's 'Quick Guide' format, synthesizing existing knowledge.",
+        "suggestedFix": "Present as a review of existing research rather than the authors' own investigative process."
+      }
+    ]
+  }
+}

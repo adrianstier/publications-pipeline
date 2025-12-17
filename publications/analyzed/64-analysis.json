@@ -1,0 +1,42 @@
+{
+  "publicationId": "64",
+  "title": "The value of estuarine and coastal ecosystem services",
+  "authors": "Barbier, Edward B.; Hacker, Sally D.; Kennedy, Chris; Koch, Evamaria W.; Stier, Adrian C.; Silliman, Brian R.",
+  "year": 2011,
+  "journal": "Ecological Monographs",
+  "doi": "10.1890/10-1510.1",
+  "doiUrl": "https://doi.org/10.1890/10-1510.1",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "A comprehensive review synthesizing knowledge about the economic value of services provided by estuarine and coastal ecosystems—salt marshes, mangroves, seagrass beds, coral reefs, shellfish reefs, and beaches. These ecosystems provide storm protection, fishery nurseries, carbon storage, and water filtration worth billions of dollars.",
+
+    "keyQuestion": "What is the economic value of services provided by estuarine and coastal ecosystems, and how can valuation be improved?",
+
+    "approach": "Scientists reviewed the literature on ecosystem services from major coastal habitat types, synthesizing methods and estimates of their economic value.",
+
+    "keyFindings": [
+      "Coastal ecosystems provide enormous economic value through multiple services",
+      "Valuation methods vary widely and often underestimate total value",
+      "Different ecosystems provide different services—no single habitat is universally most valuable",
+      "Valuation is essential for incorporating ecosystem services into policy decisions"
+    ],
+
+    "stickyFact": "Coastal ecosystems provide services worth billions annually—but only if we bother to count them in our economic decisions.",
+
+    "whyItMatters": "Coastal ecosystems are being destroyed rapidly, often because their economic value is invisible in traditional accounting. Quantifying ecosystem services makes the cost of destruction explicit and can shift policy toward conservation.",
+
+    "location": "Global review",
+
+    "species": ["Salt marshes", "Mangroves", "Seagrass beds", "Coral reefs", "Shellfish reefs"],
+
+    "themes": ["Conservation", "Management"],
+
+    "newsHeadline": "The Hidden Economy of Coastlines Is Worth More Than We Ever Counted",
+
+    "essay": "Ed Barbier, Sally Hacker, Chris Kennedy, Evamaria Koch, Brian Silliman, and I synthesized knowledge about the economic value of coastal ecosystem services. Salt marshes, mangroves, seagrass beds, coral reefs, shellfish reefs, and beaches all provide services that benefit human welfare—storm protection, fishery nurseries, carbon storage, water filtration, tourism support.\n\nWe reviewed how these services are valued economically. Storm protection can be quantified by comparing damage scenarios with and without ecosystem buffers. Fishery nursery value derives from tracing commercial catch to juvenile habitats. Carbon storage connects to emerging carbon markets. The methods have become sophisticated, though estimates still carry substantial uncertainty.\n\nThe values are large. Individual hectares of coastal habitat can generate substantial annual value, primarily through services that traditional economics treats as free. When developers convert coastal ecosystems, these values disappear but rarely appear in cost-benefit analyses. The marsh being filled generated services—storm protection, fishery support, water filtration—but nobody was billing for them.\n\nQuantifying ecosystem services doesn't guarantee conservation, but it makes explicit what's lost when ecosystems are destroyed. Uncertainty doesn't justify assigning zero value—zero is almost certainly wrong. Coastal ecosystems sustain economies that depend on them but rarely acknowledge the debt. Making that debt visible is the first step toward sustainable management."
+  }
+}

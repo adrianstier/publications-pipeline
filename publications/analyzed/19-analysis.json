@@ -1,0 +1,82 @@
+{
+  "publicationId": "19",
+  "title": "Effects of corallivory and coral colony density on coral growth and survival",
+  "authors": "Kopecky, Kai L.; Cook, Dana T.; Schmitt, Russell J.; Stier, Adrian C.",
+  "year": 2021,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-021-02076-z",
+  "doiUrl": "https://doi.org/10.1007/s00338-021-02076-z",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T20:18:36.317Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 5,
+  "analysis": {
+    "summary": "Researchers studied how coral colony density and predation by fish affect the growth and survival of small staghorn corals, finding that predators devastate young corals regardless of how crowded they are together.",
+    "keyQuestion": "Does coral colony density affect how much corallivorous fish prey on corals, and could this create a 'predator pit' where low-density coral populations can't recover?",
+    "approach": "Scientists placed small staghorn coral pieces at three different densities (single corals, 4 corals per platform, and 8 corals per platform) on patch reefs in Moorea, French Polynesia. Half were protected in mesh cages to exclude corallivorous fish, half were left exposed. They tracked growth and survival over 30 days and one year.",
+    "keyFindings": [
+      "Corallivorous fish caused high mortality in exposed corals after 30 days, while all protected corals survived with no damage",
+      "Coral density had no effect on predation rates - fish attacked corals equally whether they were alone or in groups",
+      "Protected corals showed dramatic growth over one year",
+      "When protected from predators, corals grew faster when they had neighbors compared to when they were alone"
+    ],
+    "stickyFact": "Over one year, protected corals showed dramatic volume increases while exposed corals declined, demonstrating the devastating long-term impact of predation on young staghorn corals.",
+    "whyItMatters": "This research shows that young staghorn corals face devastating predation pressure regardless of how densely they're packed together, suggesting that predator control rather than coral spacing may be critical for reef recovery. It challenges the idea that grouping corals together provides safety in numbers.",
+    "location": "Moorea, French Polynesia",
+    "species": "Acropora pulchra (staghorn coral)",
+    "themes": [
+      "coral reef ecology",
+      "predation",
+      "density dependence",
+      "conservation"
+    ],
+    "newsHeadline": "Safety in Numbers Doesn't Work for Baby Corals Under Attack",
+    "essay": "Researchers conducted an experiment in the lagoons of Moorea to test a fundamental question about coral reef recovery: does safety come in numbers? Ecological theory suggested that when coral populations crash, they might fall into a 'predator pit'—a deadly trap where predators focus their attacks on the few remaining corals, preventing recovery. The scientists wanted to know if clustering young corals together might dilute this predation pressure, giving them a better chance to survive and grow. So they created coral neighborhoods of different sizes: solitary corals, groups of four spaced 13 centimeters apart, and dense clusters of eight corals just 6 centimeters from their neighbors.\n\nThe results were stark and unambiguous. Corallivorous fish caused high mortality rates in exposed corals after just 30 days, regardless of whether those corals were alone or crowded together. Meanwhile, corals protected behind mesh cages survived without damage. The pattern held over the long term—after one year, protected corals showed dramatic growth while exposed corals declined. There was no interaction between density and predation: fish attacked with equal intensity whether corals were isolated or clustered.\n\nWhat surprised researchers was finding no evidence for predator dilution at the densities tested, which reflected the natural range of staghorn coral spacing on Moorea's patch reefs. The scientists had expected that dense coral clusters might overwhelm the fish, forcing them to spread their attacks across more targets. Instead, the predators seemed undeterred by coral abundance. Perhaps dilution effects only emerge in the massive staghorn thickets that can stretch for tens of meters—formations that are naturally defended by territorial damselfish that ward off both herbivores and corallivores.\n\nThese findings suggest that the conventional wisdom about safety in numbers doesn't apply to young staghorn corals, at least not at the scales studied. For coral restoration efforts, this means that simply planting corals closer together won't protect them from predation. The research highlights how vulnerable juvenile corals are during this critical establishment phase, when they're building the foundation for future thickets but haven't yet grown large enough to attract protective damselfish partners. Understanding this vulnerability is crucial for predicting how coral populations might recover after major bleaching events or other disturbances that reduce coral cover.\n\nThe broader implications for different coral species and reef systems remain to be explored. Does this density-independent predation pattern hold for other coral types, or is it unique to fast-growing staghorn species? And what happens in reef areas with different corallivore communities or varying predation pressure? Further experiments across multiple species and locations are needed to understand whether young corals anywhere can truly find safety in numbers, or if protection from predators—through restoration techniques, marine protected areas, or other management strategies—remains their best hope for survival."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant fabrications including specific percentages and volume measurements not found in the paper, plus invented first-person narrative details and observational scenes that don't exist in the source material. While the core scientific findings are accurately represented, the fabricated details undermine credibility.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "Corallivorous fish consumed over 95% of tissue and skeleton in 64% of exposed corals after 30 days",
+        "problem": "The specific percentage '64%' is not provided in the paper",
+        "paperSays": "The paper states that corals suffered 'high but density-independent mortality' in the presence of corallivores and that 'Nubbins that suffered <95% loss of tissue and skeleton after 30 days were considered to have survived', but does not give the specific percentage of corals that suffered this level of damage",
+        "suggestedFix": "Remove the specific '64%' figure and state that corals suffered high mortality rates when exposed to predators"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "Protected corals showed dramatic growth, increasing total volume from 742.5 cm³ to 55,251 cm³ over one year",
+        "problem": "These specific volume measurements are not provided in the paper",
+        "paperSays": "The paper mentions that after a year, they 'could only compare the change in total volume of live coral over the year between the corallivore exposure treatments' but does not provide specific volume measurements",
+        "suggestedFix": "State that protected corals showed dramatic growth increases over one year without fabricated specific measurements"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "the total volume of surviving corals that were protected from predators increased from 742.5 cubic centimeters to 55,251 cubic centimeters, while exposed corals declined from 752.5 cubic centimeters to just 381.4 cubic centimeters",
+        "problem": "These specific volume measurements are completely fabricated",
+        "paperSays": "The paper only mentions that they could measure volume changes but provides no specific volume numbers",
+        "suggestedFix": "Remove all fabricated volume measurements and describe results qualitatively"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "After thirty days underwater in the lagoons of Moorea, I pulled up our experimental platforms to find a scene of devastation. Where we had carefully placed small staghorn corals a month earlier, many platforms now held only bare skeleton fragments—the telltale bite marks of corallivorous fish carved into what remained",
+        "problem": "This vivid first-person narrative and specific observational details about bite marks are not described in the paper",
+        "paperSays": "The paper describes the experimental setup and results but does not include personal narratives or descriptions of bite marks",
+        "suggestedFix": "Remove first-person narrative and fabricated observational details"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "My colleagues Dana Cook, Russell Schmitt, Adrian Stier, and I had watched these juvenile Acropora pulchra corals get systematically devoured, their tissue and calcium carbonate skeleton disappearing bite by bite",
+        "problem": "This dramatic scene of watching corals being devoured is not described in the paper",
+        "paperSays": "The paper lists the authors but contains no description of watching predation occur",
+        "suggestedFix": "Remove fabricated observational narrative"
+      }
+    ]
+  }
+}

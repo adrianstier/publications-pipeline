@@ -1,143 +1,125 @@
 # Publications Pipeline
 
-A Node.js pipeline that extracts content from scientific publication PDFs and generates news articles for the Ocean Recoveries Lab website.
+Turn your lab's scientific papers into accessible news articles for your website.
 
-## Overview
+## What This Does
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  1. SOURCE DATA                                                 │
-│     publications/pubs_enriched_out.csv    (metadata)           │
-│     publications/Lab Publications/         (PDFs)              │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  2. EXTRACT PDFs                                                │
-│     npm run extract                                             │
-│                                                                 │
-│     Output:                                                     │
-│     - publications/extracted/*.json   (per-PDF content)        │
-│     - publications/publications_full.json (unified database)   │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  3. GENERATE NEWS ARTICLES                                      │
-│     npm run generate                                            │
-│                                                                 │
-│     Output:                                                     │
-│     - src/data/posts.ts (website-ready news articles)          │
-└─────────────────────────────────────────────────────────────────┘
+PDFs + Metadata  →  AI Analysis  →  Expert Review  →  News Articles  →  Website
 ```
 
-## Quick Start
+You provide publication PDFs and a CSV with metadata. The pipeline:
+1. Extracts content from each paper
+2. Generates an initial analysis with Claude AI
+3. Has a domain expert (coral ecologist, kelp specialist, etc.) fact-check the content
+4. Corrects any errors or fabricated claims
+5. Outputs website-ready news articles
+
+## Setup
 
 ```bash
-# Install dependencies
 npm install
+```
 
-# Extract content from PDFs (results are cached)
+## How to Use
+
+### Step 1: Add Your Publications
+
+1. Put PDFs in `publications/Lab Publications/`
+2. Add metadata to `publications/pubs_enriched_out.csv`
+
+### Step 2: Extract PDF Content
+
+```bash
 npm run extract
-
-# Generate news articles
-npm run generate
-
-# Or preview first few articles
-npm run generate:preview
 ```
 
-## Scripts
+This reads all PDFs and saves extracted text to `publications/publications_full.json`.
 
-### extract-pdfs.cjs
-
-Extracts text content from publication PDFs and builds a unified database.
+### Step 3: Analyze & Generate Articles
 
 ```bash
-npm run extract              # Extract all (cached results skipped)
-npm run extract:force        # Re-extract all PDFs
-```
-
-**Features:**
-- Parses PDF text using `pdf-parse`
-- Extracts abstracts and key findings with pattern matching
-- Matches PDFs to CSV metadata using score-based algorithm
-- Caches results (won't re-process already extracted PDFs)
-
-### generate-quality-news.cjs (Default)
-
-Generates high-quality news articles from publication metadata and PDF content without requiring AI API calls.
-
-```bash
-npm run generate             # Generate all articles
-npm run generate:preview     # Preview first 5 articles
-```
-
-**Features:**
-- Extracts key findings and compelling statistics
-- Generates natural, varied article structures
-- Uses metadata abstracts and PDF content
-- No API costs - runs locally
-- Outputs TypeScript for website integration
-
-### generate-ai-news.cjs (AI-Powered)
-
-Uses Claude AI to generate articles from publication data.
-
-```bash
+# Set your API key
 export ANTHROPIC_API_KEY=your-key-here
-npm run generate:ai
-npm run generate:ai:dry      # Preview prompts without API calls
+
+# Analyze a single publication (includes expert review)
+npm run analyze -- --id 1
+
+# Or analyze all publications at once
+for i in {1..75}; do npm run analyze -- --id $i; done
 ```
 
-**Features:**
-- Claude API with automatic retry logic
-- Progress saving for interrupted runs
-- Rate limiting to avoid API throttling
+Each analysis runs in two steps:
+1. **Initial analysis** - AI generates summary, findings, and essay
+2. **Expert review** - Domain specialist fact-checks against the paper and corrects errors
 
-## Data Schema
+The output includes an accuracy score and list of any issues that were corrected.
 
-### publications_full.json
+### Step 4: Build the Website
 
-```json
-{
-  "id": "1",
-  "title": "Fish services to corals...",
-  "authors": "Stier, Adrian C.; ...",
-  "year": 2025,
-  "journal": "Coral Reefs",
-  "doi": "10.1007/...",
-  "abstract": "...",
-  "plainSummary": "...",
-  "whyItMatters": "...",
-  "themes": ["Coral", "Research"],
-  "pdfContent": {
-    "filename": "Stier et al. (Coral Reefs) 2025.pdf",
-    "numPages": 10,
-    "keyFindings": ["..."],
-    "fullTextPreview": "..."
-  }
-}
+```bash
+npm run build
 ```
 
-## Adding New Publications
+This generates `src/data/posts.ts` (for your main site) and `frontend/posts.js` (for preview).
 
-1. Add PDF to `publications/Lab Publications/`
-2. Update `publications/pubs_enriched_out.csv` with metadata
-3. Run `npm run extract`
-4. Run `npm run generate`
+### Step 5: Preview
 
-## Output Quality
+```bash
+npm run serve
+```
 
-The generator produces articles with:
-- Compelling opening sentences based on key findings
-- Extracted statistics and concrete facts
-- Key findings bullet points
-- Contextual "Why It Matters" sections
-- Proper citations and DOI links
+Open http://localhost:8000 to see your news articles.
 
-Articles with rich metadata (abstracts, plainSummary, whyItMatters) produce the best results.
+## Quick Reference
 
-## License
+| Command | What It Does |
+|---------|--------------|
+| `npm run extract` | Read PDFs and extract text |
+| `npm run analyze -- --id N` | Analyze publication #N (with expert review) |
+| `npm run build` | Generate website files |
+| `npm run serve` | Preview at localhost:8000 |
+| `npm run dev` | Build + serve in one command |
 
-MIT
+## Files & Folders
+
+```
+publications-pipeline/
+├── publications/
+│   ├── Lab Publications/     ← Put your PDFs here
+│   ├── pubs_enriched_out.csv ← Publication metadata
+│   ├── extracted/            ← Cached PDF extractions
+│   ├── analyzed/             ← AI analysis results
+│   └── publications_full.json
+├── src/data/posts.ts         ← Generated for main website
+├── frontend/                 ← Preview website
+└── scripts/                  ← Pipeline scripts
+```
+
+## Adding a New Publication
+
+1. Add the PDF to `publications/Lab Publications/`
+2. Add a row to `publications/pubs_enriched_out.csv`
+3. Run: `npm run extract`
+4. Run: `npm run analyze -- N` (where N is the publication ID)
+5. Run: `npm run build`
+
+## Troubleshooting
+
+**"ANTHROPIC_API_KEY not set"**
+```bash
+export ANTHROPIC_API_KEY=sk-ant-your-key
+```
+
+**PDF not being matched**
+Make sure the PDF filename includes the author name and year, like:
+`Stier et al. (Coral Reefs) 2025.pdf`
+
+**Want to re-analyze a publication**
+Delete its file from `publications/analyzed/` and run analyze again.
+
+## Cost
+
+Each publication costs about $0.02-0.04 to analyze with Claude (two API calls: analysis + expert review). A full run of 75 papers costs roughly $2-3.
+
+Use `--skip-review` to skip the expert review step and halve the cost (but at the expense of accuracy).

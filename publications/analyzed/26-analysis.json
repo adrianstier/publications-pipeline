@@ -1,0 +1,83 @@
+{
+  "publicationId": "26",
+  "title": "Spatial variation in exploited metapopulations obscures risk of collapse",
+  "authors": "Okamoto, Daniel K.; Hessing‐Lewis, Margot; Samhouri, Jameal F.; Shelton, Andrew O.; Stier, Adrian; Levin, Philip S.; Salomon, Anne K.",
+  "year": 2020,
+  "journal": "Ecological Applications",
+  "doi": "10.1002/eap.2051",
+  "doiUrl": "https://doi.org/10.1002/eap.2051",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T20:37:33.063Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 5,
+  "analysis": {
+    "summary": "Researchers found that fishing practices can hide local population collapses by creating spatial mismatches between what managers see at large scales versus what's actually happening in small areas, using Pacific herring as a case study.",
+    "keyQuestion": "How does harvesting spatially complex fish populations create mismatches between regional management scales and local population dynamics, potentially masking collapse risks?",
+    "approach": "They developed three complementary models: theoretical equations showing how harvest affects spatial variability, analysis of Pacific herring data from British Columbia, and numerical simulations testing different management strategies.",
+    "keyFindings": [
+      "Harvesting metapopulations magnifies spatial variability, creating discrepancies between regional and local population trends",
+      "Spatial complexity can promote stability at large scales while hiding negative consequences for people and animals operating at small scales",
+      "Local population collapses can occur despite apparently sustainable harvests at regional scales",
+      "Dynamically optimizing harvest can minimize local collapse risk without sacrificing overall yield"
+    ],
+    "stickyFact": "Multiple nested scales of management may be necessary to avoid cryptic collapses in metapopulations and the ensuing ecological, social, and economic consequences.",
+    "whyItMatters": "This research reveals how conventional large-scale fisheries management can inadvertently create 'cryptic collapses' that disproportionately harm Indigenous fishers and marine predators who depend on local fish populations, while suggesting management solutions that could prevent these hidden disasters.",
+    "location": "British Columbia, Canada",
+    "species": "Pacific herring (Clupea pallasii)",
+    "themes": [
+      "fisheries management",
+      "metapopulation dynamics",
+      "spatial ecology",
+      "Indigenous fisheries",
+      "conservation"
+    ],
+    "newsHeadline": "Hidden Fish Population Collapses Slip Past Regional Management, Harming Local Communities",
+    "essay": "Researchers studying Pacific herring populations across British Columbia's coastline discovered something more insidious than the usual story of fishing pressure and population decline: entire local populations were collapsing while regional assessments suggested everything was fine.\n\nThe team wanted to understand why so many exploited species have suffered unanticipated declines despite harvests that appeared sustainable. The problem seemed to lie in spatial mismatches - where the scale of management doesn't match the scale of the actual biological and social processes. They developed three different modeling approaches: theoretical equations to show when and how this happens, analysis of real herring data from British Columbia, and numerical simulations to test potential solutions.\n\nTheir models revealed that harvesting metapopulations actually magnifies spatial variability, creating discrepancies between regional and local trends while increasing risk of local population collapses. The mathematics showed something counterintuitive: spatial complexity can promote stability at large scales, but ignoring this complexity produces cryptic and negative consequences for people and animals that interact with resources at small scales. When they analyzed the herring data, they found exactly this pattern playing out in real populations.\n\nThe impacts were asymmetric. Mobile commercial fishing fleets can move between areas when local populations decline, but Indigenous fishers are constrained to local areas where they harvest herring eggs as an important food, trade, and cultural resource. Marine predators face similar constraints.\n\nThe implications extend far beyond herring. These spatially isolated collapses can have far-reaching consequences when species play indispensable roles in local social-ecological systems, including human communities with limited capacity to forage over wide geographic scales. The numerical management strategy evaluation showed that dynamically optimizing harvest can minimize local risk without sacrificing yield, suggesting that solutions exist.\n\nThe research highlights the need to implement multiple nested scales of management in practice - a challenge that's as much about politics and institutions as it is about marine biology."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications primarily in the essay section, where the author falsely writes in first person as if they were part of the research team. This creates entirely fabricated emotional responses, research experiences, and interpretations not found in the paper. The factual content appears accurate but the presentation is deceptive.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When we started mapping Pacific herring populations across British Columbia's coastline",
+        "problem": "The essay is written in first person as if by the researchers, but this is fabricated - the article author is not one of the paper's authors",
+        "paperSays": "The paper is authored by Okamoto, Hessing-Lewis, Samhouri, Shelton, Stier, Levin, and Salomon",
+        "suggestedFix": "Write in third person: 'When researchers started mapping...'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "my colleagues Margot Hessing-Lewis, Jameal Samhouri, Andrew Shelton, Adrian Stier, Philip Levin, Anne Salomon and I discovered",
+        "problem": "Article author falsely claims to be part of the research team",
+        "paperSays": "The researchers were Okamoto et al., not the article author",
+        "suggestedFix": "Remove first person references and write as third party reporting"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "What surprised us most was how asymmetric the impacts were",
+        "problem": "Fabricated first-person emotional response not in the paper",
+        "paperSays": "The paper objectively states findings without expressing surprise",
+        "suggestedFix": "Remove subjective emotional language and stick to objective findings"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "The mechanism creating this spatial variability wasn't entirely clear from our data, though it appears to involve interactions between migration patterns, environmental stochasticity, and harvest pressure",
+        "problem": "Fabricated uncertainty about mechanisms - the paper actually explains the mechanisms clearly",
+        "paperSays": "The paper explicitly states: 'Harvesting metapopulations magnifies spatial variability, which creates discrepancies between regional and local trends while increasing risk of local population collapses'",
+        "suggestedFix": "State the mechanisms as clearly explained in the paper"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "But major questions remain about how widespread this problem is across different fisheries and marine ecosystems. We need better understanding of movement patterns between areas and the degree of demographic synchrony between populations",
+        "problem": "Fabricated speculation about future research needs presented as the authors' views",
+        "paperSays": "The paper does mention uncertainty about movement but doesn't present these as major outstanding questions",
+        "suggestedFix": "Only include uncertainties explicitly mentioned in the paper"
+      }
+    ]
+  }
+}

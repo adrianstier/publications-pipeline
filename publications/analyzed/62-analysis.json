@@ -1,0 +1,42 @@
+{
+  "publicationId": "62",
+  "title": "The influence of fundamental traits on mechanisms controlling appendage regeneration",
+  "authors": "Seifert, Ashley W.; Monaghan, James R.; Smith, Matthew D.; Pasch, Bret; Stier, Adrian C.; Michonneau, François; Maden, Malcolm",
+  "year": 2012,
+  "journal": "Biological Reviews",
+  "doi": "10.1111/j.1469-185X.2011.00199.x",
+  "doiUrl": "https://doi.org/10.1111/j.1469-185X.2011.00199.x",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "A comprehensive review examining why some animals can regenerate appendages while others cannot. Fundamental biological traits—including body size, metabolic rate, developmental mode, and cellular plasticity—correlate with and may constrain regenerative ability across animal groups.",
+
+    "keyQuestion": "What fundamental biological traits enable or constrain appendage regeneration across animal species?",
+
+    "approach": "Researchers reviewed the literature on appendage regeneration across diverse animal groups, identifying key traits and mechanisms that correlate with regenerative ability.",
+
+    "keyFindings": [
+      "Regenerative ability is influenced by multiple interacting fundamental traits",
+      "Smaller body size, lower metabolism, and retained developmental flexibility correlate with regeneration",
+      "The cellular sources of regeneration vary among species (dedifferentiation vs. stem cells)",
+      "Constraints on regeneration may be byproducts of adaptations for other functions"
+    ],
+
+    "stickyFact": "The reason humans can't regrow limbs may be connected to the same traits that allow our complex, active lives—biology often trades regeneration for other capabilities.",
+
+    "whyItMatters": "Understanding why some animals regenerate while others don't could inform regenerative medicine. If mammalian constraints reflect fundamental trade-offs rather than insurmountable barriers, there may be pathways to enhancing human healing.",
+
+    "location": "Review article (global scope)",
+
+    "species": ["Salamanders", "Mammals", "Various regenerating and non-regenerating species"],
+
+    "themes": ["Methods"],
+
+    "newsHeadline": "Why You Can't Regrow Your Arm—And What Biology Says About Changing That",
+
+    "essay": "Ashley Seifert, James Monaghan, Matthew Smith, Bret Pasch, François Michonneau, Malcolm Maden, and I reviewed what determines whether animals can regenerate appendages. Salamanders regrow limbs. Starfish regrow arms. Many other animals seal wounds with scar tissue and function with missing parts. We examined what regenerators have in common that non-regenerators lack.\n\nPatterns emerged from comparative analysis. Regenerators tend to be smaller with lower metabolic rates. They often retain developmental characteristics into adulthood—cellular plasticity that enables rebuilding lost structures. The source of regenerative cells varies: some species dedifferentiate mature cells back to stem-like states, while others tap resident stem cell populations.\n\nThe correlations suggest trade-offs. The high metabolism that lets mammals maintain warm bodies may come at the cost of cellular plasticity. Complex immune systems that protect against infection may interfere with regenerative processes. Growing large and developing quickly may preclude maintaining the flexibility regeneration requires.\n\nFor regenerative medicine, this means simply finding a 'regeneration gene' and adding it may not work. The constraints may reflect fundamental trade-offs with other systems we need. But if constraints are modulable—if we can temporarily restore plasticity or create favorable conditions locally—enhancement becomes conceivable. Understanding the full package of traits that enable regeneration is the first step toward mimicking it."
+  }
+}

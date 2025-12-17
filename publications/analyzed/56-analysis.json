@@ -1,0 +1,42 @@
+{
+  "publicationId": "56",
+  "title": "Illegal shark fishing in the Galápagos Marine Reserve",
+  "authors": "Carr, Lindsey A.; Stier, Adrian C.; Fietz, Katharina; Montero, Ignacio; Gallagher, Austin J.; Bruno, John F.",
+  "year": 2013,
+  "journal": "Marine Policy",
+  "doi": "10.1016/j.marpol.2012.12.005",
+  "doiUrl": "https://doi.org/10.1016/j.marpol.2012.12.005",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "The Galápagos Marine Reserve—a UNESCO World Heritage Site and one of the world's most famous protected areas—experiences ongoing illegal shark fishing. Evidence from interceptions and confiscated catch documents continued poaching despite the reserve's protected status.",
+
+    "keyQuestion": "Is illegal shark fishing occurring within the Galápagos Marine Reserve, and what evidence documents this activity?",
+
+    "approach": "Researchers compiled and analyzed evidence of illegal shark fishing within the reserve, including documented interceptions, confiscated catch data, and observations during fieldwork.",
+
+    "keyFindings": [
+      "Illegal shark fishing continues within the Galápagos Marine Reserve",
+      "Multiple interceptions document ongoing poaching despite protected status",
+      "Enforcement capacity is insufficient to prevent illegal activity across the vast reserve",
+      "The reserve's UNESCO World Heritage status hasn't prevented ongoing shark take"
+    ],
+
+    "stickyFact": "Even in the Galápagos—perhaps the most iconic marine protected area on Earth—illegal fishers still catch sharks, revealing that paper protection isn't always real protection.",
+
+    "whyItMatters": "Shark populations are declining globally, and marine protected areas are supposed to offer refuge. Evidence that poaching continues in high-profile reserves like Galápagos raises questions about whether legal protection translates to conservation outcomes.",
+
+    "location": "Galápagos Marine Reserve, Ecuador",
+
+    "species": ["Sharks (multiple species)"],
+
+    "themes": ["Management", "Conservation"],
+
+    "newsHeadline": "Even Darwin's Islands Can't Protect Their Sharks from Poachers",
+
+    "essay": "Lindsey Carr, Katharina Fietz, Ignacio Montero, Austin Gallagher, John Bruno, and I documented evidence of ongoing illegal shark fishing within the Galápagos Marine Reserve. The reserve enjoys every designation conservationists can bestow: UNESCO World Heritage Site, shark sanctuary, one of the largest marine protected areas in the world. Despite these protections, shark poaching continues.\n\nWe compiled records of interceptions, cataloged confiscated catch, and combined these with observations during fieldwork. The evidence showed boats entering the reserve with illegal longlines, sharks with fins removed, and enforcement officers intercepting poachers. The activity wasn't isolated incidents—it was ongoing.\n\nThe gap between designation and reality represents a fundamental challenge in marine conservation. Establishing a reserve requires political will and lines on a map. Actually protecting it requires patrol boats, enforcement officers, legal systems that prosecute violators, and sustained funding for all of the above. The Galápagos is famous and relatively well-funded by marine reserve standards, yet still cannot prevent poaching. The ocean is too vast and enforcement too expensive, while economic incentives for poaching remain strong. Shark fins command high prices in international markets.\n\nInternational conservation accounting tracks the percentage of ocean under protection and celebrates when these numbers increase. But a square kilometer of 'protected' water where enforcement is absent contributes nothing to conservation goals. The sharks don't know they're legally protected. They only know who's trying to catch them.\n\nThe Galápagos hosts important shark aggregations—hammerheads, Galápagos sharks, whale sharks—that are both ecologically significant and attractive targets for poachers. Sharks reproduce slowly and can withstand only minimal fishing pressure before populations decline. If poaching continues even in one of the world's most protected marine areas, the broader challenge of shark conservation becomes clear."
+  }
+}

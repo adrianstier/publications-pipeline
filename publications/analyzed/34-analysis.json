@@ -1,0 +1,97 @@
+{
+  "publicationId": "34",
+  "title": "Temporal variation in dispersal modifies dispersal-diversity relationships in an experimental seagrass metacommunity",
+  "authors": "Stier, Ac; Lee, Sc; O’Connor, Mi",
+  "year": 2019,
+  "journal": "Marine Ecology Progress Series",
+  "doi": "10.3354/meps12908",
+  "doiUrl": "https://doi.org/10.3354/meps12908",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T21:04:05.126Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 7,
+  "analysis": {
+    "summary": "This paper examines how the International Long-Term Ecological Research Network (ILTER) could serve as a global platform for observing coastal and marine ecosystems, analyzing the network's more than 100 coastal and marine research sites worldwide.",
+    "keyQuestion": "How can the coastal and marine components of the International Long-Term Ecological Research Network contribute to global ocean observation and address challenges posed by climate change and human impacts?",
+    "approach": "The researchers conducted a comprehensive analysis of ILTER's coastal and marine sites using a SWOT (Strengths, Weaknesses, Opportunities, and Threats) framework, examining site distribution, data collection capabilities, and integration with global observation systems.",
+    "keyFindings": [
+      "ILTER includes more than 100 coastal and marine sites distributed globally from tropical to polar regions",
+      "Some sites have data records predating ILTER's formal establishment, with some dating back to the early 1900s",
+      "The network measures diverse abiotic and biotic variables that can feed into global initiatives like the Global Ocean Observing System",
+      "ILTER sites are committed to free and open data sharing following FAIR principles, though implementation remains challenging"
+    ],
+    "stickyFact": "Some ILTER coastal and marine observation sites have data records dating back to the early 1900s, providing valuable long-term baselines for understanding environmental change.",
+    "whyItMatters": "This research demonstrates how existing long-term research networks could fill critical gaps in global ocean observation, providing the sustained ecological data needed to understand and respond to climate change, biodiversity loss, and human impacts on marine ecosystems.",
+    "location": "Global network spanning 44 countries",
+    "species": "Marine and coastal ecosystems",
+    "themes": [
+      "Climate Change",
+      "Marine Conservation",
+      "Long-term Monitoring"
+    ],
+    "newsHeadline": "Global Research Network Could Hold Keys to Understanding Climate Change",
+    "essay": "When my colleagues and I mapped the global reach of marine research stations, we discovered something remarkable: some of our observation sites have been quietly collecting data for decades. Some sites have records stretching back to the early 1900s. These aren't just numbers in a database—they represent an unbroken chain of scientific observation that predates our modern understanding of climate change.\n\nWe wanted to understand whether the International Long-Term Ecological Research Network, or ILTER, could serve as a platform for global coastal and ocean observation. Working with Nicholas Nidzieko, Alicia Acosta, and colleagues from around the world, we analyzed how this network of 44 countries and 700 research sites—more than 100 of which are in coastal and marine environments—might address the pressing challenges of climate change and human impacts on ocean ecosystems. We used a SWOT analysis to examine the network's strengths, weaknesses, opportunities, and threats.\n\nOur analysis revealed that ILTER's coastal and marine sites are distributed globally from tropical-equatorial to polar regions, creating what we recognized as a true global observing system. These coastal and marine sites measure a broad variety of abiotic and biotic environmental variables, from temperature and species richness to productivity changes and biodiversity alterations. Some of these sites include data records that precede ILTER's formal establishment in 1993, giving us invaluable long-term baselines for understanding environmental change.\n\nWhat struck us most was the untapped potential we found. While ILTER sites are committed to free and open data sharing following FAIR principles—Findable, Accessible, Interoperable, and Reusable—putting these principles into practice remains challenging at most sites. The network has developed tools to harmonize measurements and methods, yet coordination between sites and with external initiatives needs improvement. We also discovered an imbalance similar to other observing systems: physical observations dominate while biological and ecological observations lag behind.\n\nThis matters because human activities threaten both the natural functioning of coastal and marine ecosystems and their sustainable use by future generations. Developing the ecological knowledge necessary to quantify these threats requires exactly what ILTER offers: sustained, long-term observations that integrate biological, physical, geological, and biogeochemical aspects of ecosystems. The Global Ocean Observing System has recognized this need by establishing Biology and Ecosystem Essential Ocean Variables, and ILTER is uniquely positioned to contribute.\n\nOur analysis points toward a future where ILTER's coastal and marine component could significantly enhance global ocean observation, but only if we address present challenges. We need better coordination among sites, improved data sharing infrastructure, and stronger integration with initiatives like the Global Ocean Observing System. The question isn't whether these long-established observation networks can contribute to understanding our changing oceans—it's whether we can organize them effectively enough to realize their full potential before it's too late."
+  },
+  "reviewDetails": {
+    "overallAssessment": "Multiple fabricated numbers and specific details not found in the paper. The article invents specific site counts (130 total, 70 coastal, 60 marine), statistical claims about 'nearly half' of sites, and specific site names with historical dates that don't appear in the source material.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "summary",
+        "claim": "analyzing the network's 130 coastal and marine research sites worldwide",
+        "problem": "The paper states 'more than 100' coastal and marine sites, not exactly 130",
+        "paperSays": "more than 100 of which are located in coastal and marine environments (ILTER-CMS)",
+        "suggestedFix": "Change to 'more than 100 coastal and marine research sites'"
+      },
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "ILTER includes 130 coastal and marine sites (70 coastal, 60 marine)",
+        "problem": "These specific numbers (130 total, 70 coastal, 60 marine) do not appear in the paper",
+        "paperSays": "more than 100 of which are located in coastal and marine environments",
+        "suggestedFix": "Change to 'ILTER includes more than 100 coastal and marine sites'"
+      },
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "Nearly half of the coastal and marine sites have data records predating ILTER's formal establishment",
+        "problem": "The paper does not provide this specific statistic about 'nearly half'",
+        "paperSays": "While most of the ILTER-CMS were established after the year 2000, in some cases they date back to the early 1900s",
+        "suggestedFix": "Some sites have data records predating ILTER's formal establishment, with some dating back to the early 1900s"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "Some ILTER coastal and marine observation sites have been collecting data for over 150 years, with the Dutch Wadden Sea Area having records dating back to 1872",
+        "problem": "These specific site names and dates do not appear anywhere in the provided paper text",
+        "paperSays": "in some cases they date back to the early 1900s",
+        "suggestedFix": "Some ILTER coastal and marine observation sites have data records dating back to the early 1900s"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "The Dutch Wadden Sea Area has records stretching back to 1872, while observations began in the Western Gulf of Finland in 1902 and at Mar Piccolo of Taranto, Italy in 1914",
+        "problem": "None of these specific site names or dates appear in the paper",
+        "paperSays": "in some cases they date back to the early 1900s",
+        "suggestedFix": "Remove specific site names and dates, use only what's in the paper"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "These 70 coastal and 60 marine sites",
+        "problem": "These specific numbers do not appear in the paper",
+        "paperSays": "more than 100 of which are located in coastal and marine environments",
+        "suggestedFix": "These coastal and marine sites"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "Nearly half of these sites include data records that precede ILTER's formal establishment in 1993",
+        "problem": "The paper does not provide this 'nearly half' statistic",
+        "paperSays": "While most of the ILTER-CMS were established after the year 2000, in some cases they date back to the early 1900s",
+        "suggestedFix": "Some of these sites include data records that precede ILTER's formal establishment in 1993"
+      }
+    ]
+  }
+}

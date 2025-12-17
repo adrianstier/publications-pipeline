@@ -1,0 +1,90 @@
+{
+  "publicationId": "49",
+  "title": "Experimentally induced metamorphosis in axolotls reduces regenerative rate and fidelity",
+  "authors": "Monaghan, James R.; Stier, Adrian C.; Michonneau, François; Smith, Matthew D.; Pasch, Bret; Maden, Malcolm; Seifert, Ashley W.",
+  "year": 2014,
+  "journal": "Regeneration",
+  "doi": "10.1002/reg2.8",
+  "doiUrl": "https://doi.org/10.1002/reg2.8",
+  "openAccess": true,
+  "analyzedAt": "2025-12-17T12:49:32.664Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 6,
+  "analysis": {
+    "summary": "Scientists induced metamorphosis in axolotls (salamanders that normally remain aquatic their whole lives) to test whether the transformation affects their legendary ability to regenerate lost limbs. They found that metamorphosis reduces regeneration speed by half and causes limb defects.",
+    "keyQuestion": "Does metamorphosis itself reduce regenerative ability in animals, or are other factors like age, body size, and developmental stage responsible for the loss of regeneration seen in most animals?",
+    "approach": "Researchers used axolotls, which can be artificially induced to undergo metamorphosis as adults using thyroxine hormone. They compared limb regeneration between age-matched axolotls that remained aquatic (paedomorphic) versus those that underwent metamorphosis, controlling for body size and age.",
+    "keyFindings": [
+      "Metamorphosis caused a twofold reduction in regeneration rate",
+      "Body size had no effect on regeneration rate in adult axolotls",
+      "Metamorphic axolotls developed carpal and digit malformations during regeneration",
+      "Metamorphic blastemal cells showed lower proliferative rates and took longer to traverse the cell cycle"
+    ],
+    "stickyFact": "Metamorphosis caused a twofold reduction in regeneration rate in axolotls compared to their aquatic counterparts",
+    "whyItMatters": "This research helps explain why most animals lose their ability to regenerate body parts as they develop, potentially revealing key mechanisms that could be targeted to promote regeneration in other animals, including humans. Understanding what restricts regeneration could inform regenerative medicine approaches.",
+    "location": "University of Florida",
+    "species": "Axolotl (Ambystoma mexicanum)",
+    "themes": [
+      "regeneration",
+      "metamorphosis",
+      "developmental biology",
+      "salamanders"
+    ],
+    "newsHeadline": "Axolotls Lose Their Superpower When They Transform Into Land Animals",
+    "essay": "Researchers led by James Monaghan and colleagues at the University of Florida wanted to solve a puzzle that had frustrated regeneration biologists for decades: why do most animals lose their ability to regrow body parts as they mature? Frogs can regenerate limbs as tadpoles but lose this power around metamorphosis. Salamanders supposedly keep it throughout their lives. But previous studies were messy - scientists couldn't separate the effects of metamorphosis from age, body size, or developmental stage.\n\nAxolotls provided the perfect solution. These salamanders normally never metamorphose, staying aquatic and larval-like forever. But the researchers could force the transformation using thyroxine hormone, creating age-matched pairs where some stayed aquatic and others became terrestrial.\n\nWhat they found was stark and unambiguous. When they amputated forelimbs and tracked regeneration, the metamorphic axolotls were dramatically slower, showing a twofold reduction in regeneration rate compared to their paedomorphic siblings. Even more troubling, the metamorphic animals developed carpal and digit malformations that their aquatic counterparts never showed. Body size, which researchers had suspected might be a factor, had no effect whatsoever.\n\nThe cellular story was equally revealing. When the team examined the blastemal cells - those crucial progenitor cells that form the regenerating tissue - they found they were cycling more slowly in metamorphic animals and showing lower proliferative rates. But the precise mechanism remains unclear. The metamorphic limbs looked remarkably similar to paedomorphic ones before amputation, with ossified skeletons and similar tissue proportions. Whatever metamorphosis was doing to impair regeneration was subtle and hidden.\n\nThis matters because it suggests that metamorphosis itself - not just age or body size - actively constrains regeneration. The transformation appears to irreversibly alter how cells respond to injury, even in animals famous for their regenerative prowess. If scientists can understand what metamorphosis does to shut down these pathways, they might be able to reverse or prevent similar shutdowns in other animals, potentially opening new avenues for regenerative medicine.\n\nThe research raises important questions about the molecular mechanisms involved. What exactly does thyroxine do to these cells that makes them less regeneration-competent? Are there specific molecular switches being flipped during metamorphosis? The axolotl system provides a powerful tool to investigate these mechanisms, though the cellular and molecular details remain to be fully elucidated."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several significant fabrications, primarily specific numerical data (54.7 days, 26.2 days, 405 days) that do not appear in the source paper. It also inappropriately uses first-person narrative pretending the author was involved in the research. While the general findings about twofold reduction in regeneration rate and the presence of malformations are accurate, the specific invented numbers undermine scientific credibility.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "metamorphic axolotls took 54.7 days to reach differentiation while paedomorphic ones took 26.2 days",
+        "problem": "These specific numbers do not appear anywhere in the paper text provided",
+        "paperSays": "The paper mentions 'a twofold reduction in regeneration rate' but does not provide these specific day counts",
+        "suggestedFix": "Remove the specific day counts and only state the twofold reduction as mentioned in the paper"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "metamorphic axolotls taking 54.7 days to reach differentiation compared to 26.2 days for their aquatic counterparts",
+        "problem": "These specific numbers are not in the paper text provided",
+        "paperSays": "The paper states there was 'a twofold reduction in regeneration rate' but doesn't provide these specific timeframes",
+        "suggestedFix": "State only the twofold reduction without invented specific numbers"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "They took 54.7 days on average to reach the differentiation stage, while their paedomorphic siblings reached the same milestone in just 26.2 days",
+        "problem": "These precise numbers are not found in the paper text",
+        "paperSays": "Paper mentions 'twofold reduction in regeneration rate' but not these specific day counts",
+        "suggestedFix": "Remove the fabricated numbers and stick to the general finding of twofold reduction"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "tracked regeneration over 405 days",
+        "problem": "This specific duration is not mentioned in the paper text provided",
+        "paperSays": "The paper does not specify the total tracking period as 405 days",
+        "suggestedFix": "Remove this specific number or state the tracking period more generally"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we induced metamorphosis in our adult axolotls, watching them transform from their perpetually aquatic state into terrestrial salamanders, I never expected the change to be so devastating",
+        "problem": "This creates a false first-person narrative and adds dramatic personal reactions not found in the scientific paper",
+        "paperSays": "The paper is written in standard scientific third person without personal anecdotes or dramatic reactions",
+        "suggestedFix": "Rewrite in third person focusing on the scientific findings without invented personal reactions"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "My colleagues Adrian Stier, François Michonneau, Matthew Smith, Bret Pasch, Malcolm Maden, and I had stumbled onto something",
+        "problem": "Creates false first-person narrative suggesting the article author is one of the researchers",
+        "paperSays": "The paper lists these as co-authors but there's no indication the article writer is among them",
+        "suggestedFix": "Refer to the researchers in third person: 'The researchers led by James Monaghan...'"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "publicationId": "63",
+  "title": "Housekeeping Mutualisms: Do More Symbionts Facilitate Host Performance?",
+  "authors": "Stier, Adrian C.; Gil, Michael A.; McKeon, C. Seabird; Lemer, Sarah; Leray, Matthieu; Mills, Suzanne C.; Osenberg, Craig W.",
+  "year": 2012,
+  "journal": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0032079",
+  "doiUrl": "https://doi.org/10.1371/journal.pone.0032079",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Coral symbionts—crabs and shrimp living within coral branches—provide housekeeping services by removing sediment from coral surfaces. More symbionts removed more sediment, with effects adding up independently rather than synergistically.",
+
+    "keyQuestion": "Do multiple symbiont species and individuals provide increasing housekeeping benefits to their coral hosts?",
+
+    "approach": "Researchers surveyed symbiont abundance on coral colonies in Moorea and conducted experiments manipulating symbiont density and identity to measure sediment removal rates.",
+
+    "keyFindings": [
+      "Symbionts dramatically increased sediment removal from coral surfaces",
+      "Both crabs and shrimp contributed to housekeeping services",
+      "Per-capita effects were independent—no interference or synergy at tested densities",
+      "Multiple symbiont species co-occurred more often than expected by chance"
+    ],
+
+    "stickyFact": "Corals remove only about 10% of sediment from themselves—but with a crew of crabs and shrimp, nearly half gets cleared away.",
+
+    "whyItMatters": "Sedimentation threatens coral reefs worldwide. Symbiont cleaning services scale with symbiont abundance, suggesting that maintaining healthy symbiont communities is essential for coral survival in turbid waters.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Trapezia serenei (crab)", "Alpheus lottini (snapping shrimp)", "Pocillopora coral"],
+
+    "themes": ["Coral", "Mutualisms"],
+
+    "newsHeadline": "The Cleaning Crew That Keeps Coral Alive",
+
+    "essay": "Michael Gil, Seabird McKeon, Sarah Lemer, Matthieu Leray, Suzanne Mills, Craig Osenberg, and I investigated housekeeping services provided by coral symbionts. Guard crabs and snapping shrimp are known for defending corals, but they spend most of their time moving around coral surfaces, grooming tissue. We tested whether this activity constitutes meaningful sediment removal.\n\nWe surveyed coral colonies across Moorea to document symbiont communities. Crabs and shrimp co-occurred more often than chance would predict, suggesting they weren't excluding each other through competition. In experiments, we placed corals with varying numbers of symbionts and measured sediment removal. Corals alone cleared limited sediment from their surfaces. Adding symbionts substantially increased removal rates.\n\nThe effects added up independently. Each symbiont contributed roughly equal cleaning regardless of how many others were present—no interference at higher densities, but no synergy either. Housekeeping appears to be parallel labor: each symbiont clears sediment from its vicinity without coordinating with others.\n\nThis additive pattern means losing symbionts causes proportional losses in cleaning services. Sedimentation threatens reefs from coastal development, dredging, and erosion. Corals have limited self-cleaning ability—their survival depends on the cleaning crew living within their branches. Protecting corals means protecting the crabs and shrimp that keep them clean."
+  }
+}

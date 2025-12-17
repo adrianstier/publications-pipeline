@@ -1,0 +1,118 @@
+{
+  "publicationId": "47",
+  "title": "Adaptive genetic variation mediates bottom-up and top-down control in an aquatic ecosystem",
+  "authors": "Rudman, Seth M.; Rodriguez-Cabal, Mariano A.; Stier, Adrian; Sato, Takuya; Heavyside, Julian; El-Sabaawi, Rana W.; Crutsinger, Gregory M.",
+  "year": 2015,
+  "journal": "Proceedings of the Royal Society B: Biological Sciences",
+  "doi": "10.1098/rspb.2015.1234",
+  "doiUrl": "https://doi.org/10.1098/rspb.2015.1234",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T22:22:05.683Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 9,
+  "analysis": {
+    "summary": "Scientists studied how genetic differences in trees and fish work together to control entire aquatic ecosystems, finding that the productivity of cottonwood trees determines how strongly stickleback fish affect their prey.",
+    "keyQuestion": "How do genetic variations in multiple species at different levels of the food web interact to shape entire aquatic ecosystems?",
+    "approach": "They planted five genetically different cottonwood trees around aquatic tanks, collected their fallen leaves during autumn senescence, and added different types of stickleback fish to see how tree genetics and fish types combined to affect the whole aquatic community.",
+    "keyFindings": [
+      "Cottonwood genetic variation in leaf litter production mediated how strongly stickleback affected their prey - more productive trees led to stronger predation effects",
+      "The abundance of four common invertebrate prey species was controlled by the interaction between cottonwood productivity and stickleback morphology",
+      "Available phosphorus levels were dictated by the combined effects of tree genetics and fish type",
+      "These evolutionary interactions were comparable in strength to simply adding or removing predators entirely"
+    ],
+    "stickyFact": "Leaf litter production varied substantially among cottonwood genotypes, with amounts illustrated in supplementary materials",
+    "whyItMatters": "This research reveals that rapid evolutionary changes in multiple species can reshape entire ecosystems as powerfully as major ecological disruptions like predator loss, suggesting evolution plays a much larger role in ecosystem function than previously recognized.",
+    "location": "British Columbia, Canada",
+    "species": [
+      "Black cottonwood (Populus trichocarpa)",
+      "Three-spined stickleback (Gasterosteus aculeatus)",
+      "Aquatic invertebrates"
+    ],
+    "themes": [
+      "Eco-evolutionary dynamics",
+      "Community genetics",
+      "Trophic interactions",
+      "Local adaptation"
+    ],
+    "newsHeadline": "Tree Genes Control How Fish Shape Entire Aquatic Ecosystems",
+    "essay": "Scientists conducting a large-scale experiment in British Columbia found that genetic makeup of cottonwood trees determines how powerfully stickleback fish control their underwater prey communities. The research team examined whether genetic differences within species can reshape communities when multiple species with their own genetic variations interact in the same ecosystem.\n\nThey planted five genetically distinct cottonwood trees around cattle-tank-sized aquatic mesocosms, collected leaf litter as it senesced in the autumn, and then added either benthic or limnetic stickleback ecotypes. Each cottonwood genotype contributed different amounts of leaf litter to the aquatic environment.\n\nThe abundance of four common invertebrate prey species was dictated by the interaction between cottonwood productivity and stickleback morphology. More productive cottonwood genotypes amplified the predation effects of stickleback on their prey. Even phosphorus availability, the most critically limiting nutrient in freshwater systems, responded to these genetic interactions. These evolutionary effects were comparable in strength to the impacts of adding or removing predators entirely.\n\nThis research reveals evolution as an underappreciated driver of ecosystem function. If genetic differences that can evolve rapidly are reshaping communities as powerfully as major ecological disruptions, then conservation strategies need to account for evolutionary potential, not just species presence or absence. The interactive effects documented suggest that protecting genetic diversity within species might be as crucial as protecting species diversity itself.\n\nThe findings demonstrate that intraspecific variation, which can evolve rapidly, is an under-appreciated driver of community structure and ecosystem function, showing that a multi-trophic perspective is essential to understanding the role of evolution in structuring ecological patterns."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains multiple fabricated details, particularly specific numbers not in the paper, dramatic scene-setting that wasn't described, and personal commentary not present in the scientific paper. The core scientific findings are mostly accurate but are wrapped in invented narrative elements.",
+    "issues": [
+      {
+        "type": "fabricated",
+        "location": "stickyFact",
+        "claim": "Leaf litter production varied by over twofold among cottonwood genotypes, producing approximately 70-150 grams per tank",
+        "problem": "The specific numbers '70-150 grams per tank' do not appear anywhere in the paper",
+        "paperSays": "The paper only mentions that leaf litter amounts are 'illustrated in electronic supplementary material, figure S1' but provides no specific quantities in the main text",
+        "suggestedFix": "Remove the specific gram amounts and say something like 'Leaf litter production varied substantially among cottonwood genotypes'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we drained our experimental tanks in June 2013, we found something remarkable",
+        "problem": "The paper doesn't mention draining tanks in June 2013 or describe this as a moment of discovery",
+        "paperSays": "The paper describes sampling methods but doesn't dramatize the moment of discovery or specify when tanks were drained",
+        "suggestedFix": "Remove the dramatic scene-setting and stick to what the study actually found"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We wanted to answer a question that had been nagging at evolutionary ecologists",
+        "problem": "This personal motivation and emotional language is not in the paper",
+        "paperSays": "The paper states the scientific rationale but doesn't describe personal motivations or emotions",
+        "suggestedFix": "State the scientific rationale objectively as presented in the paper"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "My colleagues Mariano Rodriguez-Cabal, Adrian Stier, and I had spent months watching this intricate dance between evolution and ecology unfold across 60 aquatic mesocosms in British Columbia",
+        "problem": "The paper doesn't describe 'watching' or 'months' of observation, nor characterize it as an 'intricate dance'",
+        "paperSays": "The paper describes the experimental setup and results but not the process of observation in these terms",
+        "suggestedFix": "Describe the experimental setup objectively without dramatic language"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "Each cottonwood genotype contributed different amounts of leaf litter - varying by over twofold, from approximately 70 to 150 grams per tank",
+        "problem": "The specific numbers '70 to 150 grams per tank' are not in the paper",
+        "paperSays": "The paper only references 'electronic supplementary material, figure S1' for litter amounts",
+        "suggestedFix": "Remove specific numbers and just say leaf litter varied among genotypes"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "collected their autumn leaf litter as it fell naturally",
+        "problem": "The paper doesn't specify that litter was collected 'as it fell naturally' - this detail is fabricated",
+        "paperSays": "Leaf litter from these trees was collected as it senesced in the autumn, weighed and added to the aquatic environment",
+        "suggestedFix": "Use the exact wording from the paper about collection during senescence"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "The results surprised us with their clarity",
+        "problem": "The paper doesn't express surprise or comment on the clarity of results",
+        "paperSays": "The paper presents results objectively without emotional commentary",
+        "suggestedFix": "Remove subjective commentary about surprise and clarity"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "the mechanism by which tree genetics mediated fish predation effects remained unclear from our experiment",
+        "problem": "The paper doesn't state that mechanisms remained unclear",
+        "paperSays": "The paper discusses results and theory but doesn't explicitly state mechanisms are unclear",
+        "suggestedFix": "Remove speculation about unclear mechanisms not stated in the paper"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "The benthic stickleback, which feed primarily on bottom-dwelling invertebrates strongly influenced by leaf litter, didn't show the predicted stronger effects when paired with the most productive cottonwood genotypes",
+        "problem": "The paper doesn't state that benthic stickleback failed to show predicted effects",
+        "paperSays": "The paper predicted benthic effects but doesn't explicitly state they weren't observed as expected",
+        "suggestedFix": "Only state what the paper actually reports about the results"
+      }
+    ]
+  }
+}

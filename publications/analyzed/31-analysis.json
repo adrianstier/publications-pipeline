@@ -1,0 +1,90 @@
+{
+  "publicationId": "31",
+  "title": "Strong Evidence for an Intraspecific Metabolic Scaling Coefficient Near 0.89 in Fish",
+  "authors": "Jerde, Christopher L.; Kraskura, Krista; Eliason, Erika J.; Csik, Samantha R.; Stier, Adrian C.; Taper, Mark L.",
+  "year": 2019,
+  "journal": "Frontiers in Physiology",
+  "doi": "10.3389/fphys.2019.01166",
+  "doiUrl": "https://doi.org/10.3389/fphys.2019.01166",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T20:48:59.328Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 6,
+  "analysis": {
+    "summary": "Researchers analyzed metabolic rate data from 25 fish studies to determine how fish metabolism scales with body size, finding strong evidence for a scaling coefficient of 0.89 rather than the commonly assumed values of 0.67, 0.75, or 1.0.",
+    "keyQuestion": "What is the evidence for a universal scaling relationship between fish body mass and metabolic rate within species?",
+    "approach": "The researchers curated data from 25 studies measuring standard metabolic rate, temperature, and mass across 55 independent trials and 16 fish species, then used flexible random effects models and information theory-based model selection to quantify the relationship.",
+    "keyFindings": [
+      "Strong evidence for a metabolic scaling coefficient of 0.89 with ΔSIC interval spanning 0.82 to 0.99",
+      "Mechanistically derived coefficients of 0.67, 0.75, and 1.0 are not supported by the data",
+      "Model selection supports random intercepts and random slopes by species, indicating other factors like taxonomy or lifestyle affect the relationship",
+      "Metabolic rates vary 2-3 fold across individuals of the same population and this variation is repeatable"
+    ],
+    "stickyFact": "The researchers found strong evidence for a metabolic scaling coefficient of 0.89 with a ΔSIC interval spanning 0.82 to 0.99, contradicting commonly assumed values of 0.67, 0.75, and 1.0.",
+    "whyItMatters": "This research is critical for linking species physiology to projections of population abundance and predicting the impacts of climate change on species distributions. The metabolic scaling relationship is used as a cornerstone of metabolic theory of ecology to connect individual physiology to community patterns and energy flows across landscapes.",
+    "location": "Multiple locations - data curated from 25 studies",
+    "species": "16 fish species across 55 independent trials",
+    "themes": [
+      "fish physiology",
+      "metabolic scaling",
+      "climate change",
+      "population ecology"
+    ],
+    "newsHeadline": "Fish Metabolism Follows Different Rules Than Scientists Thought",
+    "essay": "When researchers began curating metabolic rate data from fish studies, they found evidence for a scaling coefficient of 0.89, not the 0.67, 0.75, or 1.0 that decades of theory had predicted. This number might seem abstract, but it represents a fundamental relationship governing how fish use energy as they grow.\n\nThe researchers were trying to resolve one of ecology's longest-standing controversies: how does metabolic rate scale with body mass in fish? This question matters because the answer underpins predictions about population dynamics and climate change impacts. They curated data from 25 studies spanning 55 independent trials across 16 fish species, from common minnows to European eels. Each dataset required measurements of standard metabolic rate, temperature, and body mass—not trivial experiments, as measuring an individual fish's metabolic rate across a 10-fold range of body sizes is technically demanding.\n\nThe analysis revealed strong evidence for a metabolic scaling coefficient of 0.89, with a ΔSIC interval spanning 0.82 to 0.99. This finding directly contradicts the mechanistically derived coefficients that have dominated ecological theory. The 0.67 value, based on surface area constraints, and the 0.75 value from fractal transport networks, and the 1.0 value from proportional scaling—none were supported by the data. The researchers also found that metabolic rates vary 2-3 fold across individuals of the same population, and this variation is repeatable.\n\nWhat emerged was how consistent this 0.89 pattern appeared across such diverse fish species and conditions, yet the models clearly showed that other factors matter too. The best-fitting models included random intercepts and random slopes by species, suggesting that taxonomy, ecology, or lifestyle characteristics influence the underlying metabolic processes. The mechanisms that drive this 0.89 relationship or why it differs from theoretical predictions remain unclear.\n\nThis matters because metabolic scaling relationships form the cornerstone of metabolic theory of ecology, linking individual physiology to community patterns and energy flows across landscapes. The findings suggest that current models predicting how fish populations will respond to climate change may need revision. If fish metabolism scales differently than previously thought, projections of population abundance and species distributions under changing conditions could be systematically biased.\n\nMany questions remain unanswered. What biological mechanisms produce this 0.89 scaling? How do ecological factors like habitat depth, activity level, or feeding strategy modify this relationship? More studies designed specifically to capture wide ranges of body sizes within species are needed, as is understanding whether this pattern holds for other vertebrate groups. The evidentialist framework applied here allows for continuous refinement as new data emerge."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabrications including incorrect statistical terminology (confidence interval vs ΔSIC interval), false first-person narrative, mention of species not in the study, and characterization of findings as unexpected when not stated in the paper. The core scientific findings are accurate but presentation issues need correction.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "we discovered something unexpected",
+        "problem": "The paper doesn't describe this as unexpected - the authors appear to be deliberately testing for this coefficient",
+        "paperSays": "The paper systematically tests scaling coefficients without expressing surprise at the results",
+        "suggestedFix": "Remove characterization as 'unexpected'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "from tiny minnows to large cod",
+        "problem": "The paper doesn't mention cod as one of the studied species",
+        "paperSays": "The paper lists specific species in Table 1: Cunner, Brown Trout, Round Goby, Common Minnow, Barramundi, European Eel, etc. but no cod",
+        "suggestedFix": "Remove reference to cod or use actual species from the study"
+      },
+      {
+        "type": "fabrication",
+        "location": "keyFindings",
+        "claim": "confidence interval",
+        "problem": "The paper uses 'ΔSIC interval' not confidence interval - these are different statistical concepts",
+        "paperSays": "We found strong evidence for a metabolic scaling coefficient of 0.89 with a ΔSIC interval spanning 0.82 to 0.99",
+        "suggestedFix": "Change 'confidence interval' to 'ΔSIC interval' throughout"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "confidence interval",
+        "problem": "Same issue as above - using wrong statistical terminology",
+        "paperSays": "ΔSIC interval spanning 0.82 to 0.99",
+        "suggestedFix": "Change to 'ΔSIC interval'"
+      },
+      {
+        "type": "fabrication",
+        "location": "stickyFact",
+        "claim": "confidence interval",
+        "problem": "Same statistical terminology error",
+        "paperSays": "ΔSIC interval spanning 0.82 to 0.99",
+        "suggestedFix": "Change to 'ΔSIC interval'"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When my colleagues Krista Kraskura, Erika Eliason, Samantha Csik, Adrian Stier, Mark Taper and I began curating metabolic rate data",
+        "problem": "This creates a false first-person narrative - the article author is not one of the study authors",
+        "paperSays": "The paper is authored by Jerde, Kraskura, Eliason, Csik, Stier, and Taper",
+        "suggestedFix": "Change to third person: 'When the researchers began curating...'"
+      }
+    ]
+  }
+}

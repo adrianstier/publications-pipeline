@@ -1,0 +1,90 @@
+{
+  "publicationId": "24",
+  "title": "Integrating oceans into climate policy: Any green new deal needs a splash of blue",
+  "authors": "Dundas, Steven J.; Levine, Arielle S.; Lewison, Rebecca L.; Doerr, Angee N.; White, Crow; Galloway, Aaron W. E.; Garza, Corey; Hazen, Elliott L.; Padilla‐Gamiño, Jacqueline; Samhouri, Jameal F.; Spalding, Ana; Stier, Adrian; White, J. Wilson",
+  "year": 2020,
+  "journal": "Conservation Letters",
+  "doi": "10.1111/conl.12716",
+  "doiUrl": "https://doi.org/10.1111/conl.12716",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T20:32:23.093Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 6,
+  "analysis": {
+    "summary": "This paper argues that climate policies like the Green New Deal should integrate ocean-based solutions with terrestrial approaches, creating what the authors call a 'Teal Deal' that combines land and sea strategies for renewable energy, transportation, food security, and habitat restoration.",
+    "keyQuestion": "How can ocean-based climate solutions be integrated with terrestrial policies to create more effective and comprehensive climate action?",
+    "approach": "The researchers conducted a policy analysis and literature review to identify four key sectors where ocean and terrestrial climate solutions could be integrated: renewable energy, transportation, food security, and habitat restoration. They analyzed existing policy frameworks and proposed specific ocean-based approaches that complement terrestrial strategies.",
+    "keyFindings": [
+      "Offshore winds blow harder and more consistently than on land, with potential to harness more than 100 GW of untapped offshore wind resources in U.S. Federal waters",
+      "Wind strength peaks in the afternoon and evening when solar energy declines but electricity demand is highest, making offshore wind complementary to solar power",
+      "European offshore wind farms generated 18.5 GW of clean power in 2018 and supported as many as 130,000 full-time equivalent jobs per year",
+      "Offshore energy development in the U.S. currently intersects nine different domestic policies, creating bureaucratic obstacles that need streamlining"
+    ],
+    "stickyFact": "Deep-water floating wind turbines are capable of powering over 15,000 homes each, while offshore winds blow harder and more consistently than on land.",
+    "whyItMatters": "This research provides a policy framework for addressing climate change more comprehensively by leveraging both terrestrial and ocean resources. It could help policymakers create more effective climate strategies that reduce risk through diversification while maximizing economic benefits and carbon reduction goals.",
+    "location": "United States",
+    "species": null,
+    "themes": [
+      "climate policy",
+      "renewable energy",
+      "ocean conservation",
+      "policy integration"
+    ],
+    "newsHeadline": "Scientists Propose 'Teal Deal' to Combine Land and Sea Climate Solutions",
+    "essay": "Climate policy discussions around Green New Deal proposals have focused primarily on terrestrial solutions while largely ignoring ocean-based strategies, according to researchers who analyzed existing climate policy frameworks. The team identified this as a significant missed opportunity given that oceans cover 71% of the planet's surface.\n\nThe researchers analyzed four key sectors where ocean and terrestrial climate solutions could be integrated: renewable energy, transportation, food security, and habitat restoration. They propose what they call a 'Teal Deal'—combining green terrestrial and blue ocean strategies into a more comprehensive approach.\n\nTheir analysis revealed significant potential for offshore renewable energy. Offshore winds blow harder and more consistently than on land, with potential to harness more than 100 GW of untapped offshore wind resources in U.S. Federal waters. The timing is particularly compelling: wind strength peaks in the afternoon and evening, precisely when solar energy production declines but electricity demand reaches its highest point. In California, this creates complementarity where offshore wind could fill gaps when solar production drops.\n\nThe economic potential is demonstrated by European offshore wind farms, which generated 18.5 GW of clean power in 2018 and supported as many as 130,000 full-time equivalent jobs per year. Deep-water floating wind turbines are capable of powering over 15,000 homes each, representing significant technological advancement.\n\nHowever, the researchers found that offshore energy development in the U.S. currently intersects nine different domestic policies, creating bureaucratic obstacles that discourage investment and development. This regulatory complexity represents a significant barrier despite ready technology and favorable economics.\n\nThe researchers argue that portfolio theory supports diversifying climate solution sets to reduce risk and increase returns on investment. With both expected and unanticipated consequences of climate change, integrated terrestrial-ocean policies could be more nimble and adaptive than single-sector approaches. A Teal Deal approach could achieve climate regulation goals while building resilience, generating economic co-benefits, and supporting ecosystem services that neither purely terrestrial nor purely marine approaches could deliver alone."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains significant fabrications in the essay section, primarily through the use of first-person narrative that doesn't exist in the paper and invented details about the authors' thought processes, emotions, and specific implementation questions. The factual content about offshore wind potential, timing, and European statistics is accurate, but the personal narrative framework is entirely fabricated.",
+    "issues": [
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "When I first started thinking about climate policy with my colleagues Arielle Levine and Rebecca Lewison, we kept noticing the same glaring omission.",
+        "problem": "The essay is written in first person as if by one of the authors, but this is fabricated narrative content not present in the paper",
+        "paperSays": "The paper is written in standard academic third person and contains no personal anecdotes or first-person accounts",
+        "suggestedFix": "Remove first-person narrative and stick to what the paper actually states about the research motivation"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "Rather than conducting field research, we dove deep into policy documents, economic analyses, and existing scientific literature",
+        "problem": "This vivid description of the research process is not described this way in the paper",
+        "paperSays": "The paper describes itself as a 'policy framework' and 'review' but doesn't provide this level of detail about their methodology",
+        "suggestedFix": "Simply state that the researchers conducted a policy analysis and literature review as described in the approach section"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "What surprised us most was how fragmented the regulatory landscape has become.",
+        "problem": "This personal reaction and emotional language is not present in the paper",
+        "paperSays": "The paper states factually that 'Offshore energy development in the U.S. currently intersects nine different domestic policies' but doesn't describe author surprise or emotions",
+        "suggestedFix": "State the regulatory complexity as a factual finding without the fabricated emotional response"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "We hadn't expected the regulatory complexity to be such a barrier—it's not that the technology isn't ready, or that the economics don't work.",
+        "problem": "This is fabricated commentary about the authors' expectations that doesn't appear in the paper",
+        "paperSays": "The paper presents findings about regulatory complexity but doesn't discuss what the authors expected or their thought process",
+        "suggestedFix": "Remove the fabricated personal commentary and stick to the paper's actual findings"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "The biggest question that remains is implementation. We've identified the potential, but how do we actually streamline those nine overlapping policies?",
+        "problem": "These specific questions and this framing of remaining challenges are not present in the paper",
+        "paperSays": "The paper discusses policy integration needs but doesn't pose these specific implementation questions",
+        "suggestedFix": "Describe the paper's actual conclusions about policy needs without fabricating specific questions"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "consolidated legal frameworks that have worked in Japan, New Zealand, and Europe",
+        "problem": "The paper mentions Europe but doesn't specifically discuss Japan and New Zealand frameworks or describe them as 'consolidated legal frameworks'",
+        "paperSays": "The paper mentions 'European countries demonstrate this economic potential' but doesn't discuss Japanese or New Zealand frameworks",
+        "suggestedFix": "Only mention the European example that is actually cited in the paper"
+      }
+    ]
+  }
+}

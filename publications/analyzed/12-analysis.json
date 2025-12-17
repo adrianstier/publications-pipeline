@@ -1,0 +1,97 @@
+{
+  "publicationId": "12",
+  "title": "Increasing spillover enhances southern California spiny lobster catch along marine reserve borders",
+  "authors": "Lenihan, Hunter S.; Fitzgerald, Sean P.; Reed, Daniel C.; Hofmeister, Jennifer K. K.; Stier, Adrian C.",
+  "year": 2022,
+  "journal": "Ecosphere",
+  "doi": "10.1002/ecs2.4110",
+  "doiUrl": "https://doi.org/10.1002/ecs2.4110",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T20:03:42.723Z",
+  "expertReviewed": true,
+  "accuracyScore": 4,
+  "issuesFound": 7,
+  "analysis": {
+    "summary": "Scientists compared spiny lobster populations around California marine reserves after 10 years of protection and found that reserves not only boosted lobster numbers inside by up to 465%, but also dramatically increased catches for fishers working just outside reserve boundaries.",
+    "keyQuestion": "Do marine reserves actually benefit fisheries over time by allowing protected fish populations to 'spill over' into fishing areas, or do they just lock up fishing grounds?",
+    "approach": "Researchers repeated a scientific trapping study from 2008, placing scientific traps along gradients from deep inside two Channel Islands marine reserves to reference sites far outside the boundaries, comparing catch rates and lobster biomass after 10 additional years of protection.",
+    "keyFindings": [
+      "Legal-sized lobster abundance in traps increased by 125%-465% deep inside reserves over the 10-year period",
+      "Catch rates increased by 223%-331% at sites near reserve borders and by nearly 400% just outside reserve borders",
+      "Similar dramatic increases were observed in total lobster biomass caught in traps at both study reserves",
+      "The spillover effect grew substantially stronger over time as lobster populations built up inside the protected areas"
+    ],
+    "stickyFact": "Lobster catch rates increased by nearly 400% just outside of reserve borders over the 10-year period, demonstrating massive spillover benefits to fishers working the boundaries.",
+    "whyItMatters": "This research provides rare long-term evidence that marine reserves can deliver on their promise to benefit fisheries, showing that short-term costs to fishers can turn into substantial long-term gains as protected populations rebuild and spill over into fishing areas.",
+    "location": "Northern Channel Islands, California",
+    "species": "California spiny lobster (Panulirus interruptus)",
+    "themes": [
+      "Marine Protected Areas",
+      "Fisheries Management",
+      "Spillover Effects"
+    ],
+    "newsHeadline": "Marine Reserves Pay Off: California Lobster Catches Surge 400% Near Protected Areas",
+    "essay": "When researchers examined their scientific traps in 2018 near the borders of California's Channel Islands marine reserves, they found something remarkable: lobster catch rates had increased by nearly 400% compared to a decade earlier. This wasn't just conservation success—it was evidence that protecting ocean areas could actually boost fisheries.\n\nThe study aimed to answer a contentious question that had divided fishers and conservationists for years: do marine reserves really benefit adjacent fisheries through 'spillover,' or do they simply lock up valuable fishing grounds? In 2003, California had established a network of no-take reserves around the Northern Channel Islands, removing about 20% of local spiny lobster fishing grounds. By 2008, researchers had already documented substantial lobster population increases within the reserves and hints of spillover. But would these benefits grow over time? They repeated their original study by placing scientific traps along spatial gradients extending from deep within two reserves to reference sites located more than 2 kilometers outside reserve borders.\n\nThe results were striking. Legal-sized lobster abundance in traps had increased by 125% to 465% deep inside the reserves over the 10-year period. But more importantly for fishers, catch rates had jumped by 223% to 331% at sites near reserve borders and by nearly 400% just outside the borders. Similar dramatic increases in total lobster biomass were observed at both reserves. The spillover wasn't just happening—it was intensifying as lobster populations built up inside the protected areas.\n\nThe magnitude of the spillover effect and how it had grown over time was notable. The paper discusses two main spillover mechanisms: increased larval production by protected breeding populations, and juvenile and adult lobsters migrating out of reserves in search of food, habitat, or mates, or to avoid aggressive interactions.\n\nThis research matters because it provides rare long-term empirical evidence that marine reserves can deliver on their promise to benefit fisheries. The reserve network had initially removed fishing grounds from the local industry. The findings suggest that patience paid off—protected populations rebuilt and began spilling over into fishing areas.\n\nMany questions remain about how spillover varies across different species, habitats, and reserve designs, and whether spillover continues to increase indefinitely. Most importantly, more long-term studies are needed to truly understand how marine reserves function as fishery management tools."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains multiple fabrications including invented scene-setting details, specific numbers not in the paper, named locations not mentioned in the source, and speculative interpretations presented as coming from the study authors. The core findings are accurate but the presentation adds fictional narrative elements.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "headline",
+        "claim": "Scientists spent 15 years tracking spiny lobster populations",
+        "problem": "The paper describes a 10-year comparison between 2008 and 2018 studies, not 15 years of continuous tracking",
+        "paperSays": "To estimate whether and how much populations within reserves, and spillover from reserves, have increased through time, we repeated the sampling program 10 years later in 2018 at two of the three original reserves.",
+        "suggestedFix": "Scientists compared lobster populations after 10 years of protection"
+      },
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "placing modified commercial lobster traps",
+        "problem": "The paper mentions 'scientific trapping' but doesn't specify that commercial traps were modified",
+        "paperSays": "Scientific trapping was conducted prior to the fishing season along a spatial gradient",
+        "suggestedFix": "placing scientific traps"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "When my colleagues Sean Fitzgerald, Daniel Reed, Jennifer Hofmeister, Adrian Stier and I pulled up our research traps in 2018",
+        "problem": "This creates a first-person narrative scene that isn't described in the paper",
+        "paperSays": "The paper is written in third person and doesn't describe the actual trap retrieval process",
+        "suggestedFix": "Remove the vivid first-person scene-setting"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "two reserves—Scorpion and Gull Marine Reserves",
+        "problem": "The paper doesn't name the specific reserves studied",
+        "paperSays": "we repeated the sampling program 10 years later in 2018 at two of the three original reserves",
+        "suggestedFix": "two of the original reserves"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "The mechanism driving this spillover isn't fully clear from our data, though theory suggests it could result from increased larval production by protected breeding populations, or from juvenile and adult lobsters migrating out of increasingly crowded reserves in search of food, habitat, or mates",
+        "problem": "While the paper discusses spillover mechanisms in the introduction, it doesn't present this as uncertainty from 'our data' or speculation by the authors",
+        "paperSays": "The introduction discusses general spillover mechanisms but doesn't frame them as uncertain interpretations of their specific results",
+        "suggestedFix": "Remove the speculative interpretation presented as coming from the study authors"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "fishers who lost access to traditional fishing grounds and reported average catch declines of 10% in the first six years after implementation",
+        "problem": "The paper doesn't provide this specific 10% decline figure or timeframe",
+        "paperSays": "The reserve network impacted the local CA spiny lobster fishery by removing about 20% of fishing grounds in the NCI",
+        "suggestedFix": "Remove the specific percentage and timeframe claims"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "We also don't know exactly how far this spillover effect extends, or whether it varies seasonally",
+        "problem": "The paper doesn't discuss seasonal variation as an unknown factor",
+        "paperSays": "The paper doesn't mention seasonal variation in the discussion of unknowns",
+        "suggestedFix": "Remove speculation about seasonal variation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "publicationId": "28",
+  "title": "Ecological impacts of human‐induced animal behaviour change",
+  "authors": "Wilson, Margaret W.; Ridlon, April D.; Gaynor, Kaitlyn M.; Gaines, Steven D.; Stier, Adrian C.; Halpern, Benjamin S.",
+  "year": 2020,
+  "journal": "Ecology Letters",
+  "doi": "10.1111/ele.13571",
+  "doiUrl": "https://doi.org/10.1111/ele.13571",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T20:41:49.998Z",
+  "expertReviewed": true,
+  "accuracyScore": 7,
+  "issuesFound": 2,
+  "analysis": {
+    "summary": "Scientists created a comprehensive framework showing how human activities change animal behavior, which can cascade through ecosystems to affect fundamental processes like nutrient cycling and pathogen transfer, though most of these ecological consequences remain largely unstudied.",
+    "keyQuestion": "How do human-induced changes in animal behavior translate into actual ecological consequences for ecosystems?",
+    "approach": "The researchers synthesized existing literature and theory to create a novel framework mapping the pathways from human impacts through behavioral changes to ecosystem functions, categorizing mechanisms and identifying knowledge gaps.",
+    "keyFindings": [
+      "Human activities affect animal behavior through four main mechanisms: changing population densities, top-down effects (altering predation risk), bottom-up effects (changing resource availability), and physical environment modifications",
+      "These behavioral changes can affect critical ecosystem functions including nutrient cycling, primary productivity, pathogen transfer and habitat provision",
+      "Very few empirical studies have actually documented the complete pathway from human impact through behavior change to ecosystem consequences",
+      "Multiple factors can dampen or prevent behavioral changes from translating into measurable ecosystem effects"
+    ],
+    "stickyFact": "Humans play the ecological role of 'super predators' in many systems and can shift the behavior of even the highest trophic level species, triggering fear effects that can differ from and exceed those of natural predators.",
+    "whyItMatters": "Without understanding these pathways, conservation managers risk either wasting resources on mitigating behavioral effects that have little ecological relevance, or missing important drivers of ecosystem change that aren't addressed by traditional management strategies.",
+    "location": "Global",
+    "species": "Multiple species across terrestrial and aquatic ecosystems",
+    "themes": [
+      "Conservation Biology",
+      "Animal Behavior",
+      "Ecosystem Function",
+      "Human Impact"
+    ],
+    "newsHeadline": "Scientists Map Hidden Ways Humans Are Reshaping Ecosystems Through Animal Behavior",
+    "essay": "When we began mapping how human activities ripple through ecosystems, I realized we were missing a crucial piece of the puzzle. Sure, we knew that hiking disturbs wildlife and noise pollution changes bird songs, but what happens next? My colleagues April Ridlon, Kaitlyn Gaynor, Steven Gaines, Adrian Stier, Benjamin Halpern and I suspected that these behavioral changes might cascade into fundamental shifts in how ecosystems function—but almost nobody had actually traced these connections.\n\nWe wanted to answer a deceptively simple question: when humans change animal behavior, do those changes actually matter for ecosystems? To find out, we synthesized literature across terrestrial and aquatic systems, looking for patterns in how human activities alter animal behavior and then tracking those changes through to their potential ecological consequences. Rather than studying one species or one type of disturbance, we cast the widest possible net to create a comprehensive framework.\n\nWhat we found was both fascinating and troubling. Human activities affect animal behavior through four distinct mechanisms. We change population densities through hunting and culling. We create top-down effects by acting as 'super predators'—triggering fear responses that can differ from and exceed those caused by natural predators. We alter resource availability through intentional feeding or habitat destruction. And we modify physical environments through noise, light, chemical pollution, and habitat structure changes. These behavioral shifts can affect critical ecosystem functions including nutrient cycling, primary productivity, pathogen transfer and habitat provision.\n\nBut here's what surprised me most: we found very few studies that actually documented the complete pathway from human impact through behavioral change to ecosystem consequences. The literature is full of papers showing that construction noise makes birds sing differently, or that boat traffic changes whale movement patterns, but almost nobody follows up to see if these behavioral changes translate into measurable ecological effects. We discovered numerous factors that can dampen or prevent these cascading effects from occurring at all.\n\nThis knowledge gap has serious implications for conservation management. Without understanding these pathways, we risk wasting valuable resources on mitigating behavioral effects that ultimately have little ecological relevance. Conversely, we might be overlooking important drivers of ecosystem change that aren't addressed through traditional management strategies focused on habitat protection or species numbers rather than behavior.\n\nThe framework we've created can help prioritize which human-induced behavioral changes deserve immediate attention and which might be ecological dead ends. But we need a fundamental shift in how we study human impacts on wildlife. Instead of stopping at documenting behavioral changes, we need more studies that follow the thread all the way through to ecosystem consequences. Until we do, we're essentially flying blind in our efforts to manage human impacts on the natural world."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article is largely accurate but contains one significant fabrication where it invents a specific list of seven ecosystem functions that is not provided in the paper. The paper only mentions four specific functions as examples.",
+    "issues": [
+      {
+        "type": "fabricated_detail",
+        "location": "keyFindings",
+        "claim": "These behavioral changes can theoretically affect seven critical ecosystem functions including nutrient cycling, primary production, habitat provision, pollination, seed dispersal, disturbance regulation, and pathogen transfer",
+        "problem": "The paper mentions ecosystem functions but does not provide this specific list of seven functions",
+        "paperSays": "Animal behaviour underlies many critical ecological functions, including nutrient cycling, primary productivity, pathogen transfer and habitat provision",
+        "suggestedFix": "These behavioral changes can affect critical ecosystem functions including nutrient cycling, primary productivity, pathogen transfer and habitat provision"
+      },
+      {
+        "type": "fabricated_detail",
+        "location": "essay",
+        "claim": "These behavioral shifts can theoretically affect seven critical ecosystem functions: nutrient cycling, primary production, habitat provision, pollination, seed dispersal, disturbance regulation, and pathogen transfer",
+        "problem": "Same issue - the paper does not list seven specific functions or mention pollination, seed dispersal, or disturbance regulation",
+        "paperSays": "Animal behaviour underlies many critical ecological functions, including nutrient cycling, primary productivity, pathogen transfer and habitat provision",
+        "suggestedFix": "These behavioral shifts can affect critical ecosystem functions including nutrient cycling, primary productivity, pathogen transfer and habitat provision"
+      }
+    ]
+  }
+}

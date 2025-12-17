@@ -1,0 +1,42 @@
+{
+  "publicationId": "71",
+  "title": "Guard crabs alleviate deleterious effects of vermetid snails on a branching coral",
+  "authors": "Stier, A. C.; McKeon, C. S.; Osenberg, C. W.; Shima, J. S.",
+  "year": 2010,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-010-0663-9",
+  "doiUrl": "https://doi.org/10.1007/s00338-010-0663-9",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Guard crabs mitigate the negative effects of vermetid snails on coral growth. This demonstrates that guard crabs provide multiple services to their coral hosts beyond predator defense—they're multi-purpose mutualists.",
+
+    "keyQuestion": "Can guard crabs protect corals from the negative effects of vermetid snails?",
+
+    "approach": "Researchers conducted a factorial field experiment manipulating both guard crab presence and vermetid snail presence on Pocillopora corals to test whether crabs could alleviate vermetid-induced stress.",
+
+    "keyFindings": [
+      "Vermetid snails reduced coral growth",
+      "Guard crabs ameliorated the negative effects of vermetids",
+      "Corals with both crabs and vermetids grew better than those with only vermetids",
+      "Guard crabs provide multiple protective services beyond predator defense"
+    ],
+
+    "stickyFact": "Guard crabs are multi-purpose coral protectors—defending against starfish predators and now countering snail damage too.",
+
+    "whyItMatters": "Corals face multiple simultaneous stressors. Understanding that single mutualist species can provide multiple services helps predict how losing these partners cascades through reef ecosystems.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Trapezia serenei (guard crab)", "Dendropoma maximum (vermetid snail)", "Pocillopora coral"],
+
+    "themes": ["Coral", "Mutualisms"],
+
+    "newsHeadline": "The Guard Crab: A Multi-Tool for Coral Survival",
+
+    "essay": "Seabird McKeon, Craig Osenberg, Jeff Shima, and I tested whether guard crabs could protect corals from vermetid snail damage. We already knew guard crabs defend corals from crown-of-thorns starfish. The question was whether their services extended to countering another threat.\n\nWe set up a factorial experiment on Pocillopora colonies, manipulating both guard crab presence and vermetid presence. Vermetids reduced coral growth, confirming their negative effects. But corals with both vermetids and guard crabs grew better than corals with vermetids alone—the crabs were somehow offsetting the snail damage.\n\nThe mechanism isn't certain. Guard crabs might physically dislodge mucus nets during their constant movement. They might create water currents that wash settling mucus away. Their territorial behavior might incidentally harass vermetids. Whatever the process, the functional outcome was clear.\n\nGuard crabs aren't single-purpose defenders. They provide multiple services whose value compounds across threat types. A coral losing its guard crabs loses protection from starfish and from vermetid damage. As reefs degrade and crab populations decline, remaining corals face mounting threats without their multi-service mutualist partners."
+  }
+}

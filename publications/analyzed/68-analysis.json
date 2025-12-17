@@ -1,0 +1,42 @@
+{
+  "publicationId": "68",
+  "title": "Predators reduce abundance and species richness of coral reef fish recruits via non-selective predation",
+  "authors": "Heinlein, J. M.; Stier, A. C.; Steele, M. A.",
+  "year": 2010,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-010-0592-7",
+  "doiUrl": "https://doi.org/10.1007/s00338-010-0592-7",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Predators substantially reduced reef fish recruit abundance and species richness, but predation was non-selective among species. All species were eaten in proportion to their abundance, meaning predation reduces community size without reshaping community composition.",
+
+    "keyQuestion": "Do predators selectively target certain species of reef fish recruits, or do they prey indiscriminately?",
+
+    "approach": "Researchers used predator-exclusion cages to compare recruitment onto protected versus exposed reef patches, then analyzed whether predation was selective among species using rarefaction.",
+
+    "keyFindings": [
+      "Predator access substantially reduced recruit abundance",
+      "Species richness dropped with predator access",
+      "Rarefaction analysis showed predation was non-selective among species",
+      "Predators affected diversity through numerical reduction rather than selective filtering"
+    ],
+
+    "stickyFact": "Predators ate most of the baby fish—but they didn't prefer any particular species. They just ate whoever was there.",
+
+    "whyItMatters": "Understanding whether predators shape community composition (by selective feeding) versus community size (by indiscriminate feeding) is essential for predicting how reefs respond to changes in predator populations.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Multiple species of juvenile reef fish", "Reef predators"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "Reef Predators Aren't Picky—They Just Eat Everything",
+
+    "essay": "Jennifer Heinlein, Mark Steele, and I tested whether reef predators selectively target certain species of fish recruits. We used cages to exclude predators from some reef patches while leaving others exposed, then compared what survived after several weeks.\n\nPredators dramatically reduced recruit abundance on exposed patches. Species richness also dropped. The question was whether predators were filtering the community—preferentially consuming certain species—or just reducing everyone proportionally.\n\nRarefaction analysis provided the answer. When we standardized for total abundance, community composition was similar between caged and exposed patches. Predators weren't selecting certain species; they were eating prey in proportion to their availability. The species that became rare under predation were the same species that were rare without predation. Common species stayed relatively common.\n\nThis non-selective pattern means predators affect community size without reshaping community structure. If predator effects operate through total mortality rather than selective filtering, then managing diversity requires managing overall predation pressure rather than protecting specific vulnerable species—because all species are equally vulnerable."
+  }
+}

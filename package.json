@@ -1,22 +1,20 @@
 {
   "name": "publications-pipeline",
   "version": "1.0.0",
-  "description": "Pipeline for extracting PDF content and generating AI news articles from scientific publications",
+  "description": "Transform scientific PDFs into accessible news articles for the Ocean Recoveries Lab website",
   "scripts": {
     "extract": "node scripts/extract-pdfs.cjs",
-    "extract:force": "node scripts/extract-pdfs.cjs --force",
     "generate": "node scripts/generate-quality-news.cjs",
-    "generate:preview": "node scripts/generate-quality-news.cjs --preview",
     "generate:ai": "node scripts/generate-ai-news.cjs",
-    "generate:ai:dry": "node scripts/generate-ai-news.cjs --dry-run",
-    "generate:simple": "node scripts/generate-comprehensive-posts.cjs",
-    "pipeline": "npm run extract && npm run generate"
+    "analyze": "node scripts/analyze-publication.cjs",
+    "build": "node scripts/build-posts-from-analysis.cjs && node scripts/build-frontend.cjs",
+    "serve": "python3 -m http.server 8000 --directory frontend",
+    "dev": "npm run build && npm run serve"
   },
   "dependencies": {
     "pdf-parse": "^1.1.1"
   },
-  "devDependencies": {},
-  "keywords": ["publications", "pdf", "extraction", "ai", "claude", "news", "science-communication"],
+  "keywords": ["publications", "pdf", "science-communication"],
   "author": "Ocean Recoveries Lab",
   "license": "MIT"
 }

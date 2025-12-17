@@ -1,0 +1,42 @@
+{
+  "publicationId": "60",
+  "title": "Emergent effects of multiple predators on prey survival: the importance of depletion and the functional response",
+  "authors": "McCoy, Michael W.; Stier, Adrian C.; Osenberg, Craig W.",
+  "year": 2012,
+  "journal": "Ecology Letters",
+  "doi": "10.1111/ele.12005",
+  "doiUrl": "https://doi.org/10.1111/ele.12005",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Standard methods for detecting emergent multiple predator effects are biased because they assume linear functional responses and no prey depletion. Past studies likely overestimated risk enhancement in additive designs and risk reduction in substitutive designs. Correcting for these biases changes conclusions about how multiple predators interact.",
+
+    "keyQuestion": "Are past conclusions about emergent multiple predator effects biased by flawed statistical methods that ignore prey depletion and functional response shapes?",
+
+    "approach": "Researchers examined the mathematical assumptions underlying standard methods for detecting multiple predator effects and showed how ignoring prey depletion and nonlinear functional responses leads to systematic biases in both directions.",
+
+    "keyFindings": [
+      "Standard methods for detecting multiple predator effects are systematically biased",
+      "Additive designs overestimate risk enhancement",
+      "Substitutive designs overestimate risk reduction",
+      "Accounting for prey depletion and functional response shapes corrects these biases"
+    ],
+
+    "stickyFact": "Much of what ecologists concluded about predators hunting together may be wrong—the statistical methods were flawed, and conclusions need revisiting.",
+
+    "whyItMatters": "Multiple predator effects are central to understanding food webs and predicting ecosystem responses to predator loss or addition. Correcting methodological biases is essential for accurately assessing how predator diversity affects prey populations.",
+
+    "location": "Theoretical/methodological (applicable globally)",
+
+    "species": ["General (applicable to predator-prey systems)"],
+
+    "themes": ["Predation", "Methods"],
+
+    "newsHeadline": "The Math of Multiple Hunters Has Been Wrong for Decades",
+
+    "essay": "Mike McCoy, Craig Osenberg, and I identified a systematic bias in how ecologists detect emergent multiple predator effects—the non-additive consequences of multiple predators hunting together. Sometimes predators coordinate and kill more prey than expected from their individual effects (risk enhancement). Sometimes they interfere and kill fewer (risk reduction). The standard methods for detecting these effects are flawed.\n\nThe problem is that standard approaches assume predators kill prey at a constant rate regardless of how many prey remain. In reality, predation rates change as prey get depleted—predators exhibit functional responses. Experiments run over time as prey are consumed. The statistical comparison between observed mortality and predictions based on individual predator effects isn't comparing like to like when the prediction ignores how depletion affects killing rates.\n\nThe bias isn't random. For additive designs—where predators are added together—the bias inflates apparent risk enhancement. For substitutive designs—where total predator density stays constant but composition changes—the bias inflates apparent risk reduction. Published literature contains spurious conclusions in both directions.\n\nWe developed corrected methods that account for functional responses and prey depletion. When applied to published data, conclusions changed. Effects that appeared significant dissolved while other patterns emerged more clearly. The corrected understanding of multiple predator effects differs substantially from conventional wisdom.\n\nThis represents a sobering case study in methodology. Decades of research used a flawed analytical framework, not from carelessness but because the bias is subtle. Recognizing it required carefully working through the mathematics. Understanding how predator diversity affects prey requires getting the analytical tools right."
+  }
+}

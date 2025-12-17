@@ -1,0 +1,38 @@
+{
+  "publicationId": "18",
+  "title": "On the Interface of Food Webs and Spatial Ecology: The Trophic Dimension of Species–Area Relationships",
+  "authors": "Holt, Robert D.; Gravel, Dominique; Stier, Adrian; Rosindell, James",
+  "year": 2021,
+  "journal": "",
+  "doi": "https://doi.org/10.1017/9781108569422.017",
+  "doiUrl": "https://doi.org/https://doi.org/10.1017/9781108569422.017",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T20:16:00.803Z",
+  "expertReviewed": false,
+  "accuracyScore": null,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "This paper develops theoretical models to understand how food web structure - the feeding relationships between species at different trophic levels - influences species-area relationships on islands and isolated habitats.",
+    "keyQuestion": "How do trophic interactions and food web structure influence the classic species-area relationship - the pattern that larger areas support more species?",
+    "approach": "The researchers built mathematical models based on neutral theory and food web dynamics to predict how species richness at different trophic levels (like plants, herbivores, and predators) should vary with habitat area, testing scenarios from simple food chains to complex webs.",
+    "keyFindings": [
+      "Neutral theory models predict that species at higher trophic levels should show steeper species-area relationships than those at lower levels",
+      "In food chains with specialized predator-prey relationships, the species-area relationship becomes progressively steeper at higher trophic levels",
+      "Systems with generalist predators that can feed on multiple prey species show different area-scaling patterns than specialist-dominated systems",
+      "The theoretical models provide testable predictions for how food web structure should influence biodiversity patterns across spatial scales"
+    ],
+    "stickyFact": "Plants on small, isolated fragments enjoyed almost 50 percent less herbivory than plants in large patches, according to a meta-analysis cited in the paper.",
+    "whyItMatters": "Understanding how food web interactions scale with area could help predict which species are most vulnerable to habitat fragmentation and guide conservation strategies for maintaining entire ecological communities, not just individual species.",
+    "location": "This is a theoretical study with no specific field location",
+    "species": [
+      "No specific species studied - theoretical models"
+    ],
+    "themes": [
+      "Methods",
+      "Predation",
+      "Conservation"
+    ],
+    "newsHeadline": "Why Big Islands Feed More Predators: New Theory Links Food Webs to Biodiversity Hotspots",
+    "essay": "When my colleagues Dominique Gravel, Adrian Stier, James Rosindell and I began building mathematical models of how predators and prey should be distributed across islands of different sizes, we discovered something that Charles Elton sketched over a century ago but never fully developed. Working from neutral theory - the controversial idea that species identities don't matter for community assembly - we found that the classic species-area relationship, where bigger areas support more species, should work differently for predators than for plants.\n\nWe wanted to answer a question that has puzzled ecologists since island biogeography began: does being higher up the food chain change how species respond to habitat size? Most studies treat all species the same way, but we suspected that wasn't right. We built computer models where individuals live, die, and reproduce according to simple rules, then stacked multiple trophic levels on top of each other. In some models, we created strict food chains where each predator ate only one type of prey. In others, we mixed specialists with generalists that could feed on multiple species.\n\nOur models revealed a clear pattern: species at higher trophic levels consistently showed steeper species-area relationships than those below them. When we modeled food chains with specialized predator-prey relationships, this effect became even more pronounced - the species-area relationship became progressively steeper as you moved up each level of the food chain. The mathematics showed that predators, being less abundant and more dependent on their prey, are disproportionately affected by area loss.\n\nWhat surprised us most was how robust this pattern remained across different model assumptions. Even when we relaxed the strict neutral assumptions and allowed species to interact in more realistic ways, the fundamental pattern held. However, our models also revealed huge gaps in our understanding. We still don't fully grasp how the mobility differences between trophic levels - the fact that predators often range farther than their prey - should influence these relationships.\n\nThis work matters because most conservation strategies focus on protecting individual species rather than entire food webs. Our models suggest that habitat fragmentation hits top predators hardest, not just because they're naturally rare, but because of fundamental mathematical relationships governing how trophic interactions scale with space. If we're serious about maintaining functional ecosystems, we need to think about area requirements differently for different parts of the food web.\n\nThe next step is testing these predictions with real data from island systems around the world. Do bird predators really show steeper species-area curves than their insect prey? How do marine food webs scale differently than terrestrial ones? We're still scratching the surface of understanding how space shapes the intricate feeding relationships that hold ecosystems together."
+  }
+}

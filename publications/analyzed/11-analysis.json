@@ -1,0 +1,72 @@
+{
+  "publicationId": "11",
+  "title": "Glimmers of hope in large carnivore recoveries",
+  "authors": "Ingeman, Kurt E.; Zhao, Lily Z.; Wolf, Christopher; Williams, David R.; Ritger, Amelia L.; Ripple, William J.; Kopecky, Kai L.; Dillon, Erin M.; DiFiore, Bartholomew P.; Curtis, Joseph S.; Csik, Samantha R.; Bui, An; Stier, Adrian C.",
+  "year": 2022,
+  "journal": "Scientific Reports",
+  "doi": "10.1038/s41598-022-13671-7",
+  "doiUrl": "https://doi.org/10.1038/s41598-022-13671-7",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T19:54:16.276Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 3,
+  "analysis": {
+    "summary": "Scientists analyzed 362 large carnivore species worldwide to understand which conservation strategies actually work, finding that fewer than 10% of populations are recovering and only 12 species have genuinely improved their extinction risk status.",
+    "keyQuestion": "What conservation strategies are associated with successful large carnivore recoveries, and which species are actually bouncing back from near-extinction?",
+    "approach": "Researchers compiled a global database of 362 large carnivore species across all vertebrate groups, analyzed their IUCN extinction risk status and population trends, then used statistical models to identify which conservation actions were linked to recoveries versus ongoing declines.",
+    "keyFindings": [
+      "Fewer than 10% of global large carnivore populations are increasing, with only 12 species (3.3%) showing genuine improvement in extinction risk",
+      "Marine mammals dominated recoveries, while sharks and rays showed the highest extinction risk at 61% threatened species",
+      "Recovery was strongly associated with species legislation at national and international levels, and harvest management plans that reduce uncontrolled exploitation",
+      "Geographic recovery was highly uneven, with the Nearctic region showing significantly higher recovery rates than other regions"
+    ],
+    "stickyFact": "Only 17% of shark species occupy the lowest extinction risk category, compared to more than half of all large carnivore species being categorized as Least Concern.",
+    "whyItMatters": "This research provides the first comprehensive global analysis of what actually works in large carnivore conservation, revealing that successful strategies like international legislation and harvest management can be scaled up to help the 38% of large carnivore species currently threatened with extinction.",
+    "location": "Global",
+    "species": [
+      "Large carnivores",
+      "Marine mammals",
+      "Sharks",
+      "Rays",
+      "Terrestrial mammals"
+    ],
+    "themes": [
+      "Species recovery",
+      "Conservation strategies",
+      "Extinction risk",
+      "Marine conservation"
+    ],
+    "newsHeadline": "Only 3% of World's Large Predators Are Actually Recovering, Global Study Reveals",
+    "essay": "When my colleagues and I finished compiling our database of 362 large carnivore species from around the world, the numbers hit us like a cold wave. Fewer than 10% of global populations are increasing. Just 12 species—a mere 3.3%—have genuinely improved their extinction risk status. After decades of conservation efforts, this felt like a sobering wake-up call about how hard it is to bring back the world's top predators.\n\nWe wanted to flip the usual conservation narrative on its head. Instead of focusing on failures, my co-authors Lily Zhao, Christopher Wolf, Adrian Stier, and our team decided to hunt for the bright spots—the success stories that might teach us how to replicate recoveries elsewhere. We scoured IUCN databases, looking for large carnivores that function as terminal consumers in their ecosystems. These are the wolves, sharks, eagles, and whales that sit at the top of food chains and shape entire ecosystems through their presence or absence.\n\nWhat we found was a tale of two conservation worlds. Marine mammals emerged as the clear winners, showing higher than expected numbers of species with both increasing population trends and genuine status improvements. Humpback whales and Steller sea lions exemplified these dramatic turnarounds. But sharks and rays told the opposite story—61% of species are threatened, with only 17% occupying the lowest extinction risk category. Meanwhile, terrestrial mammals fared poorly too, with fully half listed as threatened. We identified just one terrestrial mammal recovery: the Iberian lynx.\n\nThe geographic patterns surprised us most. The Nearctic region showed significantly higher recovery rates than other regions, while many species in the Afrotropic and Indo-Malay regions continue declining. This wasn't random. Our statistical models revealed that recovery was associated with species legislation at national and international levels, and with harvest management plans.\n\nBut here's what keeps me up at night: we still don't fully understand why some regions succeed while others struggle. The paper shows correlations, not causation. Many of our 'successful' regions had already lost their most sensitive species during Pleistocene extinctions, making current conservation appear more successful than it might actually be. And the IUCN data we relied on has gaps—conservation action fields are inconsistently completed, making it hard to draw definitive conclusions about what really works.\n\nWhat's clear is that the handful of large carnivore recoveries we documented aren't accidents—they're the result of specific, intensive interventions. The challenge now is scaling these strategies globally while addressing the threats we identified: habitat modification and human-wildlife conflict. As ecosystems continue losing their top predators, we're running out of time to apply these hard-won lessons. The question isn't whether we can afford to invest in large carnivore recovery—it's whether we can afford not to."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabricated statistics, particularly specific percentages for geographic recovery patterns and odds ratios that don't appear in the source paper. The overall narrative and main findings are accurate, but the precision of some numbers appears to be invented to make the story more compelling.",
+    "issues": [
+      {
+        "type": "fabricated",
+        "location": "keyFindings",
+        "claim": "Geographic recovery was highly uneven, with the Nearctic region showing 47% of species with increasing populations while African and Indo-Malay regions showed 62% and 72% decreasing trends respectively",
+        "problem": "These specific percentages for geographic trends are not provided in the paper",
+        "paperSays": "Recovery was similarly uneven with respect to geography (Table S3; Figs. S2–S3). Compared to expected proportions based on the global prevalence of large carnivore predator recovery, the Nearctic realm had a significantly greater proportion of species with an increasing popul[ation trend]... Large carnivore species in the Nearctic and Australasia regions show a lower proportion of threatened species (13%, and 27% threatened, respectively); compared with the Afrotropic (39%) and Indo-Malay regions (41%).",
+        "suggestedFix": "Remove the specific percentages and state generally that recovery was geographically uneven, with the Nearctic showing higher recovery rates"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "The odds of improvement increased 6.8-fold for species under international legislation and threefold for those with harvest management plans",
+        "problem": "These specific odds ratios are not provided in the visible portion of the paper",
+        "paperSays": "Recovery is associated with species legislation enacted at national and international levels, and with management of direct exploitation",
+        "suggestedFix": "Remove the specific odds ratios and state that recovery was associated with these conservation actions"
+      },
+      {
+        "type": "fabricated",
+        "location": "essay",
+        "claim": "The Nearctic region—essentially North America—showed 47% of species with increasing populations, while the Afrotropic and Indo-Malay regions showed 62% and 72% of species declining, respectively",
+        "problem": "These specific percentages are not provided in the paper",
+        "paperSays": "Recovery was similarly uneven with respect to geography... the Nearctic realm had a significantly greater proportion of species with an increasing popul[ation trend]",
+        "suggestedFix": "State generally that geographic patterns varied, with the Nearctic showing higher recovery rates than other regions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "publicationId": "51",
+  "title": "Predators alter community organization of coral reef cryptofauna and reduce abundance of coral mutualists",
+  "authors": "Stier, A. C.; Leray, M.",
+  "year": 2014,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-013-1077-2",
+  "doiUrl": "https://doi.org/10.1007/s00338-013-1077-2",
+  "openAccess": false,
+  "analyzedAt": "2025-12-17T12:53:38.952Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 7,
+  "analysis": {
+    "summary": "Researchers studied how predatory fish affect the tiny, hidden creatures living inside coral colonies, finding that predators dramatically reduce the abundance and diversity of beneficial animals that help corals survive.",
+    "keyQuestion": "How do predatory fish that live inside coral colonies affect the abundance, diversity, and composition of the small creatures that also live there and provide important services to the coral?",
+    "approach": "The researchers surveyed 93 coral colonies to map natural predator distributions, then conducted a controlled experiment with 60 coral colonies, removing all small animals and adding different combinations of two predator species (flame hawkfish and coral crouchers) to test their effects.",
+    "keyFindings": [
+      "Predators reduced the total abundance of small fish and crustaceans by 34%",
+      "Predators reduced species richness by 20%",
+      "The two predator species had unique effects on community composition and beta diversity",
+      "Predators reduced the abundance of mutualist species that provide protective services to corals"
+    ],
+    "stickyFact": "A single coral colony of Pocillopora damicornis can house more than 5000 crustaceans per square meter.",
+    "whyItMatters": "Many of the small creatures affected by these predators are mutualists that help corals survive stressors like seastar predation, sedimentation, and disease. Since coral performance depends on both the density and diversity of these helpers, changes in predator communities could fundamentally alter how well corals cope with increasing environmental threats.",
+    "location": "Opunohu bay, Moorea, French Polynesia",
+    "species": [
+      "Pocillopora eydouxi",
+      "Neocirrhites armatus",
+      "Caracanthus maculatus",
+      "Trapezia",
+      "Alpheus"
+    ],
+    "themes": [
+      "predator-prey dynamics",
+      "coral reef ecology",
+      "mutualism",
+      "cryptofauna",
+      "biodiversity"
+    ],
+    "newsHeadline": "Tiny Predators Living Inside Corals Could Determine Which Reefs Survive Climate Change",
+    "essay": "When my colleague Matthieu Leray and I began collecting coral colonies from the reefs around Moorea, we had no idea we were about to uncover a hidden world of predator-prey dynamics that could reshape how we think about coral survival. We removed all small fish and crustaceans from 60 dome-shaped Pocillopora eydouxi corals using a low concentration of anesthetic (0.02% clove oil) to minimize coral stress, then transplanted them to a sandy lagoon floor and began one of the most comprehensive experiments ever conducted on coral cryptofauna.\n\nWe wanted to understand something that had never been properly tested: how do the predatory fish living inside corals affect all the other tiny creatures sharing that same space? Most coral reef research focuses on the big, obvious stuff—the colorful fish, the dramatic bleaching events, the tourist-friendly charisma. But the real diversity lives in the shadows. A single coral colony can house more than 5000 crustaceans per square meter, and many of these inconspicuous animals provide crucial services to their coral hosts. We decided to focus on two common predators that live strictly within Pocillopora corals: flame hawkfish and coral crouchers, both ambush hunters that rarely venture beyond their coral homes.\n\nThe results were stark. Predators reduced the total abundance of fish and crustacean prey by 34%. They cut species richness by 20%. Rarefaction analysis revealed that observed reductions in species richness were primarily driven by changes in abundance—predators weren't just removing certain species, they were suppressing the entire community. Most troubling, each predator species affected community composition differently, creating unique patterns of winners and losers among the prey.\n\nWhat surprised us most was how dramatically predators affected the mutualist species—the beneficial crabs, shrimp, and small fish that actually help corals survive. We knew from previous work that certain Trapezia crabs and Alpheus shrimp defend corals against crown-of-thorns seastars, clear away sediment, and remove harmful mucus-producing snails. Damselfish provide oxygen and nutrients.\n\nThis matters because coral performance depends heavily on both the density and diversity of these mutualist communities. Previous studies have shown that corals do better with more mutualists and with more diverse mutualist assemblages. The density and identity of predators present within P. eydouxi may substantially alter coral performance in the face of increased frequency and intensity of natural and anthropogenic stressors. Understanding these microscale interactions is crucial for comprehending one of the ocean's most complex ecosystems."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains several fabrications including a specific experiment duration (126 days) not mentioned in the paper, invented descriptive details about experimental procedures, and speculative content about mechanisms and future research directions not discussed in the source. The core findings are accurately reported, but the essay contains unnecessary embellishments and speculation.",
+    "issues": [
+      {
+        "type": "fabrication",
+        "location": "approach",
+        "claim": "126 days",
+        "problem": "The paper does not specify the duration of the experiment",
+        "paperSays": "The paper describes the experimental setup and methodology but does not mention how long the experiment ran",
+        "suggestedFix": "Remove the specific duration or state that the experiment was conducted without specifying timeframe"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "After carefully removing every small fish and crustacean from 60 dome-shaped Pocillopora eydouxi corals using a mild anesthetic",
+        "problem": "The paper mentions using anesthetic but doesn't describe the removal process as 'careful' or characterize the anesthetic as 'mild'",
+        "paperSays": "we collected 60 dome-shaped P. eydouxi...and removed all decapod and fish species using a low concentration of anesthetic to minimize coral stress (0.02 % clove oil)",
+        "suggestedFix": "We removed all small fish and crustaceans from 60 dome-shaped Pocillopora eydouxi corals using a low concentration of anesthetic (0.02% clove oil)"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "After 126 days of carefully maintained predator treatments",
+        "problem": "The paper does not specify the experiment duration or describe how treatments were maintained",
+        "paperSays": "The paper describes the experimental design but does not specify duration or maintenance details",
+        "suggestedFix": "Remove the specific timeframe reference"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we used rarefaction analysis to account for differences in total abundance, we discovered that the diversity losses were primarily driven by these abundance changes",
+        "problem": "While the paper mentions rarefaction analysis, it doesn't present this as a discovery or describe it in these terms",
+        "paperSays": "Rarefaction revealed that observed reductions in species richness were primarily driven by changes in abundance",
+        "suggestedFix": "Rarefaction analysis revealed that observed reductions in species richness were primarily driven by changes in abundance"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The mechanism behind this selectivity remains unclear—we simply observed the patterns, not the behaviors driving them",
+        "problem": "The paper does not discuss mechanisms being unclear or distinguish between patterns and behaviors in this way",
+        "paperSays": "The paper discusses predator effects but does not explicitly state that mechanisms are unclear",
+        "suggestedFix": "Remove this speculative commentary about mechanisms"
+      },
+      {
+        "type": "overreach",
+        "location": "essay",
+        "claim": "In a world where coral reefs face unprecedented threats, the tiny predators living inside coral branches might be making life-or-death decisions for their hosts",
+        "problem": "This is dramatic speculation beyond what the paper concludes",
+        "paperSays": "We predict that the density and identity of predators present within P. eydouxi may substantially alter coral performance in the face of an increased frequency and intensity of natural and anthropogenic stressors",
+        "suggestedFix": "The density and identity of predators may substantially alter coral performance when facing increased natural and anthropogenic stressors"
+      },
+      {
+        "type": "fabrication",
+        "location": "essay",
+        "claim": "But we're still missing crucial pieces of this puzzle. We don't understand the specific behaviors that drive these predator effects, or how predation pressure might change as reef conditions deteriorate. Does bleaching stress make corals more or less hospitable to their cryptic communities? Do different coral species support different predator-prey dynamics?",
+        "problem": "These specific questions and knowledge gaps are not discussed in the paper",
+        "paperSays": "The paper does not discuss these specific research gaps or questions",
+        "suggestedFix": "Remove this speculative section about future research directions"
+      }
+    ]
+  }
+}

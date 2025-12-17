@@ -1,0 +1,106 @@
+{
+  "publicationId": "4",
+  "title": "The metabolic underpinnings of temperature-dependent predation in a key marine predator",
+  "authors": "Csik, Samantha R.; DiFiore, Bartholomew P.; Kraskura, Krista; Hardison, Emily A.; Curtis, Joseph S.; Eliason, Erika J.; Stier, Adrian C.",
+  "year": 2023,
+  "journal": "Frontiers in Marine Science",
+  "doi": "10.3389/fmars.2023.1072807",
+  "doiUrl": "https://doi.org/10.3389/fmars.2023.1072807",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T19:00:43.551Z",
+  "expertReviewed": true,
+  "accuracyScore": 6,
+  "issuesFound": 8,
+  "analysis": {
+    "summary": "Scientists studied how temperature affects both the metabolism and predation rates of California spiny lobsters, finding that lobsters can actually increase their food consumption faster than their metabolic demands rise—but only within a middle range of temperatures.",
+    "keyQuestion": "Do spiny lobsters consume enough food to meet their increased metabolic demands as ocean temperatures rise, or do they face caloric deficits that could harm their survival?",
+    "approach": "Researchers acclimated 24 male spiny lobsters to four different temperatures (11, 16, 21, and 26°C) representing their natural range, then measured their oxygen consumption rates using respirometry and their predation rates by offering them mussels to eat.",
+    "keyFindings": [
+      "Lobster consumption rates increased faster than their metabolic demands at mid-range temperatures, suggesting they can meet their caloric needs",
+      "At the coldest temperature (11°C), lobsters had almost no metabolic activity",
+      "At the highest temperature (26°C), 33% of lobsters died during the experiment",
+      "Both metabolism and predation rates increased with temperature, but consumption outpaced metabolic demand in the middle temperature range"
+    ],
+    "stickyFact": "At the highest experimental temperature of 26°C, 33% of the spiny lobsters died during the study.",
+    "whyItMatters": "This research helps predict how California spiny lobsters—both important predators and valuable fishery species—will respond to ocean warming, suggesting they may handle moderate temperature increases but face serious problems at temperature extremes that could shift their geographic range.",
+    "location": "Santa Barbara County, California",
+    "species": "California spiny lobster (Panulirus interruptus)",
+    "themes": [
+      "climate change",
+      "marine predators",
+      "thermal tolerance",
+      "metabolism"
+    ],
+    "newsHeadline": "Spiny Lobsters Can Handle Some Ocean Warming, But Temperature Extremes Prove Deadly",
+    "essay": "When researchers heated seawater to 26°C—near the upper limit of what California spiny lobsters experience in their southernmost range—a third of the test animals died. This stark result from temperature experiments, conducted by Bartholomew DiFiore, Krista Kraskura, Emily Hardison, Joseph Curtis, Erika Eliason, and Adrian Stier, revealed just how narrow the thermal window might be for these iconic predators as oceans warm.\n\nThe researchers wanted to answer a fundamental question about marine predators in a warming world: as temperatures rise and metabolism increases, can animals eat enough to fuel their higher energy demands? Working with 24 male spiny lobsters collected from Santa Barbara County kelp forests, they acclimated groups to four temperatures spanning their natural range: 11, 16, 21, and 26°C. After acclimation, they measured each lobster's oxygen consumption using respirometry chambers, then tested how many mussels they could consume.\n\nWhat the researchers found challenged their initial hypothesis. They expected metabolism to outpace consumption, potentially leaving lobsters in caloric deficit. Instead, rising temperatures caused lobster consumption rates to increase at a faster rate than increases in metabolic demand. In the middle range of temperatures, these predators appeared capable of ramping up their feeding to meet their heightened energy needs. The relationship between their absolute aerobic scope—the difference between maximum and resting metabolic rates—and their predation intensity suggested they had the physiological capacity to support increased hunting.\n\nBut the temperature extremes told a different story entirely. At 11°C, lobsters had almost no metabolic activity, essentially shutting down in the cold. At the other extreme, that 33% mortality rate at 26°C was impossible to ignore. The lobsters that survived showed they could theoretically meet their metabolic demands through increased consumption, but clearly something about that temperature pushed many individuals past their physiological limits.\n\nThese results suggest temperature plays a key role in driving the geographic range of spiny lobsters, and that spatial and temporal shifts in temperature can critically alter the strength of species interactions. As both important predators in temperate reef ecosystems and economically valuable fishery species, spiny lobsters face a complex future. They might handle moderate warming by eating more, but temperature extremes could force range shifts or population declines.\n\nQuestions remain about what happens in real ocean conditions, where temperatures don't stay constant and prey availability fluctuates. Can lobsters maintain these higher consumption rates when faced with variable food supplies? And what exactly causes that lethal threshold at high temperatures? Until the physiological mechanisms behind thermal limits are better understood, predicting how these predators will navigate an increasingly warm ocean remains challenging."
+  },
+  "reviewDetails": {
+    "overallAssessment": "The article contains multiple instances of inappropriate first-person language that makes it appear as if written by the study authors rather than as a news article reporting on their work. While the scientific facts are accurately reported, the narrative voice is fabricated.",
+    "issues": [
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "When we heated seawater to 26°C—near the upper limit of what California spiny lobsters experience in their southernmost range—a third of our test animals died.",
+        "problem": "The essay uses first person 'we' as if written by the study authors, but this is a news article, not written by the researchers",
+        "paperSays": "At the highest temperature, 33% of lobsters died.",
+        "suggestedFix": "Remove first person language: 'When researchers heated seawater to 26°C...'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "conducted with my colleagues Bartholomew DiFiore, Krista Kraskura, Emily Hardison, Joseph Curtis, Erika Eliason, and Adrian Stier",
+        "problem": "Article presents itself as written by the study authors using 'my colleagues', which is fabricated",
+        "paperSays": "Authors: Csik, Samantha R.; DiFiore, Bartholomew P.; Kraskura, Krista; Hardison, Emily A.; Curtis, Joseph S.; Eliason, Erika J.; Stier, Adrian C.",
+        "suggestedFix": "Remove personal language: 'conducted by researchers Bartholomew DiFiore, Krista Kraskura...'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "After weeks of acclimation",
+        "problem": "The paper doesn't specify the acclimation period duration as 'weeks'",
+        "paperSays": "we acclimated lobsters to one of four ecologically relevant temperatures",
+        "suggestedFix": "Remove the specific timeframe: 'After acclimation'"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "What we found challenged our initial hypothesis.",
+        "problem": "Uses first person 'we' inappropriately for a news article",
+        "paperSays": "in contrast to our hypothesis, rising temperature caused lobster consumption rates to increase at a faster rate than increases in metabolic demand",
+        "suggestedFix": "What the researchers found challenged their initial hypothesis."
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "We expected metabolism to outpace consumption",
+        "problem": "Uses first person 'we' inappropriately for a news article",
+        "paperSays": "Here we test the hypothesis that increases in temperature cause more rapid increases in metabolism than increases in consumption",
+        "suggestedFix": "The researchers expected metabolism to outpace consumption"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "and this surprised us most",
+        "problem": "Uses first person 'us' and claims emotional response not in paper",
+        "paperSays": "However, at the extreme ends of the simulated temperatures, lobster biology broke down.",
+        "suggestedFix": "Remove the personal reaction"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The paper doesn't explain exactly what kills them at high temperatures—the mechanism remains unclear.",
+        "problem": "This meta-commentary about what the paper does/doesn't explain is not appropriate for a news article presenting findings",
+        "paperSays": "at the highest temperature, 33% of lobsters died",
+        "suggestedFix": "Remove meta-commentary about the paper's limitations"
+      },
+      {
+        "type": "invented_detail",
+        "location": "essay",
+        "claim": "The biggest question hanging over our work",
+        "problem": "Uses first person 'our work' inappropriately",
+        "paperSays": "No such characterization in the paper",
+        "suggestedFix": "The biggest question remaining from this research"
+      }
+    ]
+  }
+}

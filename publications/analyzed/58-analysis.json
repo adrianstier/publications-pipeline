@@ -1,0 +1,42 @@
+{
+  "publicationId": "58",
+  "title": "Predator density and timing of arrival affect reef fish community assembly",
+  "authors": "Stier, Adrian C.; Geange, Shane W.; Hanson, Kate M.; Bolker, Benjamin M.",
+  "year": 2013,
+  "journal": "Ecology",
+  "doi": "10.1890/11-1983.1",
+  "doiUrl": "https://doi.org/10.1890/11-1983.1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Both predator density and timing of arrival significantly affect reef fish prey community structure. Early-arriving predators have stronger effects than late-arriving predators at equal densities, because early predators encounter prey during their most vulnerable settlement period.",
+
+    "keyQuestion": "How do predator density and timing of arrival interact to affect reef fish community assembly?",
+
+    "approach": "Researchers conducted field experiments in Moorea, French Polynesia, manipulating both the density of hawkfish predators and the timing of their arrival relative to prey settlement to test how these factors shape prey communities.",
+
+    "keyFindings": [
+      "Predator density and timing of arrival both significantly affect prey community structure",
+      "Early-arriving predators have stronger effects than late-arriving predators at equal densities",
+      "The interaction between density and timing creates complex community outcomes",
+      "Standard predator-removal experiments may miss important temporal dynamics"
+    ],
+
+    "stickyFact": "A predator that arrives early can shape a prey community more powerfully than predators that show up late—even if there are more latecomers.",
+
+    "whyItMatters": "Most predation studies compare 'predator present' versus 'predator absent,' ignoring when predators arrive. This temporal dimension may be crucial for understanding community assembly and predicting responses to changes in predator arrival timing.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Hawkfish (Paracirrhites arcatus)", "Juvenile reef fish"],
+
+    "themes": ["Coral", "Predation"],
+
+    "newsHeadline": "In the Predator Game, Timing Is Everything",
+
+    "essay": "Shane Geange, Kate Hanson, Ben Bolker, and I investigated how both predator density and timing of arrival affect reef fish prey communities. Standard predation experiments compare treatments with and without predators, but predators in nature vary not just in presence but in when they appear.\n\nWe designed an experiment manipulating both factors. Hawkfish arrived at coral patches early—when prey fish were settling from the plankton—or late, after prey were established. Results showed timing matters as much as density, maybe more.\n\nEarly-arriving hawkfish had disproportionately strong effects on prey communities. They could pick off new settlers before prey had time to grow, learn the reef, or develop avoidance behaviors. Late-arriving predators, even at higher densities, encountered prey that were larger, more experienced, and better able to escape. A single early predator shaped prey communities more powerfully than multiple late predators.\n\nThe difference reflects a temporal refuge. Prey that survived early predation had already passed through their most vulnerable window. Prey facing late predation had the advantage of size and experience. This temporal dimension creates dynamics that density alone doesn't capture.\n\nThis finding has implications for how climate change may affect reef communities. Warming is shifting the timing of biological events—when larvae settle, when predators arrive. If these shifts differ between predators and prey, historical timing relationships dissolve. A predator that always arrived after prey settlement might start arriving before, fundamentally changing the interaction. Predicting these changes requires experiments that treat timing as a variable, not a constant."
+  }
+}

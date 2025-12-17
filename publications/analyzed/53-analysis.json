@@ -1,0 +1,42 @@
+{
+  "publicationId": "53",
+  "title": "Predation and landscape characteristics independently affect reef fish community organization",
+  "authors": "Stier, Adrian C.; Hanson, Katharine M.; Holbrook, Sally J.; Schmitt, Russell J.; Brooks, Andrew J.",
+  "year": 2014,
+  "journal": "Ecology",
+  "doi": "10.1890/12-1441.1",
+  "doiUrl": "https://doi.org/10.1890/12-1441.1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Predation and landscape characteristics both significantly affect reef fish community organization, but they act largely independently rather than interactively. This contrasts with theoretical predictions that predator effects should depend on habitat structure.",
+
+    "keyQuestion": "Do predators and habitat landscape characteristics interact to shape reef fish community diversity, or do they act independently?",
+
+    "approach": "Researchers conducted a factorial field experiment in Moorea, French Polynesia, manipulating both predator presence and habitat characteristics to test predictions from trophic island biogeography theory.",
+
+    "keyFindings": [
+      "Predators significantly affected reef fish community diversity",
+      "Habitat landscape characteristics also significantly affected community structure",
+      "Contrary to theoretical predictions, these effects were largely independent",
+      "The expected interaction between predation and landscape structure was weak or absent"
+    ],
+
+    "stickyFact": "Theory predicted that predators would matter more in bigger, better-connected habitats—but on coral reefs, predator effects were similar regardless of landscape structure.",
+
+    "whyItMatters": "Marine protected area design increasingly emphasizes connectivity and habitat networks. Understanding whether predator effects depend on landscape structure is important for designing effective conservation strategies.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Reef fish communities"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "Predators and Habitat Shape Reef Communities—But Not Together",
+
+    "essay": "Katharine Hanson, Sally Holbrook, Russ Schmitt, Andrew Brooks, and I tested whether predators and landscape characteristics interact to shape reef fish communities. Trophic island biogeography theory predicts that predator effects should depend on habitat structure—specifically, that predators should have stronger effects in larger, more connected patches.\n\nWe designed a factorial experiment manipulating both predator presence and habitat characteristics across coral patches in Moorea. Both factors significantly affected fish community organization. Predators reduced prey diversity. Larger habitat patches supported more species.\n\nThe surprising result was what didn't happen. The two factors acted largely independently. Predator effects were similar regardless of patch size or connectivity. The interaction predicted by theory was weak or absent. Small isolated patches weren't predator refuges, and large connected patches didn't show amplified predator effects.\n\nThis disconnect between theory and data raises questions about whether trophic island biogeography—developed largely from terrestrial systems—applies straightforwardly to coral reefs. Marine environments may operate under different rules, with fish mobility and coral structural complexity creating dynamics that don't match terrestrial predictions. The conservation implications depend on understanding why the expected pattern didn't emerge."
+  }
+}

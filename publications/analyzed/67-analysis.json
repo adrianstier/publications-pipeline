@@ -1,0 +1,42 @@
+{
+  "publicationId": "67",
+  "title": "Charismatic microfauna alter cyanobacterial production through a trophic cascade",
+  "authors": "Geange, S. W.; Stier, A. C.",
+  "year": 2010,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-010-0606-5",
+  "doiUrl": "https://doi.org/10.1007/s00338-010-0606-5",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Nudibranchs that prey on sea hares create a trophic cascade affecting cyanobacterial blooms. Sea hares graze cyanobacteria; nudibranchs eat sea hares; when nudibranchs are present, cyanobacteria increase because grazing pressure is reduced.",
+
+    "keyQuestion": "Do nudibranchs that prey on sea hares indirectly increase cyanobacterial biomass through a trophic cascade?",
+
+    "approach": "Researchers conducted laboratory experiments measuring nudibranch predation rates on sea hares and resulting effects on cyanobacterial biomass.",
+
+    "keyFindings": [
+      "Nudibranchs consumed multiple sea hares per day",
+      "Small sea hares were consumed more frequently than large ones",
+      "When nudibranchs were present, cyanobacterial biomass increased",
+      "Predation of grazers released cyanobacteria from herbivore control"
+    ],
+
+    "stickyFact": "A nudibranch doesn't eat cyanobacteria—but by eating the sea hares that do, it lets the toxic algae bloom.",
+
+    "whyItMatters": "Cyanobacterial blooms are increasing on degraded coral reefs and can produce toxins harmful to marine life and humans. Understanding food web dynamics that control these blooms is essential for reef management.",
+
+    "location": "Laboratory study (species from coral reefs)",
+
+    "species": ["Gymnodoris ceylonica (nudibranch)", "Stylocheilus striatus (sea hare)", "Lyngbya majuscula (cyanobacteria)"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "The Nudibranch That Accidentally Feeds Toxic Algae",
+
+    "essay": "Shane Geange and I documented a trophic cascade linking nudibranchs to cyanobacterial blooms through intermediate effects on sea hares. The chain works through predator-grazer-producer dynamics: Lyngbya cyanobacteria produce toxins that most grazers avoid, but sea hares consume Lyngbya despite its toxicity. Nudibranchs prey on sea hares.\n\nIn laboratory trials, nudibranchs consumed sea hares at substantial rates, with smaller sea hares being particularly vulnerable. When nudibranchs were present, cyanobacterial biomass increased—not because nudibranchs eat cyanobacteria (they don't), but because they reduce the sea hare populations that would otherwise graze the cyanobacteria.\n\nThis trophic cascade connects predators to primary producers through intermediate effects on herbivores—the same dynamic that links wolves to willows through elk, or sea otters to kelp through urchins. Cyanobacterial blooms are increasing on degraded reefs worldwide. Standard management focuses on nutrient reduction and coral restoration. Our findings suggest food web structure—including populations of small predators like nudibranchs—also influences bloom dynamics."
+  }
+}

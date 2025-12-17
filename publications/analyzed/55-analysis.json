@@ -1,0 +1,42 @@
+{
+  "publicationId": "55",
+  "title": "Ecologists should not use statistical significance tests to interpret simulation model results",
+  "authors": "White, J. Wilson; Rassweiler, Andrew; Samhouri, Jameal F.; Stier, Adrian C.; White, Crow",
+  "year": 2014,
+  "journal": "Oikos",
+  "doi": "10.1111/j.1600-0706.2013.01073.x",
+  "doiUrl": "https://doi.org/10.1111/j.1600-0706.2013.01073.x",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Frequentist statistical hypothesis tests are inappropriate for interpreting simulation model results. P-values can always be made arbitrarily small by running more replicates, regardless of effect size or ecological significance.",
+
+    "keyQuestion": "Is it appropriate to use frequentist statistical hypothesis tests to interpret results from ecological simulation models?",
+
+    "approach": "Researchers examined the logical foundations of statistical hypothesis testing and explained why these tests are inappropriate for simulation models, offering alternatives for proper interpretation.",
+
+    "keyFindings": [
+      "P-values in simulations are determined by the number of replicates, which can be arbitrarily increased",
+      "Running more simulations always produces smaller p-values regardless of effect magnitude",
+      "The null hypothesis is known to be false in simulations by construction",
+      "Effect sizes and practical significance should replace statistical significance for simulations"
+    ],
+
+    "stickyFact": "In a computer simulation, you can always get a statistically significant result by running enough replicates—even if the effect is ecologically meaningless.",
+
+    "whyItMatters": "Simulation models are central to ecological research and management decisions. Misinterpreting results through inappropriate statistical tests leads to overconfident conclusions about ecological importance.",
+
+    "location": "Methodological (applicable globally)",
+
+    "species": ["Not applicable (methods paper)"],
+
+    "themes": ["Methods"],
+
+    "newsHeadline": "Why P-Values Lie When Applied to Computer Simulations",
+
+    "essay": "Will White, Andrew Rassweiler, Jameal Samhouri, Crow White, and I addressed a methodological problem in ecological simulation modeling: the misuse of frequentist statistical hypothesis tests to interpret model results.\n\nStatistical hypothesis testing was designed for situations where the null hypothesis might actually be true and sampling variation makes detection uncertain. In field experiments, treatments might have identical effects, and statistics quantify confidence that observed differences aren't just noise. Simulation models are different. If model parameters differ, running with different values will always produce different results. The null hypothesis is false by construction.\n\nThe problem is that statistical power in simulations is controlled by replication, which can be increased arbitrarily. Run enough model iterations and any difference—no matter how trivially small—achieves statistical significance. P < 0.05 just requires sufficient replicates. The ritual of hypothesis testing, designed to protect against false positives in noisy data, becomes meaningless when noise can be reduced at will.\n\nWe argued for focusing on effect sizes and practical significance rather than statistical significance when interpreting simulations. The question shouldn't be whether a model effect is detectable, but whether it's large enough to matter ecologically. This requires judgment about what magnitudes are meaningful, sensitivity analyses across parameter ranges, and clear communication about uncertainty. As simulation models become increasingly central to ecological forecasting and management, interpreting them correctly becomes essential."
+  }
+}

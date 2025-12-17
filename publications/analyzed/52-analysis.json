@@ -1,0 +1,42 @@
+{
+  "publicationId": "52",
+  "title": "Predator density and the functional responses of coral reef fish",
+  "authors": "Stier, A. C.; White, J. W.",
+  "year": 2014,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-013-1096-z",
+  "doiUrl": "https://doi.org/10.1007/s00338-013-1096-z",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Predator density affects functional responses—the relationship between predation rate and prey density—in coral reef fish. Understanding these density-dependent effects is essential for predicting predator-prey dynamics on reefs.",
+
+    "keyQuestion": "How does predator density modify functional responses in coral reef fish systems?",
+
+    "approach": "Researchers examined how varying predator densities affected functional responses in coral reef fish, testing how predator interference and prey behavior modify predator-prey relationships.",
+
+    "keyFindings": [
+      "Predator density significantly affects functional response parameters",
+      "Multiple predators interact in ways that modify per-capita predation rates",
+      "Standard single-predator models may not capture dynamics in multi-predator systems",
+      "Density-dependent effects should be incorporated into reef predator-prey models"
+    ],
+
+    "stickyFact": "Adding more predators to a reef doesn't simply multiply predation rates—predators interact in ways that change how efficiently each one hunts.",
+
+    "whyItMatters": "Functional responses are fundamental to predicting population dynamics. Getting them right for coral reef systems requires accounting for how predator density modifies these relationships.",
+
+    "location": "Coral reef systems",
+
+    "species": ["Coral reef fish"],
+
+    "themes": ["Coral", "Methods"],
+
+    "newsHeadline": "The Math of Predation Gets Complicated When Hunters Crowd Together",
+
+    "essay": "Will White and I examined how predator density affects functional responses in coral reef fish. The functional response—the mathematical relationship between prey density and predation rate—is fundamental to understanding predator-prey dynamics. Most theoretical work develops from studies of single predators, but real reef communities contain multiple predators hunting simultaneously.\n\nWe investigated how predator density modifies these relationships. When predator densities change, per-capita predation rates don't remain constant. Multiple predators interact in ways that affect hunting efficiency—whether through interference, facilitation, or competition for prey.\n\nThe implications extend to how we model and predict reef fish dynamics. Standard approaches that assume constant per-capita predation rates may miss important density-dependent effects. As marine protected areas increase predator abundances and fishing reduces them elsewhere, understanding how predator density affects predation becomes practically important.\n\nThe work connects individual-level behavior to population-level dynamics. How predators interact with each other while hunting affects prey populations in ways that simple models don't capture. Incorporating these density-dependent functional responses into reef ecosystem models should improve predictions about how fish communities respond to changes in predator abundance."
+  }
+}

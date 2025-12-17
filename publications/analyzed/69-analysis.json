@@ -1,0 +1,42 @@
+{
+  "publicationId": "69",
+  "title": "The vermetid gastropod Dendropoma maximum reduces coral growth and survival",
+  "authors": "Shima, Jeffrey S.; Osenberg, Craig W.; Stier, Adrian C.",
+  "year": 2010,
+  "journal": "Biology Letters",
+  "doi": "10.1098/rsbl.2010.0291",
+  "doiUrl": "https://doi.org/10.1098/rsbl.2010.0291",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Vermetid snails—stationary filter feeders that build tubes on coral surfaces—significantly reduce coral growth and survival. Their sticky mucus nets may smother coral tissue, making them an underappreciated threat to coral health.",
+
+    "keyQuestion": "Do vermetid gastropods negatively affect the growth and survival of their coral hosts?",
+
+    "approach": "Researchers conducted a field experiment removing vermetid snails from coral colonies and comparing growth and survival to colonies with snails present.",
+
+    "keyFindings": [
+      "Vermetid snails significantly reduced coral growth rates",
+      "Coral mortality was higher on colonies hosting vermetids",
+      "Mucus nets cast by vermetids likely smother coral tissue",
+      "Vermetids are an underappreciated stressor of coral health"
+    ],
+
+    "stickyFact": "A snail permanently attached to a coral, casting sticky nets for food, can slowly harm or kill its host—one of coral reefs' most insidious threats.",
+
+    "whyItMatters": "Vermetid snails are abundant on many reefs and may be increasing. Recognizing them as coral stressors adds to our understanding of threats reefs face and provides potential targets for localized management.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Dendropoma maximum (vermetid snail)", "Pocillopora coral"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "The Reef's Slow Assassin: A Snail That Smothers Coral to Death",
+
+    "essay": "Jeff Shima, Craig Osenberg, and I documented that vermetid snails—sedentary filter feeders permanently attached to coral skeletons—significantly harm their coral hosts. Despite appearing harmless, these snails reduced coral growth and increased coral mortality.\n\nWe ran an experiment removing vermetids from some colonies while leaving them on others. Corals freed from vermetids grew faster and survived better. What appeared to be a neutral association was actually parasitism.\n\nThe mechanism is likely the mucus nets vermetids cast to trap food particles. These sticky nets settle on coral tissue, potentially smothering polyps, blocking light needed for photosynthesis, and creating conditions for pathogen growth. Individual effects are subtle, but vermetids are often abundant—multiple individuals per colony—and effects compound over time.\n\nVermetids won't make headlines like bleaching events or crown-of-thorns outbreaks. But they're another chronic stressor on corals already facing mounting pressures. On high-value colonies targeted for restoration or genetic preservation, vermetid removal might boost coral performance. Recognizing the threat was the first step."
+  }
+}

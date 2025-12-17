@@ -1,0 +1,42 @@
+{
+  "publicationId": "74",
+  "title": "Order of arrival affects competition in two reef fishes",
+  "authors": "Geange, Shane W.; Stier, Adrian C.",
+  "year": 2009,
+  "journal": "Ecology",
+  "doi": "10.1890/08-0630.1",
+  "doiUrl": "https://doi.org/10.1890/08-0630.1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Order of arrival significantly affects competitive outcomes between reef fish species. Early arrivers survive at higher rates while late arrivers face increased aggression from residents and substantially reduced survival.",
+
+    "keyQuestion": "Does the order and timing of arrival affect competitive outcomes between reef fish species?",
+
+    "approach": "Researchers manipulated the sequence and temporal separation of arrival for two competing wrasse species onto experimental patch reefs, tracking survival and aggressive interactions.",
+
+    "keyFindings": [
+      "Both species survived best without competitors",
+      "Simultaneous arrival produced best outcomes when competitors were present",
+      "Survival declined as arrival was delayed relative to competitors",
+      "Resident aggression increased with residency duration"
+    ],
+
+    "stickyFact": "A fish arriving late to a coral reef faces substantially higher mortality as established residents attack relentlessly to defend their territory.",
+
+    "whyItMatters": "Climate change is shifting timing of settlement for marine larvae. Understanding how arrival order affects competition helps predict winners and losers as phenological shifts reshuffle colonization timing.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Thalassoma hardwicke (sixbar wrasse)", "Thalassoma quinquevittatum (fivestripe wrasse)"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "The First Fish to the Reef Sets the Rules—And Enforces Them Brutally",
+
+    "essay": "Shane Geange and I tested how arrival order affects competitive outcomes between wrasse species. We varied when fish arrived at patch reefs—simultaneously with competitors, or days earlier or later.\n\nBoth species survived best alone. When competitors were present, simultaneous arrival was next best—neither species had priority advantage. But when one species arrived first, outcomes diverged sharply. Early arrivers survived well. Late arrivers faced intense aggression and died at much higher rates.\n\nResidents became increasingly hostile as their residency lengthened. A fish that had occupied the reef for several days attacked newcomers constantly, chasing them from feeding sites and preventing territory establishment. The aggression emerged from priority alone—being there first and defending that advantage.\n\nClimate change is altering when larvae spawn, develop, and settle. If different species shift their timing differently, historical competitive relationships may dissolve. Species that historically arrived together might become systematically late relative to competitors—facing resident aggression they never evolved to handle."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "publicationId": "57",
+  "title": "Competitive hierarchies among three species of juvenile coral reef fishes",
+  "authors": "Geange, Sw; Stier, Ac; Shima, Js",
+  "year": 2013,
+  "journal": "Marine Ecology Progress Series",
+  "doi": "10.3354/meps10015",
+  "doiUrl": "https://doi.org/10.3354/meps10015",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Clear competitive hierarchies exist among juvenile reef fish sharing the same coral habitat. Dominant species monopolize preferred microhabitats on coral heads, while subordinate species are relegated to less favorable, more exposed positions where predation risk is higher.",
+
+    "keyQuestion": "What are the competitive relationships among juvenile reef fish that share the same coral habitat, and how does dominance affect microhabitat use?",
+
+    "approach": "Researchers conducted behavioral experiments in Moorea, French Polynesia, observing interactions among three species of juvenile damselfish to determine competitive dominance hierarchies and their effects on microhabitat positioning.",
+
+    "keyFindings": [
+      "Clear competitive hierarchies exist among juvenile reef fish on coral heads",
+      "Dominant species monopolize preferred microhabitats deep within coral branches",
+      "Subordinate species are relegated to exposed peripheral positions",
+      "Competitive outcomes likely affect survival by influencing exposure to predation"
+    ],
+
+    "stickyFact": "Even fish the size of a fingernail have turf wars—and the losers get stuck in the dangerous spots where predators can reach them.",
+
+    "whyItMatters": "Competition among new recruits helps determine which fish survive to adulthood. Understanding these early-life competitive dynamics is essential for predicting how reef fish communities will respond to changes in coral habitat availability.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Juvenile coral reef damselfish (three species)"],
+
+    "themes": ["Coral", "Predation"],
+
+    "newsHeadline": "Tiny Fish, Fierce Battles: The Turf Wars on a Coral Head",
+
+    "essay": "Shane Geange, Jeff Shima, and I documented competitive hierarchies among juvenile damselfish on coral heads in Moorea. When larval fish settle from the plankton onto coral habitat, they immediately enter competition for limited space. Despite their similar sizes, species sort into consistent dominance relationships.\n\nThrough systematic behavioral observations, we documented who wins confrontations, who backs down, and how dominance translates into position on the coral. The outcomes were consistent—certain species dominated while others lost. The hierarchy formed rapidly, within hours of arrival.\n\nThe positioning consequences were ecologically meaningful. Coral heads offer heterogeneous habitat—some spots are deep within the protective matrix of branches, others are exposed on the periphery. Dominant species claimed the safest microhabitats while subordinates were relegated to exposed positions. Peripheral positions mean higher predation risk, suggesting that losing competitive interactions translates into higher mortality.\n\nThis phase of reef fish life history is often overlooked. Most research focuses on adults—their abundance, behavior, and population dynamics—or on larval supply. But between arrival on the reef and adulthood lies a period where tiny fish must find food, avoid predators, and compete with rivals. The outcomes of these juvenile competitive interactions may determine which individuals and species dominate adult communities.\n\nAs coral degradation reduces habitat availability, competition among recruits may intensify as fish crowd onto surviving coral patches. Climate change is also altering species arrival timing and composition, potentially reshuffling historical competitive relationships. The outcomes of these tiny battles will influence which fish populations persist."
+  }
+}

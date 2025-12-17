@@ -1,0 +1,42 @@
+{
+  "publicationId": "72",
+  "title": "Synthesizing mechanisms of density dependence in reef fishes: behavior, habitat configuration, and observational scale",
+  "authors": "White, J. Wilson; Samhouri, Jameal F.; Stier, Adrian C.; Wormald, Clare L.; Hamilton, Scott L.; Sandin, Stuart A.",
+  "year": 2010,
+  "journal": "Ecology",
+  "doi": "10.1890/09-0298.1",
+  "doiUrl": "https://doi.org/10.1890/09-0298.1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "A synthesis examining how mechanisms of density dependence in reef fishes vary with spatial scale. Behavioral mechanisms dominate at small scales while habitat configuration mechanisms dominate at larger scales—apparent contradictions in the literature reflect different observational resolutions.",
+
+    "keyQuestion": "What mechanisms drive density-dependent population regulation in reef fishes, and how do these mechanisms vary with spatial scale?",
+
+    "approach": "Researchers synthesized the literature on density dependence in reef fishes, analyzing how behavioral and habitat-mediated mechanisms operate at different observational scales.",
+
+    "keyFindings": [
+      "Multiple mechanisms drive density dependence in reef fishes",
+      "The dominant mechanism varies with the spatial scale of observation",
+      "Behavioral mechanisms dominate at patch scales",
+      "Habitat configuration mechanisms dominate at reef scales"
+    ],
+
+    "stickyFact": "Fish populations regulate themselves through crowding—but whether competition or habitat limits them depends on how closely you're watching.",
+
+    "whyItMatters": "Density dependence is fundamental to population dynamics and fisheries management. Understanding how mechanisms vary with scale is essential for predicting how populations respond to changes in habitat or fishing pressure.",
+
+    "location": "Coral reef systems (synthesis)",
+
+    "species": ["Coral reef fish generally"],
+
+    "themes": ["Coral", "Methods"],
+
+    "newsHeadline": "The Hidden Math of Fish Crowding—And Why Scale Matters",
+
+    "essay": "Will White, Jameal Samhouri, Clare Wormald, Scott Hamilton, Stuart Sandin, and I synthesized how density dependence operates in reef fish populations. Studies seemed to contradict each other—some showed competition driving density dependence, others showed predation, others showed habitat limitation. The resolution was scale.\n\nAt small scales—individual coral heads or patch reefs—behavioral mechanisms dominate. Crowded fish compete intensely, fight frequently, and venture into dangerous areas where predators catch them. At larger scales—reef sections and lagoons—habitat configuration and dispersal processes take over. Total habitat area limits populations, and fish redistribute across the landscape.\n\nNeither perspective is wrong. They're measuring different things at different resolutions. A patch-scale experiment captures individual behavioral responses. A reef-scale study captures landscape-level dynamics. The apparent contradictions in the literature reflect different views of the same system.\n\nThis matters for management. Marine reserves and fishing regulations operate at particular scales. Matching predictions about density dependence to the appropriate spatial scale determines whether management interventions will work as expected."
+  }
+}

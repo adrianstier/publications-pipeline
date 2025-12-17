@@ -1,0 +1,42 @@
+{
+  "publicationId": "75",
+  "title": "Coral reef fishes use crown-of-thorns seastar as habitat",
+  "authors": "Stier, Adrian C.; Steele, Mark A.; Brooks, Andrew J.",
+  "year": 2009,
+  "journal": "Coral Reefs",
+  "doi": "10.1007/s00338-008-0445-9",
+  "doiUrl": "https://doi.org/10.1007/s00338-008-0445-9",
+  "openAccess": true,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Small reef fish use crown-of-thorns starfish as habitat, sheltering among their venomous spines despite the starfish's role as a destructive coral predator. This reveals unexpected ecological complexity in interactions with 'pest' species.",
+
+    "keyQuestion": "Do reef fishes use crown-of-thorns seastars as habitat despite their reputation as destructive coral predators?",
+
+    "approach": "Researchers surveyed crown-of-thorns seastars in Moorea, documenting which fish species associated with them and observing fish behavior around the starfish.",
+
+    "keyFindings": [
+      "Multiple fish species sheltered among crown-of-thorns spines",
+      "The seastars provided refuge habitat even as they destroyed coral",
+      "Fish associated with seastars gained protection from the venomous spines",
+      "Ecological interactions with 'pest' species are more complex than simple categorizations suggest"
+    ],
+
+    "stickyFact": "The most feared predator of coral reefs doubles as a mobile shelter for tiny fish—who hide among its poisonous spines while it eats their coral home.",
+
+    "whyItMatters": "Understanding the full ecological role of species—even pest species—reveals complexity that defies simple narratives. Crown-of-thorns seastars are reef destroyers but also habitat providers.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Crown-of-thorns starfish (Acanthaster planci)", "Various small reef fish"],
+
+    "themes": ["Coral"],
+
+    "newsHeadline": "Coral's Worst Enemy Also Serves as Fish Shelter—Nature's Irony",
+
+    "essay": "Mark Steele, Andrew Brooks, and I documented reef fish using crown-of-thorns starfish as habitat. While surveying starfish in Moorea, we repeatedly observed small fish sheltering among the venomous spines. The creature famous for destroying coral habitat was serving as habitat itself.\n\nCrown-of-thorns seastars devastate reefs—their outbreaks leave bleached coral skeletons across the Pacific. Yet small juvenile fish were darting in and out of the deadly spines like they'd found a mobile shelter. The irony compounds: as the starfish eats coral and destroys fish habitat, it becomes temporary replacement habitat. The venomous spines that make crown-of-thorns dangerous provide a defensive barrier that tiny fish exploit.\n\nSmall juveniles dominated the fish we documented associating with starfish—exactly the size class most vulnerable to predation in open water. They stayed among the spines rather than fleeing across open substrate when approached.\n\nEcological reality resists tidy narratives of villains and victims. The destroyer also provides services. This matters less for practical management—nobody will cultivate crown-of-thorns as fish habitat—than for understanding that reef ecosystems involve complexity that defies simple stories."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "publicationId": "61",
+  "title": "Multiple defender effects: synergistic coral defense by mutualist crustaceans",
+  "authors": "McKeon, C. Seabird; Stier, Adrian C.; McIlroy, Shelby E.; Bolker, Benjamin M.",
+  "year": 2012,
+  "journal": "Oecologia",
+  "doi": "10.1007/s00442-012-2275-2",
+  "doiUrl": "https://doi.org/10.1007/s00442-012-2275-2",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Guard crabs and snapping shrimp defending corals from predators show synergistic effects—their combined protection exceeds what would be expected from their individual effects. This 'multiple defender effect' means corals with diverse mutualist communities receive amplified protection.",
+
+    "keyQuestion": "Do multiple mutualist species defending a coral provide synergistic, additive, or antagonistic effects on coral protection?",
+
+    "approach": "Researchers conducted experiments testing whether guard crabs and snapping shrimp defending corals against crown-of-thorns starfish predators showed emergent effects when defending together.",
+
+    "keyFindings": [
+      "Multiple mutualist species provided synergistic coral defense",
+      "Combined effects exceeded predictions from independent effects",
+      "Both guard crabs and snapping shrimp contributed to coral protection",
+      "The 'multiple defender effect' mirrors multiple predator effects in reverse"
+    ],
+
+    "stickyFact": "When guard crabs and snapping shrimp team up to defend a coral, they're more effective than the sum of their parts—creating a mutualist super-team.",
+
+    "whyItMatters": "Corals often host multiple defender species. Understanding that these mutualists provide synergistic rather than just additive protection reveals that losing mutualist diversity has disproportionate consequences for coral survival.",
+
+    "location": "Moorea, French Polynesia",
+
+    "species": ["Trapezia (guard crab)", "Alpheus (snapping shrimp)", "Pocillopora coral", "Crown-of-thorns starfish"],
+
+    "themes": ["Coral", "Mutualisms"],
+
+    "newsHeadline": "Coral's Crab-and-Shrimp Security Team Works Better Together",
+
+    "essay": "Seabird McKeon, Shelby McIlroy, Ben Bolker, and I investigated whether multiple mutualist species defending corals provide synergistic protection. Guard crabs and snapping shrimp both defend their coral hosts from predators like crown-of-thorns starfish. The question was whether their combined effects exceed, match, or fall short of what their individual effects would predict.\n\nWe designed experiments testing coral defense with crabs alone, shrimp alone, both together, and neither. When crown-of-thorns starfish threatened corals, both mutualists provided protection individually. But the combined effect was synergistic—corals with both defenders lost substantially less tissue than predictions based on independent effects would suggest.\n\nThe synergy suggests complementary defense strategies. Guard crabs patrol outer coral branches, physically confronting predators. Snapping shrimp work from deeper within the coral matrix, their stunning snaps providing a different form of deterrence. Together, they create layered defense that's harder for predators to overcome than either alone.\n\nThis 'multiple defender effect' mirrors the concept of multiple predator effects—where predators hunting together can show emergent effects on prey. We're seeing the reverse: defenders working together show emergent effects on protection. The implication for coral conservation is that mutualist diversity matters. A coral hosting only crabs loses the synergistic benefit that crabs plus shrimp provide. As reef degradation reduces mutualist communities, corals lose disproportionate protection."
+  }
+}

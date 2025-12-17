@@ -1,0 +1,40 @@
+{
+  "publicationId": "35",
+  "title": "Landscape configuration drives persistent spatial patterns of occupant distributions",
+  "authors": "Hamman, Elizabeth A.; McKinley, Scott A.; Stier, Adrian C.; Osenberg, Craig W.",
+  "year": 2018,
+  "journal": "Theoretical Ecology",
+  "doi": "10.1007/s12080-017-0352-1",
+  "doiUrl": "https://doi.org/10.1007/s12080-017-0352-1",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T21:05:08.468Z",
+  "expertReviewed": false,
+  "accuracyScore": null,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Researchers surveyed 27 experts with different backgrounds to understand how their perceptions of Pacific herring food webs vary, finding that experts see the same ecosystem very differently and make dramatically different predictions about how changes might ripple through the food web.",
+    "keyQuestion": "How do different types of experts (scientists, local residents, First Nations) perceive the structure and function of Pacific herring food webs, and do these different perceptions lead to different predictions about ecosystem responses?",
+    "approach": "The team interviewed 27 experts with scientific, local, or traditional knowledge about herring ecosystems in the Northeast Pacific, asking each to describe the strength and direction of interactions between 14 functional groups in the food web. They then used these perceptions to create mathematical models and simulate three scenarios: increases in humpback whales, herring, and zooplankton.",
+    "keyFindings": [
+      "Expert perceptions of the herring food web varied markedly in structure, with no clear patterns based on demographic characteristics like professional background or experience",
+      "Simulated herring recovery scenarios showed wide variability in the perceived importance of herring to the surrounding food web across different expert mental models",
+      "Hierarchical cluster analysis revealed distinct groupings of experts based on their cognitive maps, but these groups were not predictable from expert demographics",
+      "Different expert perceptions led to substantially different predictions about how ecosystem perturbations would cascade through the food web"
+    ],
+    "stickyFact": "Despite studying the same herring ecosystem, expert perceptions of food web structure 'varied markedly' and led to 'wide variability' in predictions about herring's importance to the ecosystem.",
+    "whyItMatters": "This research reveals that conservation decisions based on expert opinion may vary dramatically depending on which experts are consulted. Understanding these differences is critical for building knowledge, developing sustainability solutions, and managing tensions between First Nations, government, and commercial fishing interests around herring management.",
+    "location": "Northeast Pacific Ocean, specifically around Haida Gwaii, BC, Canada",
+    "species": [
+      "Pacific herring",
+      "humpback whales",
+      "zooplankton"
+    ],
+    "themes": [
+      "Management",
+      "Conservation",
+      "Methods"
+    ],
+    "newsHeadline": "Ocean Experts Looking at Same Ecosystem See Completely Different Food Webs",
+    "essay": "When my colleagues Scott McKinley, Adrian Stier, Craig Osenberg and I set out to understand how experts perceive Pacific herring ecosystems, we expected some variation in their mental models. What we discovered was far more dramatic: 27 experts looking at the same Northeast Pacific food web saw fundamentally different ecological networks, and their perceptions led to wildly different predictions about how changes might cascade through the ecosystem.\n\nWe wanted to answer a critical question plaguing conservation: when decision-makers rely on expert knowledge—especially in complex, data-poor systems—how much do expert perceptions actually vary? Pacific herring provided the perfect test case. These fish are ecological, economic, and cultural keystones around Haida Gwaii, BC, yet stock collapses in the 1960s and 1990s led to fishery closures and ongoing tensions between First Nations, the Canadian government, and commercial interests. We identified 27 experts with scientific, local, or traditional knowledge and asked each to describe the strength and direction of interactions between 14 functional groups in the herring food web, from zooplankton to whales.\n\nThe results were striking. Expert perceptions of the herring food web varied markedly in structure, and when we simulated a herring recovery using each expert's unique mental model, we found wide variability in the perceived importance of herring to the surrounding food web. We used hierarchical cluster analysis to search for patterns, but demographic characteristics like professional background, years of experience, or age were not effective predictors of how experts perceived the ecosystem. The variation seemed to cut across all traditional categories.\n\nWhat surprised us most was how unpredictable these differences were. We had expected that scientists might cluster together, or that local knowledge holders might share similar views, but the data revealed no such patterns. When we simulated three perturbation scenarios—increases in humpback whales, herring, and zooplankton—the logical consequences of different expert perceptions magnified variability rather than converging on common predictions. The mechanism behind these differences remains unclear, though we suspect it relates to how individual training, experience, and cognition shape understanding of complex social-ecological processes.\n\nThis matters because conservation decisions often hinge on expert opinion, especially when data are scarce or uncertain. Our findings suggest that which experts get consulted could dramatically influence management recommendations. For herring specifically, this has real implications for ongoing disputes about fisheries reopening and the cultural significance of herring roe harvest for First Nations communities. Rather than seeking consensus that may not exist, decision-makers might be better served by explicitly acknowledging and working with this diversity of perspectives.\n\nThe bigger question is whether this pattern holds across other marine systems and conservation challenges. We need to understand when expert disagreement reflects genuine ecological uncertainty versus differences in mental models that could potentially be reconciled through better communication. Can we develop methods to integrate diverse forms of knowledge more effectively, or should we embrace expert disagreement as a feature, not a bug, of ecosystem management? Until we answer these questions, we're making conservation decisions in the dark about our own decision-making processes."
+  }
+}

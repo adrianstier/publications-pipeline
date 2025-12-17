@@ -1,34 +1,19 @@
 # Dependencies
 node_modules/
 
-# Environment variables
+# Environment
 .env
 .env.local
-.env.*.local
 
-# Progress files (regenerated on each run)
-publications/.news_progress.json
+# PDFs (stored externally)
+publications/Lab Publications/*.pdf
 
 # OS files
 .DS_Store
-Thumbs.db
+
+# Logs
+*.log
 
 # IDE
 .vscode/
 .idea/
-
-# Logs
-*.log
-npm-debug.log*
-
-# Large binary files - PDFs should not be committed
-# (They're stored externally, e.g., Google Drive)
-publications/Lab Publications/*.pdf
-
-# Extracted JSON data (regenerated from PDFs)
-# Uncomment if you want to exclude these from version control:
-# publications/extracted/
-
-# Build outputs
-dist/
-build/

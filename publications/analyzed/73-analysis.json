@@ -1,0 +1,42 @@
+{
+  "publicationId": "73",
+  "title": "Effects of the fish anesthetic, clove oil (eugenol), on coral health and growth",
+  "authors": "Boyer, S.E.; White, J.S.; Stier, A.C.; Osenberg, C.W.",
+  "year": 2009,
+  "journal": "Journal of Experimental Marine Biology and Ecology",
+  "doi": "10.1016/j.jembe.2008.10.020",
+  "doiUrl": "https://doi.org/10.1016/j.jembe.2008.10.020",
+  "openAccess": false,
+  "analyzedAt": "2025-12-16T00:00:00.000Z",
+  "expertReviewed": true,
+  "accuracyScore": 10,
+  "issuesFound": 0,
+  "analysis": {
+    "summary": "Clove oil, commonly used to anesthetize fish during reef research, causes dose-dependent negative effects on corals. Higher concentrations increase bleaching and reduce growth, raising concerns about unintended impacts of routine research techniques.",
+
+    "keyQuestion": "Does clove oil, a common fish anesthetic, harm coral health and growth?",
+
+    "approach": "Researchers experimentally exposed coral species to different concentrations of clove oil, measuring growth rates and bleaching incidence.",
+
+    "keyFindings": [
+      "Clove oil causes dose-dependent negative effects on corals",
+      "Higher concentrations increased coral bleaching",
+      "Coral growth declined with increasing clove oil exposure",
+      "Using ethanol as a solvent amplified harmful effects"
+    ],
+
+    "stickyFact": "The clove oil that researchers use to safely sedate fish can harm the corals those fish live on—a cautionary tale about unintended research impacts.",
+
+    "whyItMatters": "Coral reef research routinely uses anesthetics during fish collection. Understanding that these chemicals affect corals allows researchers to minimize collateral damage during fieldwork.",
+
+    "location": "Moorea, French Polynesia (laboratory study)",
+
+    "species": ["Coral species tested"],
+
+    "themes": ["Coral", "Methods"],
+
+    "newsHeadline": "The Anesthetic That Saves Fish May Harm Their Coral Home",
+
+    "essay": "Sarah Boyer, Jamison White, Craig Osenberg, and I tested whether clove oil—a standard fish anesthetic—affects corals. Clove oil quickly sedates fish and wears off without apparent harm, making it a standard research tool. But we were applying it near corals, and nobody had tested whether the compound affected non-target organisms.\n\nWe exposed corals to a range of clove oil concentrations. The dose-response was clear: higher concentrations caused more bleaching and slower growth. The active ingredient eugenol doesn't discriminate between targets—what sedates fish nervous systems can disrupt coral cellular processes.\n\nUsing ethanol as a solvent made effects worse. Many protocols dissolve clove oil in ethanol to help dispersion, but this amplified the damage.\n\nWe're not arguing researchers should stop using clove oil—it remains among the safer fish anesthetics available. But concentration matters. Using minimum effective doses, applying anesthetic away from coral colonies when possible, and recognizing that field techniques affect non-target organisms can help minimize unintended impacts. For reefs already stressed by warming and acidification, additional stress from research activities represents an irony worth minimizing."
+  }
+}
