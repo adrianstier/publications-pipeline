@@ -1,5 +1,14 @@
 # Publications Pipeline
 
+> **⚠️ DEPRECATED**: This repository has been archived. The pipeline has been migrated to the main [Ocean-recoveries-website](https://github.com/your-username/Ocean-recoveries-website) repository.
+>
+> **For new work, use the Ocean Recoveries website repo instead:**
+> - Scripts: `/scripts/analyze-publication.cjs`, `/scripts/build-posts-from-analysis.cjs`
+> - Data: `/publications/analyzed/`
+> - Documentation: `/docs/NEWS_PIPELINE.md`
+
+---
+
 Turn your lab's scientific papers into accessible news articles for your website.
 
 ## What This Does
